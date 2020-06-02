@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<ogr:FeatureCollection gml:id="aFeatureCollection" xmlns:ogr="http://ogr.maptools.org/" xmlns:gml="http://www.opengis.net/gml/3.2">
+<geo:FeatureCollection gml:id="aFeatureCollection" xmlns:geo="http://ogr.maptools.org/" xmlns:gml="http://www.opengis.net/gml/3.2">
     <gml:boundedBy>
         <gml:Envelope srsName="urn:ogc:def:crs:EPSG::28992">
             <gml:lowerCorner>114258.841 430082.094</gml:lowerCorner>
             <gml:upperCorner>167032.061 479588.289</gml:upperCorner>
         </gml:Envelope>
     </gml:boundedBy>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.0">
-            <ogr:geometryProperty>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.0">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.0">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.0.0">
@@ -20,14 +20,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.1">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.1">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.1">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.1.0">
@@ -39,14 +37,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.2">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.2">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.2">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.2.0">
@@ -58,14 +54,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.3">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.3">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.3">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.3.0">
@@ -77,14 +71,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.4">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.4">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.4">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.4.0">
@@ -339,14 +331,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.5">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.5">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.5">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.5.0">
@@ -507,14 +497,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.6">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.6">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.6">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.6.0">
@@ -540,14 +528,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.7">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.7">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.7">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.7.0">
@@ -559,14 +545,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.8">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.8">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.8">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.8.0">
@@ -578,14 +562,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.9">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.9">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.9">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.9.0">
@@ -602,14 +584,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.10">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.10">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.10">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.10.0">
@@ -621,14 +601,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.11">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.11">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.11">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.11.0">
@@ -640,14 +618,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.12">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.12">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.12">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.12.0">
@@ -695,14 +671,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.13">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.13">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.13">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.13.0">
@@ -714,14 +688,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.14">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.14">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.14">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.14.0">
@@ -733,14 +705,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.15">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.15">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.15">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.15.0">
@@ -752,14 +722,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.16">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.16">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.16">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.16.0">
@@ -789,14 +757,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.17">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.17">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.17">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.17.0">
@@ -808,14 +774,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.18">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.18">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.18">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.18.0">
@@ -827,14 +791,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.19">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.19">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.19">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.19.0">
@@ -846,14 +808,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.20">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.20">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.20">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.20.0">
@@ -865,14 +825,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.21">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.21">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.21">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.21.0">
@@ -974,14 +932,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.22">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.22">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.22">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.22.0">
@@ -1090,14 +1046,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.23">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.23">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.23">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.23.0">
@@ -1109,14 +1063,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.24">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.24">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.24">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.24.0">
@@ -1128,14 +1080,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.25">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.25">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.25">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.25.0">
@@ -1147,14 +1097,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.26">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.26">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.26">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.26.0">
@@ -1171,14 +1119,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.27">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.27">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.27">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.27.0">
@@ -1190,14 +1136,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.28">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.28">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.28">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.28.0">
@@ -1209,14 +1153,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.29">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.29">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.29">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.29.0">
@@ -1228,14 +1170,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.30">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.30">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.30">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.30.0">
@@ -1247,14 +1187,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.31">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.31">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.31">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.31.0">
@@ -1266,14 +1204,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.32">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.32">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.32">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.32.0">
@@ -1285,14 +1221,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.33">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.33">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.33">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.33.0">
@@ -1323,14 +1257,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.34">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.34">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.34">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.34.0">
@@ -1342,14 +1274,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.35">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.35">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.35">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.35.0">
@@ -1370,14 +1300,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.36">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.36">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.36">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.36.0">
@@ -1394,14 +1322,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.37">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.37">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.37">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.37.0">
@@ -1413,14 +1339,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.38">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.38">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.38">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.38.0">
@@ -1432,14 +1356,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.39">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.39">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.39">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.39.0">
@@ -1451,14 +1373,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.40">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.40">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.40">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.40.0">
@@ -1470,14 +1390,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.41">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.41">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.41">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.41.0">
@@ -1489,14 +1407,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.42">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.42">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.42">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.42.0">
@@ -1517,14 +1433,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.43">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.43">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.43">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.43.0">
@@ -1536,14 +1450,12 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.44">
-            <ogr:geometryProperty>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+    <geo:featureMember>
+        <geo:regionale_kering_temp gml:id="regionale_kering_temp.44">
+            <geo:geometryProperty>
                 <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.44">
                     <gml:surfaceMember>
                         <gml:Polygon gml:id="regionale_kering_temp.geom.44.0">
@@ -1555,28 +1467,7 @@
                         </gml:Polygon>
                     </gml:surfaceMember>
                 </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-    <ogr:featureMember>
-        <ogr:regionale_kering_temp gml:id="regionale_kering_temp.45">
-            <ogr:geometryProperty>
-                <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" gml:id="regionale_kering_temp.geom.45">
-                    <gml:surfaceMember>
-                        <gml:Polygon gml:id="regionale_kering_temp.geom.45.0">
-                            <gml:exterior>
-                                <gml:LinearRing>
-                                    <gml:posList>135034.096 445186.244 135029.102 445186.003 135028.858 445191.056 135025.921 445251.875 135025.951 445252.715 135026.122 445253.538 135026.427 445254.321 135026.86 445255.042 135027.408 445255.68 135028.054 445256.217 135028.782 445256.638 135065.684 445274.046 135069.95 445265.002 135036.07 445249.02 135039.09 445186.485 135034.096 445186.244</gml:posList>
-                                </gml:LinearRing>
-                            </gml:exterior>
-                        </gml:Polygon>
-                    </gml:surfaceMember>
-                </gml:MultiSurface>
-            </ogr:geometryProperty>
-            <ogr:id>1</ogr:id>
-            <ogr:fid>1</ogr:fid>
-        </ogr:regionale_kering_temp>
-    </ogr:featureMember>
-</ogr:FeatureCollection>
+            </geo:geometryProperty>
+        </geo:regionale_kering_temp>
+    </geo:featureMember>
+</geo:FeatureCollection>
