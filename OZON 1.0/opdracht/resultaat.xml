@@ -4968,6 +4968,103 @@
                      <Inhoud>
                         <Begrippenlijst eId="cmp_1__content_o_1__list_o_1"
                                         wId="pv26_1__cmp_1__content_o_1__list_o_1">
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_12"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_12">
+                              <Term>Aardkundige waarden</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_12__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_12__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_012/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_012/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_29"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_29">
+                              <Term>Agrarische cultuurlandschappen</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_29__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_29__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_029/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_029/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>                           
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_30"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_30">
+                              <Term>Archeologisch waardevolle zones</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_30__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_30__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_030/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_030/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_23"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_23">
+                              <Term>Beperken bodembewerking</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_23__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_23__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_023/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_023/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_16"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_16">
+                              <Term>Beschermingszone drinkwaterwinning</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_16__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_16__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_016/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_016/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_24"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_24">
+                              <Term>Bodemdaling landelijk gebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_24__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_24__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_024/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_024/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_25"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_25">
+                              <Term>Bodemdaling stedelijk gebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_25__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_25__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_025/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_025/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_35"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_35">
+                              <Term>Bovenlokaal dagrecreatieterrein</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_35__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_35__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_035/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_035/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_14"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_14">
+                              <Term>Duurzaam gebruik van de ondergrond</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_14__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_14__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_014/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_014/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
                            <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_1"
                                    wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_1">
                               <Term>Eemland</Term>
@@ -4979,7 +5076,17 @@
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_2"
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_33"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_33">
+                              <Term>Experimenteerruimte</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_33__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_33__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_033/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_033/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_2"
                                    wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_2">
                               <Term>Gelderse Vallei</Term>
                               <Definitie>
@@ -4987,6 +5094,28 @@
                                     <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_2__ref_o_1"
                                               wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_2__ref_o_1"
                                               ref="/join/id/regdata/pv26/2020/gio_002/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_002/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_8"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_8">
+                              <Term>Geluidscontour 61 dB Len</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_008/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_008/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_7"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_7">
+                              <Term>Gezonde en veilige leefomgeving</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_007/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_007/nld@2020-01-01</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -5001,6 +5130,149 @@
                                  </Al>
                               </Definitie>
                            </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_15"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_15">
+                              <Term>Grondwaterlichamen</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_15__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_15__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_015/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_015/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_31"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_31">
+                              <Term>Historische buitenplaatszones</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_31__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_31__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_031/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_031/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_32"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_32">
+                              <Term>Historische infrastructuur</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_32__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_32__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_032/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_032/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_5"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_5">
+                              <Term>Hollandse waterlinies</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_005/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_005/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_26"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_26">
+                              <Term>Kernrandzone</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_26__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_26__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_026/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_026/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_18"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_18">
+                              <Term>Klimaatadaptatie</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_18__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_18__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_018/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_018/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_28"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_28">
+                              <Term>Militair erfgoed</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_28__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_28__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_028/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_028/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_6"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_6">
+                              <Term>Neder-Germaanse Limes</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_006/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_006/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_20"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_20">
+                              <Term>Overstroombaar gebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_20__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_20__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_020/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_020/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_10"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_10">
+                              <Term>Recreatietoervaartnet</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_10__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_10__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_010/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_010/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_11"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_11">
+                              <Term>Recreatiewoningen</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_11__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_11__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_011/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_011/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_27"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_27">
+                              <Term>Recreatiezone</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_27__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_27__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_027/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_027/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_21"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_21">
+                              <Term>Regionale keringen</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_21__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_21__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_021/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_021/nld@2020-01-01</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
                            <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_4"
                                    wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_4">
                               <Term>Rivierengebied</Term>
@@ -5009,94 +5281,6 @@
                                     <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_4__ref_o_1"
                                               wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_4__ref_o_1"
                                               ref="/join/id/regdata/pv26/2020/gio_004/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_004/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_5"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_5">
-                              <Term>Hollandse waterlinies</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_005/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_005/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_6"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_6">
-                              <Term>Neder-Germaanse Limes</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_006/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_006/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_7"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_7">
-                              <Term>Gezonde en veilige leefomgeving</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_007/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_007/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_8"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_8">
-                              <Term>Geluidscontour 61 dB Len</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_008/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_008/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_9"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_9">
-                              <Term>Stiltegebieden</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_9__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_9__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_009/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_009/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_10"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_10">
-                              <Term>Recreatietoervaartnet</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_10__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_10__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_010/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_010/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_11"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_11">
-                              <Term>Recreatiewoningen</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_11__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_11__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_011/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_011/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_12"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_12">
-                              <Term>Aardkundige waarden</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_12__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_12__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_012/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_012/nld@2020-01-01</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -5111,36 +5295,35 @@
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_14"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_14">
-                              <Term>Duurzaam gebruik van de ondergrond</Term>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_9"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_9">
+                              <Term>Stiltegebieden</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_14__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_14__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_014/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_014/nld@2020-01-01</ExtIoRef>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_009/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_009/nld@2020-01-01</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_15"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_15">
-                              <Term>Grondwaterlichamen</Term>
+                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_34"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_34">
+                              <Term>Utrechtse Heuvelrug</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_15__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_15__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_015/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_015/nld@2020-01-01</ExtIoRef>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_34__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_34__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_034/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_034/nld@2020-01-01</ExtIoRef>
                                  </Al>
                               </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_16"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_16">
-                              <Term>Beschermingszone drinkwaterwinning</Term>
+                           </Begrip>                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_19"
+                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_19">
+                              <Term>Waterbergingsgebied</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_16__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_16__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_016/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_016/nld@2020-01-01</ExtIoRef>
+                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_19__ref_o_1"
+                                       wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_19__ref_o_1"
+                                       ref="/join/id/regdata/pv26/2020/gio_019/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_019/nld@2020-01-01</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -5155,50 +5338,6 @@
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_18"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_18">
-                              <Term>Klimaatadaptatie</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_18__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_18__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_018/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_018/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_19"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_19">
-                              <Term>Waterbergingsgebied</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_19__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_19__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_019/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_019/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_20"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_20">
-                              <Term>Overstroombaar gebied</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_20__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_20__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_020/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_020/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_21"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_21">
-                              <Term>Regionale keringen</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_21__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_21__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_021/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_021/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
                            <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_22"
                                    wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_22">
                               <Term>Zwemwater</Term>
@@ -5207,149 +5346,6 @@
                                     <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_22__ref_o_1"
                                               wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_22__ref_o_1"
                                               ref="/join/id/regdata/pv26/2020/gio_022/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_022/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_23"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_23">
-                              <Term>Beperken bodembewerking</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_23__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_23__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_023/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_023/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_24"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_24">
-                              <Term>Bodemdaling landelijk gebied</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_24__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_24__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_024/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_024/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_25"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_25">
-                              <Term>Bodemdaling stedelijk gebied</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_25__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_25__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_025/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_025/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_26"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_26">
-                              <Term>Kernrandzone</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_26__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_26__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_026/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_026/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_27"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_27">
-                              <Term>Recreatiezone</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_27__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_27__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_027/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_027/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_28"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_28">
-                              <Term>Militair erfgoed</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_28__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_28__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_028/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_028/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_29"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_29">
-                              <Term>Agrarische cultuurlandschappen</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_29__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_29__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_029/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_029/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_30"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_30">
-                              <Term>Archeologisch waardevolle zones</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_30__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_30__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_030/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_030/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_31"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_31">
-                              <Term>Historische buitenplaatszones</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_31__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_31__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_031/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_031/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_32"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_32">
-                              <Term>Historische infrastructuur</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_32__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_32__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_032/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_032/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_33"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_33">
-                              <Term>Experimenteerruimte</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_33__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_33__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_033/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_033/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_34"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_34">
-                              <Term>Utrechtse Heuvelrug</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_34__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_34__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_034/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_034/nld@2020-01-01</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_1__content_o_1__list_o_1__item_o_35"
-                                   wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_35">
-                              <Term>Bovenlokaal dagrecreatieterrein</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_1__content_o_1__list_o_1__item_o_35__ref_o_1"
-                                              wId="pv26_1__cmp_1__content_o_1__list_o_1__item_o_35__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_035/nld@2020-01-01">/join/id/regdata/pv26/2020/gio_035/nld@2020-01-01</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>

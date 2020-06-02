@@ -149,7 +149,7 @@
                <!--Let op: waarde "recreatiegebied" ontbreekt in waardelijst "RuimtelijkGebruikgroep"-->
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000010"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.2019000010"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -203,7 +203,7 @@
                <ga:naam>duurzaam gebruik van de ondergrond</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000014"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000007"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -216,7 +216,7 @@
                <ga:naam>grondwaterlichamen</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Grondwaterdeelgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000015"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.2019000015"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -257,7 +257,7 @@
                <ga:naam>klimaatadaptatie</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000018"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000007"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -296,7 +296,7 @@
                <ga:naam>regionale kering</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/WaterkeringRegionaal</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000021"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.2019000021"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -361,7 +361,7 @@
                <ga:naam>kernrandzone</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/LandelijkGebiedStedelijkUitloopgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000026"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.2019000026"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -403,7 +403,7 @@
                <!--Let op: waarde "cultuurhistorie" ontbreekt in waardelijst "Erfgoedgroep"-->
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000029"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.2019000029"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
