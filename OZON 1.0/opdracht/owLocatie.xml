@@ -124,11 +124,516 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-pv26.gebiedengroep.2019000010</l:identificatie>
+               <l:noemer>Regionale kering</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001001"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001002"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001003"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001004"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001005"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001006"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001007"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001008"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001009"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001010"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001011"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001012"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001013"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001014"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001015"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001016"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001017"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001018"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001019"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001020"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001021"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001022"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001023"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001024"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001025"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001026"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001027"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001028"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001029"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001030"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001031"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001032"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001033"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001034"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001035"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001036"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001037"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001038"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001039"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001040"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001041"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001042"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001043"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001044"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001045"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001046"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <l:Gebied>
-               <l:identificatie>nl.imow-pv26.gebied.2019000010</l:identificatie>
-               <l:noemer>Recreatietoervaartnet</l:noemer>
-               <l:geometrie><!-- In het kader van de GIO-discussie is hier het geo:id genomen dat op de hele featurecollection zou moeten staan -->
-                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee"/>
+               <l:identificatie>nl.imow-pv26.gebied.201900001001</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-1"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001002</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-2"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001003</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-3"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001004</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-4"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001005</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-5"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001006</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-6"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001007</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-7"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001008</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-8"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001009</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-9"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001010</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-10"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001011</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-11"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001012</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-12"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001013</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-13"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001014</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-14"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001015</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-15"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001016</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-16"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001017</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-17"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001018</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-18"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001019</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-19"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001020</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-20"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001021</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-21"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001022</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-22"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001023</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-23"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001024</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-24"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001025</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-25"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001026</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-26"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001027</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-27"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001028</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-28"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001029</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-29"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001030</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-30"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001031</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-31"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001032</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-32"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001033</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-33"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001034</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-34"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001035</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-35"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001036</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-36"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001037</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-37"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001038</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-38"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001039</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-39"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001040</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-40"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001041</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-41"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001042</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-42"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001043</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-43"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001044</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-44"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001045</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-45"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001046</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="aab10b24-00b0-4ed4-9c82-883416187cee-46"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -168,11 +673,25 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-pv26.gebiedengroep.2019000015</l:identificatie>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001501"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001502"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001503"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001504"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900001505"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>      
+      <sl:stand>
+         <ow-dc:owObject>
             <l:Gebied>
-               <l:identificatie>nl.imow-pv26.gebied.2019000014</l:identificatie>
-               <l:noemer>Duurzaam gebruik van de ondergrond</l:noemer>
+               <l:identificatie>nl.imow-pv26.gebied.201900001501</l:identificatie>
+               <l:noemer>Grondwaterlichamen</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="ad3d7967-ed41-4e49-8e50-4c8604098ae0"/>
+                  <l:GeometrieRef xlink:href="8dd9718f-e13c-44a2-8a51-c6a463bc5f52-1"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -180,10 +699,43 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
-               <l:identificatie>nl.imow-pv26.gebied.2019000015</l:identificatie>
+               <l:identificatie>nl.imow-pv26.gebied.201900001502</l:identificatie>
                <l:noemer>Grondwaterlichamen</l:noemer>
-               <l:geometrie><!-- In het kader van de GIO-discussie is hier het geo:id genomen dat op de hele featurecollection zou moeten staan -->
-                  <l:GeometrieRef xlink:href="8dd9718f-e13c-44a2-8a51-c6a463bc5f52"/>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="8dd9718f-e13c-44a2-8a51-c6a463bc5f52-2"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001503</l:identificatie>
+               <l:noemer>Grondwaterlichamen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="8dd9718f-e13c-44a2-8a51-c6a463bc5f52-3"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001504</l:identificatie>
+               <l:noemer>Grondwaterlichamen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="8dd9718f-e13c-44a2-8a51-c6a463bc5f52-4"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900001505</l:identificatie>
+               <l:noemer>Grondwaterlichamen</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="8dd9718f-e13c-44a2-8a51-c6a463bc5f52-5"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -213,17 +765,6 @@
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
-               <l:identificatie>nl.imow-pv26.gebied.2019000018</l:identificatie>
-               <l:noemer>Klimaatadaptatie</l:noemer>
-               <l:geometrie>
-                  <l:GeometrieRef xlink:href="ad3d7967-ed41-4e49-8e50-4c8604098ae0"/>
-               </l:geometrie>
-            </l:Gebied>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <l:Gebied>
                <l:identificatie>nl.imow-pv26.gebied.2019000019</l:identificatie>
                <l:noemer>Waterbergingsgebied</l:noemer>
                <l:geometrie>
@@ -245,11 +786,505 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <l:Gebied>
-               <l:identificatie>nl.imow-pv26.gebied.2019000021</l:identificatie>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-pv26.gebiedengroep.2019000021</l:identificatie>
                <l:noemer>Regionale kering</l:noemer>
-               <l:geometrie><!-- In het kader van de GIO-discussie is hier het geo:id genomen dat op de hele featurecollection zou moeten staan -->
-                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061"/>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002101"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002102"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002103"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002104"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002105"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002106"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002107"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002108"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002109"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002110"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002111"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002112"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002113"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002114"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002115"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002116"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002117"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002118"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002119"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002120"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002121"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002122"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002123"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002124"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002125"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002126"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002127"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002128"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002129"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002130"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002131"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002132"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002133"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002134"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002135"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002136"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002137"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002138"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002139"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002140"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002141"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002142"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002143"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002144"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002145"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002101</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-1"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002102</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-2"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002103</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-3"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002104</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-4"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002105</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-5"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002106</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-6"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002107</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-7"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002108</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-8"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002109</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-9"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002110</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-10"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002111</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-11"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002112</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-12"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002113</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-13"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002114</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-14"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002115</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-15"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002116</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-16"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002117</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-17"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002118</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-18"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002119</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-19"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002120</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-20"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002121</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-21"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002122</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-22"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002123</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-23"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002124</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-24"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002125</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-25"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002126</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-26"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002127</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-27"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002128</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-28"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002129</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-29"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002130</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-30"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002131</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-31"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002132</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-32"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002133</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-33"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002134</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-34"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002135</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-35"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002136</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-36"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002137</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-37"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002138</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-38"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002139</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-39"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002140</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-40"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002141</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-41"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002142</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-42"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002143</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-43"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002144</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-44"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002145</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="a8d5fba4-243b-414f-b1a3-1da49ee6d061-45"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -300,11 +1335,703 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-pv26.gebiedengroep.2019000026</l:identificatie>
+               <l:noemer>Regionale kering</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002601"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002602"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002603"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002604"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002605"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002606"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002607"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002608"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002609"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002610"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002611"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002612"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002613"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002614"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002615"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002616"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002617"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002618"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002619"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002620"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002621"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002622"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002623"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002624"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002625"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002626"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002627"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002628"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002629"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002630"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002631"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002632"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002633"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002634"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002635"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002636"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002637"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002638"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002639"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002640"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002641"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002642"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002643"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002644"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002645"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002646"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002647"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002648"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002649"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002650"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002651"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002652"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002653"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002654"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002655"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002656"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002657"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002658"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002659"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002660"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002661"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002662"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002663"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <l:Gebied>
-               <l:identificatie>nl.imow-pv26.gebied.2019000026</l:identificatie>
-               <l:noemer>Kernrandzone</l:noemer>
-               <l:geometrie><!-- In het kader van de GIO-discussie is hier het geo:id genomen dat op de hele featurecollection zou moeten staan -->
-                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e"/>
+               <l:identificatie>nl.imow-pv26.gebied.201900002601</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-1"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002602</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-2"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002603</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-3"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002604</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-4"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002605</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-5"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002606</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-6"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002607</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-7"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002608</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-8"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002609</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-9"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002610</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-10"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002611</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-11"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002612</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-12"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002613</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-13"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002614</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-14"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002615</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-15"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002616</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-16"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002617</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-17"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002618</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-18"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002619</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-19"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002620</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-20"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002621</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-21"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002622</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-22"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002623</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-23"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002624</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-24"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002625</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-25"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002626</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-26"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002627</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-27"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002628</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-28"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002629</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-29"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002630</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-30"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002631</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-31"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002632</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-32"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002633</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-33"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002634</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-34"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002635</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-35"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002636</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-36"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002637</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-37"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002638</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-38"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002639</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-39"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002640</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-40"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002641</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-41"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002642</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-42"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002643</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-43"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002644</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-44"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002645</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-45"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002646</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-46"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002647</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-47"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002648</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-48"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002649</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-49"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002650</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-50"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002651</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-51"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002652</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-52"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002653</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-53"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002654</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-54"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002655</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-55"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002656</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-56"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002657</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-57"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002658</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-58"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002659</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-59"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002660</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-60"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002661</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-61"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002662</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-62"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002663</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b6e0d095-5ea3-4013-8a1e-2cd2218b539e-63"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -333,11 +2060,98 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <l:Gebied>
-               <l:identificatie>nl.imow-pv26.gebied.2019000029</l:identificatie>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-pv26.gebiedengroep.2019000029</l:identificatie>
                <l:noemer>Agrarische cultuurlandschappen</l:noemer>
-               <l:geometrie><!-- In het kader van de GIO-discussie is hier het geo:id genomen dat op de hele featurecollection zou moeten staan -->
-                  <l:GeometrieRef xlink:href="068bdc71-4fa8-4091-80f7-37a4d77b440d"/>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002901"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002902"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002903"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002904"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002905"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002906"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002907"/>
+                  <l:GebiedRef xlink:href="nl.imow-pv26.gebied.201900002908"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002901</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="068bdc71-4fa8-4091-80f7-37a4d77b440d-1"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002902</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="068bdc71-4fa8-4091-80f7-37a4d77b440d-2"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002903</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="068bdc71-4fa8-4091-80f7-37a4d77b440d-3"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002904</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="068bdc71-4fa8-4091-80f7-37a4d77b440d-4"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002905</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="068bdc71-4fa8-4091-80f7-37a4d77b440d-5"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002906</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="068bdc71-4fa8-4091-80f7-37a4d77b440d-6"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002907</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="068bdc71-4fa8-4091-80f7-37a4d77b440d-7"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.201900002908</l:identificatie>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="068bdc71-4fa8-4091-80f7-37a4d77b440d-8"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
