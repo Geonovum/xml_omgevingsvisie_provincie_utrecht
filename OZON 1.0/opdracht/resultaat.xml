@@ -58,18 +58,16 @@
             <informatieobjectRef>/join/id/regdata/pv26/2020/gio_035/nld@2020-01-01</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
-      <Procedure xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <Procedureverloop>
-            <bekendOp>2019-12-11</bekendOp>
-            <ontvangenOp>2019-12-11</ontvangenOp>
-            <procedurestappen>
-               <Procedurestap>
-                  <soortStap>/join/id/stop/procedure/stap_002</soortStap>
-                  <voltooidOp>2019-12-11</voltooidOp>
-               </Procedurestap>
-            </procedurestappen>
-         </Procedureverloop>
-      </Procedure>
+      <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bekendOp>2019-12-11</bekendOp>
+         <ontvangenOp>2019-12-11</ontvangenOp>
+         <procedurestappen>
+            <Procedurestap>
+               <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+               <voltooidOp>2019-12-11</voltooidOp>
+            </Procedurestap>
+         </procedurestappen>
+      </Procedureverloop>
       <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <BeoogdeRegelgeving>
             <BeoogdeRegeling>
