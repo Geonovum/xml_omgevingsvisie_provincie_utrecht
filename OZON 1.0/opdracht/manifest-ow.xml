@@ -25,6 +25,10 @@
          <objecttype>Gebied</objecttype>
       </Bestand>
       <Bestand>
+         <naam>owRegelingsgebied.xml</naam>
+         <objecttype>Regelingsgebied</objecttype>
+      </Bestand>
+      <Bestand>
          <naam>aardkundige_waarden.gml</naam>
          <objecttype>Geometrie</objecttype>
       </Bestand>

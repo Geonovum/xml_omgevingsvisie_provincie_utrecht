@@ -2222,5 +2222,16 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.2019000036</l:identificatie>
+               <l:noemer>Provincie Utrecht</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="26a4435b-e96f-46eb-93e5-ea89f5a1250e"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
    </sl:standBestand>
 </ow-dc:owBestand>
