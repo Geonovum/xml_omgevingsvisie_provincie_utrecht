@@ -120,7 +120,7 @@
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Geluid</ga:type>
                <ga:naam>Geluidscontour 61 dB Len</ga:naam>
                <!--Let op: waarde "contour" ontbreekt in waardelijst "Geluidgroep"-->
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/geluid/id/concept/AandachtsgebiedGeluid</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000008"/>
                </ga:locatieaanduiding>
@@ -147,7 +147,7 @@
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
                <ga:naam>recreatietoervaartnet</ga:naam>
                <!--Let op: waarde "recreatiegebied" ontbreekt in waardelijst "RuimtelijkGebruikgroep"-->
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.2019000010"/>
                </ga:locatieaanduiding>
@@ -161,7 +161,7 @@
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
                <ga:naam>recreatiewoningen</ga:naam>
                <!--Let op: waarde "recreatiegebied" ontbreekt in waardelijst "RuimtelijkGebruikgroep"-->
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000011"/>
                </ga:locatieaanduiding>
@@ -175,7 +175,7 @@
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Landschap</ga:type>
                <ga:naam>aardkundige waarden</ga:naam>
                <!--Let op: waarde "aardkundige waarden" ontbreekt in waardelijst "Landschapgroep"-->
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/landschap/id/concept/SpecifiekBenoemdLandschap</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000012"/>
                </ga:locatieaanduiding>
@@ -228,7 +228,7 @@
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
                <ga:naam>beschermingszone drinkwaterwinning</ga:naam>
                <!--Let op: waarde "grondwater" ontbreekt in waardelijst "WaterEnWatersysteemgroep"-->
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Grondwaterbeschermingsgebied</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000016"/>
                </ga:locatieaanduiding>
@@ -242,7 +242,7 @@
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/WaterEnWatersysteem</ga:type>
                <ga:naam>zoekgebied drinkwater</ga:naam>
                <!--Let op: waarde "grondwater" ontbreekt in waardelijst "WaterEnWatersysteemgroep"-->
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Waterwingebied</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000017"/>
                </ga:locatieaanduiding>
@@ -373,7 +373,7 @@
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
                <ga:naam>recreatiezone</ga:naam>
                <!--Let op: waarde "recreatiegebied" ontbreekt in waardelijst "RuimtelijkGebruikgroep"-->
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000027"/>
                </ga:locatieaanduiding>
@@ -387,7 +387,7 @@
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Erfgoed</ga:type>
                <ga:naam>militair erfgoed</ga:naam>
                <!--Let op: waarde "cultuurhistorie" ontbreekt in waardelijst "Erfgoedgroep"-->
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/erfgoed/id/concept/CultuurhistorischWaardevolGebied</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000028"/>
                </ga:locatieaanduiding>
@@ -401,7 +401,7 @@
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Erfgoed</ga:type>
                <ga:naam>agrarische cultuurlandschappen</ga:naam>
                <!--Let op: waarde "cultuurhistorie" ontbreekt in waardelijst "Erfgoedgroep"-->
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/erfgoed/id/concept/CultuurhistorischWaardevolGebied</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.2019000029"/>
                </ga:locatieaanduiding>
@@ -441,7 +441,7 @@
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Erfgoed</ga:type>
                <ga:naam>historische infrastructuur</ga:naam>
                <!--Let op: waarde "cultuurhistorie" ontbreekt in waardelijst "Erfgoedgroep"-->
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/erfgoed/id/concept/CultuurhistorischWaardevolGebied</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000032"/>
                </ga:locatieaanduiding>
@@ -455,7 +455,7 @@
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
                <ga:naam>Experimenteerruimte</ga:naam>
                <!--Let op: waarde "receatiegebied" ontbreekt in waardelijst "RuimtelijkGebruikgroep"-->
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000033"/>
                </ga:locatieaanduiding>
@@ -469,7 +469,7 @@
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/Landschap</ga:type>
                <ga:naam>utrechtse heuvelrug</ga:naam>
                <!--Let op: waarde "specifiek benoemd gebied" ontbreekt in waardelijst "Landschapgroep"-->
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/landschap/id/concept/SpecifiekBenoemdLandschap</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000034"/>
                </ga:locatieaanduiding>
@@ -482,8 +482,8 @@
                <ga:identificatie>nl.imow-pv26.gebiedsaanwijzing.2019000035</ga:identificatie>
                <ga:type>http://standaarden.omgevingswet.overheid.nl/typegebiedsaanwijzing/id/concept/RuimtelijkGebruik</ga:type>
                <ga:naam>bovenlokaal dagrecreatieterrein</ga:naam>
-               <!--Let op: waarde "receatiegebied" ontbreekt in waardelijst "RuimtelijkGebruikgroep"-->
-               <ga:groep>http://standaarden.omgevingswet.overheid.nl/onbekend</ga:groep>
+               <!--Let op: waarde "recreatiegebied" ontbreekt in waardelijst "RuimtelijkGebruikgroep"-->
+               <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.2019000035"/>
                </ga:locatieaanduiding>

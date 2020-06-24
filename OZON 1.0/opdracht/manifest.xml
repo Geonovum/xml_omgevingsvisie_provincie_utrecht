@@ -143,10 +143,6 @@
       <lvbb:contentType>application/gml+xml</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
-      <lvbb:bestandsnaam>gehele_provincie.gml</lvbb:bestandsnaam>
-      <lvbb:contentType>application/gml+xml</lvbb:contentType>
-   </lvbb:bestand>
-   <lvbb:bestand>
       <lvbb:bestandsnaam>gelderse_vallei.gml</lvbb:bestandsnaam>
       <lvbb:contentType>application/gml+xml</lvbb:contentType>
    </lvbb:bestand>
@@ -192,6 +188,10 @@
    </lvbb:bestand>
    <lvbb:bestand>
       <lvbb:bestandsnaam>overstroombaar_gebied.gml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/gml+xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>provincie_utrecht.gml</lvbb:bestandsnaam>
       <lvbb:contentType>application/gml+xml</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>

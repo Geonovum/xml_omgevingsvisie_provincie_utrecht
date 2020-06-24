@@ -88,13 +88,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <vt:Divisie wId="pv26_1__div_o_1__div_2__div_2.2__div_o_7">
-               <vt:identificatie>nl.imow-pv26.divisie.2019000012</vt:identificatie>
-            </vt:Divisie>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <vt:Divisie wId="pv26_1__div_o_1__div_3__div_3.3__div_o_1">
                <vt:identificatie>nl.imow-pv26.divisie.2019000014</vt:identificatie>
             </vt:Divisie>
@@ -723,7 +716,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20190000012</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <vt:divisieaanduiding>
-                  <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.2019000012"/>
+                  <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.2019000006"/>
                </vt:divisieaanduiding>
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.2019000007"/>

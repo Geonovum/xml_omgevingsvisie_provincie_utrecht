@@ -5,7 +5,7 @@
    <domein>omgevingswet</domein>
    <Aanlevering>
       <WorkIDRegeling>/akn/nl/act/pv26/2019/OVPU-20191211</WorkIDRegeling>
-      <DoelID>/join/id/proces/pv26/2019/Instelling</DoelID>
+      <DoelID>/join/id/proces/pv26/2020/Instelling</DoelID>
       <Bestand>
          <naam>owHoofdlijn.xml</naam>
          <objecttype>Hoofdlijn</objecttype>
@@ -16,7 +16,7 @@
       </Bestand>
       <Bestand>
          <naam>owVrijetekst.xml</naam>
-         <objecttype>FormeleDivisie</objecttype>
+         <objecttype>Divisie</objecttype>
          <objecttype>Tekstdeel</objecttype>
       </Bestand>
       <Bestand>

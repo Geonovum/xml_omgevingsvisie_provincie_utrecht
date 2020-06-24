@@ -5364,7 +5364,7 @@
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <soortRegeling>geen</soortRegeling>
+         <soortRegeling>/join/id/stop/regelingtype_006</soortRegeling>
          <versienummer>1</versienummer>
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
