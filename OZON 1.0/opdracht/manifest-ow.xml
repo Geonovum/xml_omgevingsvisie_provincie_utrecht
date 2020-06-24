@@ -69,10 +69,6 @@
          <objecttype>Geometrie</objecttype>
       </Bestand>
       <Bestand>
-         <naam>gehele_provincie.gml</naam>
-         <objecttype>Geometrie</objecttype>
-      </Bestand>
-      <Bestand>
          <naam>gelderse_vallei.gml</naam>
          <objecttype>Geometrie</objecttype>
       </Bestand>
@@ -118,6 +114,10 @@
       </Bestand>
       <Bestand>
          <naam>overstroombaar_gebied.gml</naam>
+         <objecttype>Geometrie</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>provincie_utrecht.gml</naam>
          <objecttype>Geometrie</objecttype>
       </Bestand>
       <Bestand>
