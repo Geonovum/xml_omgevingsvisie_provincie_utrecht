@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringGIO xmlns="https://standaarden.overheid.nl/lvbb/stop/"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:gml="http://www.opengis.net/gml/3.2"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                schemaversie="0.98.3-kern"
+                xsi:schemaLocation="http://www.overheid.nl/imop/def# ../lvbb/LVBB-stop.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/pv26/2020/gio_075</FRBRWork>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_075/nld@2020-07-20</FRBRExpression>
+         <soortWork>/join/id/stop/work_007</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv26</maker>
+         <noemer>stedelijk gebied</noemer>
+         <officieleTitel>/join/id/regdata/pv26/2020/gio_075/nld@2020-07-20</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         <!-- Koppeling naar het gml-bestand -->
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Stedelijk_gebied.gml</bestandsnaam>
+                  <hash>3c5b7d507e8851e39ef5b42637de2b62fb7a7374b1509b5a994291efcf8fa33a4a4f0e59a53756c9fb5b0129e9f93a512c7970c622a9dedfc290d3ab8fe28816</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+      <featureMember xmlns="https://standaarden.overheid.nl/stop/imop/geo/">
+         <Locatie gml:id="stedelijk_gebied">
+            <wId>stedelijk_gebied</wId>
+            <naam>stedelijk gebied</naam>
+            <geometrie xlink:href="Stedelijk_gebied.gml#id-541b2eb8-03a7-4a86-8e83-c3215179603a"/>
+         </Locatie>
+      </featureMember>
+      <Achtergrond xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bronactualiteit>2020-01-01</bronactualiteit>
+         <bronbeschrijving>top10nl</bronbeschrijving>
+         <brontype>achtergrond</brontype>
+         <nauwkeurigheid>10</nauwkeurigheid>
+      </Achtergrond>
+   </InformatieObjectVersie>
+</AanleveringGIO>

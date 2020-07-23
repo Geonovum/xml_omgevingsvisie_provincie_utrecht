@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringGIO xmlns="https://standaarden.overheid.nl/lvbb/stop/"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:gml="http://www.opengis.net/gml/3.2"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                schemaversie="0.98.3-kern"
+                xsi:schemaLocation="http://www.overheid.nl/imop/def# ../lvbb/LVBB-stop.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/pv26/2020/gio_045</FRBRWork>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_045/nld@2020-07-20</FRBRExpression>
+         <soortWork>/join/id/stop/work_007</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv26</maker>
+         <noemer>landschap Gelderse Vallei</noemer>
+         <officieleTitel>/join/id/regdata/pv26/2020/gio_045/nld@2020-07-20</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         <!-- Koppeling naar het gml-bestand -->
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Landschap_Gelderse_Vallei.gml</bestandsnaam>
+                  <hash>8a417ec7dfa8303fc128d33cdbf4e7c9d5423172807edc373bb0ed5b5f40e07c55e115cf48f024820cbb53a4db983a47e1cc37b446eb9b82e18d8bef93dbd0ef</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+      <featureMember xmlns="https://standaarden.overheid.nl/stop/imop/geo/">
+         <Locatie gml:id="landschap_gelderse_vallei">
+            <wId>landschap_gelderse_vallei</wId>
+            <naam>landschap Gelderse Vallei</naam>
+            <geometrie xlink:href="Landschap_Gelderse_Vallei.gml#id-6fc0e744-ec73-496c-a50a-249db9593126"/>
+         </Locatie>
+      </featureMember>
+      <Achtergrond xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bronactualiteit>2020-01-01</bronactualiteit>
+         <bronbeschrijving>top10nl</bronbeschrijving>
+         <brontype>achtergrond</brontype>
+         <nauwkeurigheid>10</nauwkeurigheid>
+      </Achtergrond>
+   </InformatieObjectVersie>
+</AanleveringGIO>

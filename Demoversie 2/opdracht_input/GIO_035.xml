@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringGIO xmlns="https://standaarden.overheid.nl/lvbb/stop/"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:gml="http://www.opengis.net/gml/3.2"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                schemaversie="0.98.3-kern"
+                xsi:schemaLocation="http://www.overheid.nl/imop/def# ../lvbb/LVBB-stop.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/pv26/2020/gio_035</FRBRWork>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_035/nld@2020-07-20</FRBRExpression>
+         <soortWork>/join/id/stop/work_007</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv26</maker>
+         <noemer>houtopstanden</noemer>
+         <officieleTitel>/join/id/regdata/pv26/2020/gio_035/nld@2020-07-20</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         <!-- Koppeling naar het gml-bestand -->
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Houtopstanden.gml</bestandsnaam>
+                  <hash>52761ef310ae1a99481bf6dc97f23ea2c0bacebd0ebe7fb6c6096bb7a0b7f590ef47b6550e7fbde2158469ee459fbcc9a4ec52ac2c873bda885c49616dbc9265</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+      <featureMember xmlns="https://standaarden.overheid.nl/stop/imop/geo/">
+         <Locatie gml:id="houtopstanden">
+            <wId>houtopstanden</wId>
+            <naam>houtopstanden</naam>
+            <geometrie xlink:href="Houtopstanden.gml#id-b9371c32-f1a7-4759-9f3d-d0627b41539a"/>
+         </Locatie>
+      </featureMember>
+      <Achtergrond xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bronactualiteit>2020-01-01</bronactualiteit>
+         <bronbeschrijving>top10nl</bronbeschrijving>
+         <brontype>achtergrond</brontype>
+         <nauwkeurigheid>10</nauwkeurigheid>
+      </Achtergrond>
+   </InformatieObjectVersie>
+</AanleveringGIO>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringGIO xmlns="https://standaarden.overheid.nl/lvbb/stop/"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:gml="http://www.opengis.net/gml/3.2"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                schemaversie="0.98.3-kern"
+                xsi:schemaLocation="http://www.overheid.nl/imop/def# ../lvbb/LVBB-stop.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/pv26/2020/gio_053</FRBRWork>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_053/nld@2020-07-20</FRBRExpression>
+         <soortWork>/join/id/stop/work_007</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv26</maker>
+         <noemer>natura 2000-gebieden</noemer>
+         <officieleTitel>/join/id/regdata/pv26/2020/gio_053/nld@2020-07-20</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         <!-- Koppeling naar het gml-bestand -->
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>Natura_2000_gebieden.gml</bestandsnaam>
+                  <hash>601ccdca820306671deac09c4c01839f78150607711720777c9abbb6198b64e9eeb3b37fac50af03f96bc48ef7a3250c7b729e93482d7ef75128c838426dc1cd</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+      <featureMember xmlns="https://standaarden.overheid.nl/stop/imop/geo/">
+         <Locatie gml:id="natura_2000_gebieden">
+            <wId>natura_2000_gebieden</wId>
+            <naam>natura 2000-gebieden</naam>
+            <geometrie xlink:href="Natura_2000_gebieden.gml#id-04310d54-be9b-4c12-88d6-adb8b17f6011"/>
+         </Locatie>
+      </featureMember>
+      <Achtergrond xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bronactualiteit>2020-01-01</bronactualiteit>
+         <bronbeschrijving>top10nl</bronbeschrijving>
+         <brontype>achtergrond</brontype>
+         <nauwkeurigheid>10</nauwkeurigheid>
+      </Achtergrond>
+   </InformatieObjectVersie>
+</AanleveringGIO>

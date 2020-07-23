@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringGIO xmlns="https://standaarden.overheid.nl/lvbb/stop/"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:gml="http://www.opengis.net/gml/3.2"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                schemaversie="0.98.3-kern"
+                xsi:schemaLocation="http://www.overheid.nl/imop/def# ../lvbb/LVBB-stop.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/pv26/2020/gio_055</FRBRWork>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_055/nld@2020-07-20</FRBRExpression>
+         <soortWork>/join/id/stop/work_007</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv26</maker>
+         <noemer>ontwikkeling nieuwe knooppunten</noemer>
+         <officieleTitel>/join/id/regdata/pv26/2020/gio_055/nld@2020-07-20</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         <!-- Koppeling naar het gml-bestand -->
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>ontwikkeling_nieuw_knooppunt.gml</bestandsnaam>
+                  <hash>253eaf580e07a5d73b2873f426a2383597703df4a7f80c44327bef818fe3c9782492e92c18aca3d2d81cb29e84a90b389c878eeb396eebaa031c851614ed80ed</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+      <featureMember xmlns="https://standaarden.overheid.nl/stop/imop/geo/">
+         <Locatie gml:id="ontwikkeling_nieuw_knooppunt">
+            <wId>ontwikkeling_nieuw_knooppunt</wId>
+            <naam>ontwikkeling nieuwe knooppunten</naam>
+            <geometrie xlink:href="ontwikkeling_nieuw_knooppunt.gml#id-acf8574b-e113-4dd3-8eeb-318ae9d041bd"/>
+         </Locatie>
+      </featureMember>
+      <Achtergrond xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bronactualiteit>2020-01-01</bronactualiteit>
+         <bronbeschrijving>top10nl</bronbeschrijving>
+         <brontype>achtergrond</brontype>
+         <nauwkeurigheid>10</nauwkeurigheid>
+      </Achtergrond>
+   </InformatieObjectVersie>
+</AanleveringGIO>

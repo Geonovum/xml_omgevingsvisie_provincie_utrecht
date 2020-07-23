@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringGIO xmlns="https://standaarden.overheid.nl/lvbb/stop/"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:gml="http://www.opengis.net/gml/3.2"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                schemaversie="0.98.3-kern"
+                xsi:schemaLocation="http://www.overheid.nl/imop/def# ../lvbb/LVBB-stop.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/pv26/2020/gio_083</FRBRWork>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_083/nld@2020-07-20</FRBRExpression>
+         <soortWork>/join/id/stop/work_007</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv26</maker>
+         <noemer>zoekrichting voor grootschalige integrale ontwikkeling wonen-werken-bereikbaarheid</noemer>
+         <officieleTitel>/join/id/regdata/pv26/2020/gio_083/nld@2020-07-20</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         <!-- Koppeling naar het gml-bestand -->
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>zoekrichting_grootschalige_integrale_ontwikkeling_wonenwerkenbereikbaarheid.gml</bestandsnaam>
+                  <hash>4b6070cc961d587c1c6d9cc5af3d517eb25e8e49d18fb3a2e28bfed2a4111e9de87832b37a5cd77f59b3d0510580752860077ac80eeea549920a72490e57c71b</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+      <featureMember xmlns="https://standaarden.overheid.nl/stop/imop/geo/">
+         <Locatie gml:id="zoekrichting_grootschalige_integrale_ontwikkeling_wonenwerkenbereikbaarheid">
+            <wId>zoekrichting_grootschalige_integrale_ontwikkeling_wonenwerkenbereikbaarheid</wId>
+            <naam>zoekrichting voor grootschalige integrale ontwikkeling wonen-werken-bereikbaarheid</naam>
+            <geometrie xlink:href="zoekrichting_grootschalige_integrale_ontwikkeling_wonenwerkenbereikbaarheid.gml#id-8e256cc6-63f0-4362-9d78-b71bda3739bc"/>
+         </Locatie>
+      </featureMember>
+      <Achtergrond xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bronactualiteit>2020-01-01</bronactualiteit>
+         <bronbeschrijving>top10nl</bronbeschrijving>
+         <brontype>achtergrond</brontype>
+         <nauwkeurigheid>10</nauwkeurigheid>
+      </Achtergrond>
+   </InformatieObjectVersie>
+</AanleveringGIO>

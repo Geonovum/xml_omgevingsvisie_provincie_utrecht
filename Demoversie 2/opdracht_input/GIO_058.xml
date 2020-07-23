@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringGIO xmlns="https://standaarden.overheid.nl/lvbb/stop/"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:gml="http://www.opengis.net/gml/3.2"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                schemaversie="0.98.3-kern"
+                xsi:schemaLocation="http://www.overheid.nl/imop/def# ../lvbb/LVBB-stop.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/pv26/2020/gio_058</FRBRWork>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_058/nld@2020-07-20</FRBRExpression>
+         <soortWork>/join/id/stop/work_007</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv26</maker>
+         <noemer>potentiële locatie voor integrale ontwikkeling wonen en werken rond knooppunten</noemer>
+         <officieleTitel>/join/id/regdata/pv26/2020/gio_058/nld@2020-07-20</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         <!-- Koppeling naar het gml-bestand -->
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>potentiele_locatie_voor_integrale_ontwikkeling_wonenwerken_rondom_knooppunt.gml</bestandsnaam>
+                  <hash>fee04e8f3888f89a4edfc8a4b02c74b1ee2b88abd553c8e667a3e92568ddb00870ade1a38bbec928a1e9ddf1ab89065598c41db41b5092eb9f3a606e350446a2</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+      <featureMember xmlns="https://standaarden.overheid.nl/stop/imop/geo/">
+         <Locatie gml:id="potentiele_locatie_voor_integrale_ontwikkeling_wonenwerken_rondom_knooppunt">
+            <wId>potentiele_locatie_voor_integrale_ontwikkeling_wonenwerken_rondom_knooppunt</wId>
+            <naam>potentiële locatie voor integrale ontwikkeling wonen en werken rond knooppunten</naam>
+            <geometrie xlink:href="potentiele_locatie_voor_integrale_ontwikkeling_wonenwerken_rondom_knooppunt.gml#id-a658001f-79ad-4e84-b543-5cbcd0119b3d"/>
+         </Locatie>
+      </featureMember>
+      <Achtergrond xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bronactualiteit>2020-01-01</bronactualiteit>
+         <bronbeschrijving>top10nl</bronbeschrijving>
+         <brontype>achtergrond</brontype>
+         <nauwkeurigheid>10</nauwkeurigheid>
+      </Achtergrond>
+   </InformatieObjectVersie>
+</AanleveringGIO>

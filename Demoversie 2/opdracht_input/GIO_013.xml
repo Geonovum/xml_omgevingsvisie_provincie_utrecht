@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringGIO xmlns="https://standaarden.overheid.nl/lvbb/stop/"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:gml="http://www.opengis.net/gml/3.2"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                schemaversie="0.98.3-kern"
+                xsi:schemaLocation="http://www.overheid.nl/imop/def# ../lvbb/LVBB-stop.xsd">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/pv26/2020/gio_013</FRBRWork>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_013/nld@2020-07-20</FRBRExpression>
+         <soortWork>/join/id/stop/work_007</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
+         <maker>/tooi/id/provincie/pv26</maker>
+         <noemer>beter benutten van het spoor- en hoogwaardig OV-netwerk</noemer>
+         <officieleTitel>/join/id/regdata/pv26/2020/gio_013/nld@2020-07-20</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         <!-- Koppeling naar het gml-bestand -->
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>beter_benutten_spoor_en_hoogwaardig_OVnetwerk.gml</bestandsnaam>
+                  <hash>ae072ab0753ed2cea777e230d76c05ec5874c370de8deb2f9fa4ee5fd2db2292594289607dfe0f9d5d6983b9cdd462b5b426444e3b7a4afe0439ac4807670d06</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+      <featureMember xmlns="https://standaarden.overheid.nl/stop/imop/geo/">
+         <Locatie gml:id="beter_benutten_spoor_en_hoogwaardig_ovnetwerk">
+            <wId>beter_benutten_spoor_en_hoogwaardig_ovnetwerk</wId>
+            <naam>beter benutten van het spoor- en hoogwaardig OV-netwerk</naam>
+            <geometrie xlink:href="beter_benutten_spoor_en_hoogwaardig_OVnetwerk.gml#id-295844c6-6f6b-4934-a546-e9b3e899bea8"/>
+         </Locatie>
+      </featureMember>
+      <Achtergrond xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <bronactualiteit>2020-01-01</bronactualiteit>
+         <bronbeschrijving>top10nl</bronbeschrijving>
+         <brontype>achtergrond</brontype>
+         <nauwkeurigheid>10</nauwkeurigheid>
+      </Achtergrond>
+   </InformatieObjectVersie>
+</AanleveringGIO>
