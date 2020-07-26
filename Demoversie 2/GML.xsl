@@ -39,9 +39,9 @@
     
     <!-- Pad naar het setje bestanden van de opdracht -->
     <xsl:param name="bron_folder"
-        select="'file:///F:/DSO/Geonovum/GitHub/xml_omgevingsvisie_provincie_utrecht_0.98.3-kern/Demoversie 2/opdracht'"/>
+        select="'file:///C:/Users/RicharddeGraaf/Desktop/Geonovum/4 - Voorbeeldbestanden/GITHub/xml_omgevingsvisie_provincie_utrecht_1.0/Demoversie 2/opdracht_input'"/>
     <xsl:param name="doel_folder"
-        select="'file:///F:/DSO/Geonovum/GitHub/xml_omgevingsvisie_provincie_utrecht_1.0/Demoversie 2/opdracht_output'"/>
+        select="'file:///C:/Users/RicharddeGraaf/Desktop/Geonovum/4 - Voorbeeldbestanden/GITHub/xml_omgevingsvisie_provincie_utrecht_1.0/Demoversie 2/opdracht_output'"/>
     
     <xsl:param name="GMLbestanden" select="collection(concat($bron_folder, '?select=*.gml;recurse=yes'))"/>
     <xsl:param name="XMLbestanden" select="collection(concat($bron_folder, '?select=*.xml;recurse=yes'))"/>
