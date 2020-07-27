@@ -765,15 +765,15 @@
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Omgevingsvisie Provincie Utrecht</Al>
                </RegelingOpschrift>
-               <Aanhef eId="formula_1" wId="formula_1">
-                  <Al>Ontwerp</Al>
-                  <Al>Besluit Gedeputeerde Staten, 17 maart 2020</Al>
-               </Aanhef>
                <Lichaam eId="body" wId="body">
                   <Divisie eId="div_o_1" wId="pv26_2__div_o_1">
                      <Kop>
                         <Opschrift>[extra opschrift]</Opschrift>
                      </Kop>
+                     <InleidendeTekst wId="formula_1" eId="formula_1">
+                        <Al>Ontwerp</Al>
+                        <Al>Besluit Gedeputeerde Staten, 17 maart 2020</Al>
+                     </InleidendeTekst>
                      <Divisie eId="div_o_1__div_o_1" wId="pv26_2__div_o_1__div_o_1">
                         <Kop>
                            <Opschrift>Colofon</Opschrift>
