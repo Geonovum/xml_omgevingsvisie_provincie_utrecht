@@ -3,7 +3,7 @@
                     schemaversie="1.0.3">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/bill/pv26/2020/OVPU0001</FRBRWork>
+         <FRBRWork>/akn/nl/bill/pv26/2020/OVIPU001</FRBRWork>
          <FRBRExpression>/akn/nl/bill/pv26/2020/OVIPU001/nld@2020-05-12;2</FRBRExpression>
          <soortWork>/join/id/stop/work_003</soortWork>
       </ExpressionIdentificatie>
@@ -132,7 +132,7 @@
                   <doel>/join/id/proces/pv26/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/pv26/2020/OVIPU001/nld@2020-05-12;2</instrumentVersie>
-               <eId/>
+               <eId>art_II</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
@@ -868,7 +868,7 @@
                            </Inhoud>
                         </Divisietekst>
                      </Divisie>
-                     <Divisie eId="div_o_1__div_1" wId="pv26_2__div_o_1__div_1">
+                     <Divisie eId="div_o_1__div_1" wId="pv26_2__div_o_1__div_1"> <!--Inleiding-->
                         <Kop>
                            <Nummer>1.</Nummer>
                            <Opschrift>Inleiding</Opschrift>
@@ -1045,6 +1045,9 @@
                         </Divisie>
                         <Divisietekst eId="div_o_1__div_1__content_o_2"
                                       wId="pv26_2__div_o_1__div_1__content_o_2">
+                           <Kop>
+                              <Opschrift/>
+                           </Kop>
                            <Inhoud>
                               <Figuur eId="div_o_1__div_1__content_o_2__img_o_1"
                                       wId="pv26_2__div_o_1__div_1__content_o_2__img_o_1">
@@ -1059,7 +1062,7 @@
                            </Inhoud>
                         </Divisietekst>
                      </Divisie>
-                     <Divisie eId="div_o_1__div_2" wId="pv26_2__div_o_1__div_2">
+                     <Divisie eId="div_o_1__div_2" wId="pv26_2__div_o_1__div_2"> <!--Visie-->
                         <Kop>
                            <Nummer>2.</Nummer>
                            <Opschrift>Visie</Opschrift>
@@ -1569,6 +1572,9 @@
                         </Divisie>
                         <Divisietekst eId="div_o_1__div_2__content_o_2"
                                       wId="pv26_2__div_o_1__div_2__content_o_2">
+                           <Kop>
+                              <Opschrift/>
+                           </Kop>
                            <Inhoud>
                               <Kadertekst xmlns:eigen="https://www.eigen.nl/"
                                           eId="div_o_1__div_2__content_o_2__recital_o_1"
@@ -1612,7 +1618,7 @@
                            </Inhoud>
                         </Divisietekst>
                      </Divisie>
-                     <Divisie eId="div_o_1__div_3" wId="pv26_2__div_o_1__div_3">
+                     <Divisie eId="div_o_1__div_3" wId="pv26_2__div_o_1__div_3"> <!--Basis-->
                         <Kop>
                            <Nummer>3.</Nummer>
                            <Opschrift>Basis</Opschrift>
@@ -2271,7 +2277,7 @@
                            </Divisietekst>
                         </Divisie>
                      </Divisie>
-                     <Divisie eId="div_o_1__div_4" wId="pv26_2__div_o_1__div_4">
+                     <Divisie eId="div_o_1__div_4" wId="pv26_2__div_o_1__div_4"> <!--Beleid voor een gezonde en veilige leefomgeving-->
                         <Kop>
                            <Nummer>4.</Nummer>
                            <Opschrift>Beleid voor een gezonde en veilige leefomgeving</Opschrift>
@@ -2558,6 +2564,9 @@
                               </Divisie>
                               <Divisietekst eId="div_o_1__div_4__div_4.1__div_4.1.1__content_o_1"
                                             wId="pv26_2__div_o_1__div_4__div_4.1__div_4.1.1__content_o_1">
+                                 <Kop>
+                                    <Opschrift></Opschrift>
+                                 </Kop>
                                  <Inhoud>
                                     <Figuur eId="div_o_1__div_4__div_4.1__div_4.1.1__content_o_1__img_o_1"
                                             wId="pv26_2__div_o_1__div_4__div_4.1__div_4.1.1__content_o_1__img_o_1">
@@ -3094,6 +3103,9 @@
                               </Divisie>
                               <Divisietekst eId="div_o_1__div_4__div_4.2__div_4.2.1__content_o_1"
                                             wId="pv26_2__div_o_1__div_4__div_4.2__div_4.2.1__content_o_1">
+                                 <Kop>
+                                    <Opschrift></Opschrift>
+                                 </Kop>
                                  <Inhoud>
                                     <Figuur eId="div_o_1__div_4__div_4.2__div_4.2.1__content_o_1__img_o_1"
                                             wId="pv26_2__div_o_1__div_4__div_4.2__div_4.2.1__content_o_1__img_o_1">
@@ -6428,7 +6440,7 @@
                            </Divisie>
                         </Divisie>
                      </Divisie>
-                     <Divisie eId="div_o_1__div_5" wId="pv26_2__div_o_1__div_5">
+                     <Divisie eId="div_o_1__div_5" wId="pv26_2__div_o_1__div_5"> <!--Gebieden-->
                         <Kop>
                            <Nummer>5.</Nummer>
                            <Opschrift>Gebieden</Opschrift>
@@ -6872,6 +6884,9 @@
                            </Divisie>
                            <Divisietekst eId="div_o_1__div_5__div_5.1__content_o_2"
                                          wId="pv26_2__div_o_1__div_5__div_5.1__content_o_2">
+                              <Kop>
+                                 <Opschrift></Opschrift>
+                              </Kop>
                               <Inhoud>
                                  <Figuur eId="div_o_1__div_5__div_5.1__content_o_2__img_o_1"
                                          wId="pv26_2__div_o_1__div_5__div_5.1__content_o_2__img_o_1">
@@ -7125,6 +7140,9 @@
                         </Divisie>
                         <Divisietekst eId="div_o_1__div_5__content_o_2"
                                       wId="pv26_2__div_o_1__div_5__content_o_2">
+                           <Kop>
+                              <Opschrift></Opschrift>
+                           </Kop>
                            <Inhoud>
                               <Figuur eId="div_o_1__div_5__content_o_2__img_o_1"
                                       wId="pv26_2__div_o_1__div_5__content_o_2__img_o_1">
@@ -7159,7 +7177,7 @@
                            </Inhoud>
                         </Divisietekst>
                      </Divisie>
-                     <Divisie eId="div_o_1__div_6" wId="pv26_2__div_o_1__div_6">
+                     <Divisie eId="div_o_1__div_6" wId="pv26_2__div_o_1__div_6"> <!--Uitvoering-->
                         <Kop>
                            <Nummer>6.</Nummer>
                            <Opschrift>Uitvoering</Opschrift>
@@ -8015,6 +8033,9 @@
                         </Kop>
                         <Divisietekst eId="div_o_1__div_1_inst2__content_o_1"
                                       wId="pv26_2__div_o_1__div_1_inst2__content_o_1">
+                           <Kop>
+                              <Opschrift></Opschrift>
+                           </Kop>
                            <Inhoud>
                               <table xmlns:eigen="https://www.eigen.nl/"
                                      eId="div_o_1__div_1_inst2__content_o_1__table_o_1"
@@ -10675,7 +10696,7 @@
    </BesluitVersie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/pv26/2020/OVPU0001</FRBRWork>
+         <FRBRWork>/akn/nl/act/pv26/2020/OVIPU001</FRBRWork>
          <FRBRExpression>/akn/nl/act/pv26/2020/OVIPU001/nld@2020-05-12;2</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>

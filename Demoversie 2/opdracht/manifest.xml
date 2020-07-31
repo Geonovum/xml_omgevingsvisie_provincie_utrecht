@@ -1021,4 +1021,24 @@
       <lvbb:bestandsnaam>GIO_084.xml</lvbb:bestandsnaam>
       <lvbb:contentType>application/xml</lvbb:contentType>
    </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>owDivisiesEnTekstdelen.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>owGebiedsaanwijzing.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>owHoofdlijn.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>owLocaties.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
+      <lvbb:bestandsnaam>owRegelingsgebied.xml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/xml</lvbb:contentType>
+   </lvbb:bestand>
 </lvbb:manifest>
