@@ -22,7 +22,7 @@
                   <basisgeo:Geometrie gml:id="id-id-250d3c23-8a7d-4b58-aedf-ac961d684292-xx">
                      <basisgeo:id>id-250d3c23-8a7d-4b58-aedf-ac961d684292</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-250d3c23-8a7d-4b58-aedf-ac961d684292-0">
+                        <gml:MultiSurface gml:id="id-250d3c23-8a7d-4b58-aedf-ac961d684292-0" srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Surface>
                                  <gml:patches>
