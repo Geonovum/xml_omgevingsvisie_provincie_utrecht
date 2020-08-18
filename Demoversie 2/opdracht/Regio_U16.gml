@@ -19,8 +19,8 @@
          <geo:locaties>
             <geo:Locatie>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-id-1f3ea773-ceff-43a6-bb52-0192738b88cd-xx">
-                     <basisgeo:id>id-1f3ea773-ceff-43a6-bb52-0192738b88cd</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-1f3ea773-ceff-43a6-bb52-0192738b88cd-xx">
+                     <basisgeo:id>1f3ea773-ceff-43a6-bb52-0192738b88cd</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface gml:id="id-1f3ea773-ceff-43a6-bb52-0192738b88cd-0" srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
