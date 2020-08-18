@@ -5,7 +5,7 @@
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_076</FRBRWork>
          <FRBRExpression>/join/id/regdata/pv26/2020/gio_076/nld@2020-07-20</FRBRExpression>
-         <soortWork>/join/id/stop/work_007</soortWork>
+         <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <heeftGeboorteregeling>/akn/nl/act/pv26/2020/OVPU0001</heeftGeboorteregeling>
