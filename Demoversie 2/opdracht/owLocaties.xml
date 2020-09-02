@@ -18,7 +18,6 @@
          <sl:leveringsId>OVIUtrecht_001</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Gebied</sl:objectType>
-            <sl:objectType>Gebiedengroep</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
 <!--          <sl:stand>
