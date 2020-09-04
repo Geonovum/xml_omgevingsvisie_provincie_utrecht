@@ -8,12 +8,12 @@
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/pv26/2020/OVIPU001RGL</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/pv26/2020/OVIPU001</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>experimenteerruimte.gml</bestandsnaam>
-                  <hash>9a8fe0742c3b461814c677358ee85754106e6f0178bc703673e8a2258e9d242b1e5a220a7391e0c2728bd2db7bce30ac44746eb13cf6ec2761e5f67279a210eb</hash>
+                  <hash>a763b7e4deeb5c7d284e33fa5e5aed53dc428ed211ee246a454bf72685a17f6083a6d0c90b613d9ef8edeb80c23595fb05bd2ea78c8f43423657766f62d7337c</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
