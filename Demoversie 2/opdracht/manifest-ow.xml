@@ -15,6 +15,10 @@
       <objecttype>Hoofdlijn</objecttype>
     </Bestand>
     <Bestand>
+      <naam>owLocaties.xml</naam>
+      <objecttype>Gebied</objecttype>
+    </Bestand>
+    <Bestand>
       <naam>owRegelingsgebied.xml</naam>
       <objecttype>Regelingsgebied</objecttype>
     </Bestand>
