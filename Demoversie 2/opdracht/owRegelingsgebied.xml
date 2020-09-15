@@ -20,7 +20,7 @@
          <ow-dc:owObject>
             <!--Met het Regelingsgebied geef je het gebied aan waar de regeling van toepassing is (in dit geval Omgevingsvisie Utrecht)-->
             <rg:Regelingsgebied>
-               <rg:identificatie>nl.imow-pv26.regelingsgebied.2020000001</rg:identificatie>
+               <rg:identificatie>nl.imow-pv26.regelingsgebied.2020000002</rg:identificatie>
                <rg:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebied.plangebiedovi"/> 
                </rg:locatieaanduiding>
