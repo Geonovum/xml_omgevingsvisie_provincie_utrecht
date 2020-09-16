@@ -24,9 +24,11 @@
                <vt:identificatie>nl.imow-pv26.hoofdlijn.20200000001</vt:identificatie>
                <vt:soort>Milieu-en-gezondheidsdoelen</vt:soort>
                <vt:naam>Bevorderen van een gezonde en veilige leefomgeving</vt:naam>
+               <!--
                <vt:gerelateerdeHoofdlijn>
                   <vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.20200000012"/>
                </vt:gerelateerdeHoofdlijn>
+               -->
             </vt:Hoofdlijn>
          </ow-dc:owObject>
       </sl:stand>
