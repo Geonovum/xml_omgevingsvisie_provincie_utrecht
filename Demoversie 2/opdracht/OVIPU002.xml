@@ -10,10 +10,10 @@
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
-         <officieleTitel>Concept Omgevingsvisie Provincie Utrecht</officieleTitel>
+         <officieleTitel>Omgevingsvisie provincie Utrecht</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
-               <citeertitel>Concept Omgevingsvisie Provincie Utrecht</citeertitel>
+               <citeertitel>Omgevingsvisie provincie Utrecht</citeertitel>
                <isOfficieel>true</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
@@ -740,33 +740,31 @@
       </ConsolidatieInformatie>
       <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
          <RegelingOpschrift eId="longTitle" wId="longTitle">
-            <Al>[regelingopschrift van het besluit]</Al>
+            <Al>Besluit Omgevingsvisie provincie Utrecht</Al>
          </RegelingOpschrift>
          <Aanhef eId="formula_1" wId="formula_1">
-            <Al>[optionele aanhef]</Al>
+            <Al>Dit is een proefversie van de omgevingsvisie provincie Utrecht voor het testen van een omgevingsvisie in de omgevingswetketen. Aan deze omgevingsvisie kunnen inhoudelijk geen rechten worden ontleend.</Al>
          </Aanhef>
          <Lichaam eId="body" wId="body">
             <WijzigArtikel eId="art_I" wId="pv26_2__art_I">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
-                  <Opschrift>[optioneel opschrift]</Opschrift>
                </Kop>
-               <Wat>[omschrijving wat er besloten wordt, met een verwijzing naar het <IntRef ref="cmp_I">WijzigBesluit</IntRef>]</Wat>
+               <Wat>Over de ontwerp Omgevingsvisie provincie Utrecht zoals weergegeven in <IntRef ref="cmp_I">Bijlage A</IntRef> is op 17 maart 2020 een besluit genomen door Gedeputeerde Staten van de provincie Utrecht.</Wat>
             </WijzigArtikel>
             <Artikel eId="art_II" wId="pv26_2__art_II">
                <Kop>
                   <Label>Artikel</Label>
                   <Nummer>II</Nummer>
-                  <Opschrift>[optioneel opschrift]</Opschrift>
                </Kop>
                <Inhoud>
-                  <Al>[artikel dat de inwerkingtreding vaststelt]</Al>
+                  <Al>Deze omgevingsvisie treedt niet in deze vorm in werking.</Al>
                </Inhoud>
             </Artikel>
          </Lichaam>
          <Sluiting eId="formula_2" wId="formula_2">
-            <Al>[sluiting]</Al>
+            <Al>Namens de provincie Utrecht getekend door P.Roef</Al>
          </Sluiting>
          <WijzigBijlage eId="cmp_I" wId="pv26_2__cmp_I">
             <Kop>
@@ -777,7 +775,7 @@
             <RegelingVrijetekst componentnaam="initieel_reg"
                                 wordt="/akn/nl/act/pv26/2020/OVIPU001/nld@2020-05-12;2">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
-                  <Al>Omgevingsvisie Provincie Utrecht</Al>
+                  <Al>Omgevingsvisie provincie Utrecht</Al>
                </RegelingOpschrift>
                <Lichaam eId="body" wId="body">
                   <Divisie eId="div_o_1" wId="pv26_2__div_o_1">
@@ -11359,15 +11357,15 @@
          <soortRegeling>/join/id/stop/regelingtype_006</soortRegeling>
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
-         <officieleTitel>Concept Omgevingsvisie Provincie Utrecht</officieleTitel>
+         <officieleTitel>Omgevingsvisie provincie Utrecht</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
-               <citeertitel>Concept Omgevingsvisie Provincie Utrecht</citeertitel>
+               <citeertitel>Omgevingsvisie provincie Utrecht</citeertitel>
                <isOfficieel>true</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
          <alternatieveTitels>
-            <alternatieveTitel>Concept Omgevingsvisie Provincie Utrecht</alternatieveTitel>
+            <alternatieveTitel>Omgevingsvisie provincie Utrecht</alternatieveTitel>
          </alternatieveTitels>
          <overheidsdomeinen>
             <overheidsdomein>/tooi/def/concept/c_bed49b60</overheidsdomein>
