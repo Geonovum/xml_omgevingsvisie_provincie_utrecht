@@ -770,7 +770,6 @@
             <Kop>
                <Label>Bijlage</Label>
                <Nummer>I</Nummer>
-               <Opschrift>[optioneel opschrift]</Opschrift>
             </Kop>
             <RegelingVrijetekst componentnaam="initieel_reg"
                                 wordt="/akn/nl/act/pv26/2020/OVIPU001/nld@2020-05-12;2">
@@ -780,12 +779,8 @@
                <Lichaam eId="body" wId="body">
                   <Divisie eId="div_o_1" wId="pv26_2__div_o_1">
                      <Kop>
-                        <Opschrift>[extra opschrift]</Opschrift>
+                        <Opschrift>Ontwerpbesluit Gedeputeerde Staten, 17 maart 2020</Opschrift>
                      </Kop>
-                     <InleidendeTekst wId="pv26_2__div_o_1__intro" eId="div_o_1__intro">
-                        <Al>Ontwerp</Al>
-                        <Al>Besluit Gedeputeerde Staten, 17 maart 2020</Al>
-                     </InleidendeTekst>
                      <Divisie eId="div_o_1__div_o_1" wId="pv26_2__div_o_1__div_o_1">
                         <Kop>
                            <Opschrift>Colofon</Opschrift>
