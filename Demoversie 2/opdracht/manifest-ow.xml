@@ -15,7 +15,8 @@
       <objecttype>Hoofdlijn</objecttype>
     </Bestand>
     <Bestand>
-      <naam>owLocaties.xml</naam>
+      <naam>owLocatie.xml</naam>
+      <objecttype>Gebiedengroep</objecttype>
       <objecttype>Gebied</objecttype>
     </Bestand>
     <Bestand>
@@ -23,7 +24,7 @@
       <objecttype>Regelingsgebied</objecttype>
     </Bestand>
     <Bestand>
-      <naam>owDivisiesEnTekstdelen.xml</naam>
+      <naam>owDivisie.xml</naam>
       <objecttype>Divisie</objecttype>
       <objecttype>Tekstdeel</objecttype>
     </Bestand>
