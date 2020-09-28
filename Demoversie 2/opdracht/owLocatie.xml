@@ -22,6 +22,17 @@
       </sl:inhoud>
       <sl:stand>
          <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-pv26.gebied.plangebiedovi</l:identificatie>
+               <l:noemer>Provincie Utrecht</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="0d1c3003-9b2a-4090-8b06-65f811dce585"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <l:Gebiedengroep>
                <l:identificatie>nl.imow-pv26.gebiedengroep.20200001</l:identificatie>
                <l:noemer>aandachtsgebied bodemdaling – landelijk</l:noemer>
