@@ -584,14 +584,12 @@
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200027"/>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200037"/>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200015"/>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200028"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200023"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200022"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200028"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200008"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200023"/>
                </vt:gebiedsaanwijzing>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -899,10 +897,8 @@
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200019"/>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200019"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200017"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200017"/>
                </vt:gebiedsaanwijzing>
             </vt:Tekstdeel>
@@ -1105,12 +1101,10 @@
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200071"/>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200071"/>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200057"/>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200003"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200051"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200051"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200042"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200003"/>
@@ -1471,21 +1465,11 @@
                </vt:hoofdlijnaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200061"/>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200061"/>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200061"/>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200061"/>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200039"/>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200061"/>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200061"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200046"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200046"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200046"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200046"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200029"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200046"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200046"/>
                </vt:gebiedsaanwijzing>
             </vt:Tekstdeel>
          </ow-dc:owObject>
@@ -1810,12 +1794,8 @@
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200075"/>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200039"/>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200075"/>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200039"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200055"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200029"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200055"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200029"/>
                </vt:gebiedsaanwijzing>
@@ -1848,12 +1828,10 @@
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200061"/>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200039"/>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200039"/>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200059"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200046"/>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200029"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200029"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200043"/>
                </vt:gebiedsaanwijzing>
@@ -2709,10 +2687,8 @@
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200027"/>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200027"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200022"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200022"/>
                </vt:gebiedsaanwijzing>
             </vt:Tekstdeel>
@@ -2799,7 +2775,6 @@
                </vt:divisieaanduiding>
                <vt:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200083"/>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200083"/>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200049"/>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200013"/>
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200011"/>
@@ -2810,7 +2785,6 @@
                   <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200034"/>
                </vt:locatieaanduiding>
                <vt:gebiedsaanwijzing>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200078"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200078"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200067"/>
                   <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200064"/>
