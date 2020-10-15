@@ -4,8 +4,8 @@
                                      xmlns:gml="http://www.opengis.net/gml/3.2"
                                      xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                                      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                                     xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ ../stop/imop-geo.xsd"
-                                     schemaversie="1.0.3">
+                                     xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.0.4-rc/imop-geo.xsd"
+                                     schemaversie="1.0.4-rc">
    <geo:context>
       <gio:GeografischeContext>
          <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
@@ -22,7 +22,9 @@
                   <basisgeo:Geometrie gml:id="id-0881cc21-9067-437a-8f90-83dcd46e514f-xx">
                      <basisgeo:id>0881cc21-9067-437a-8f90-83dcd46e514f</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992" srsDimension="2" gml:id="id-0881cc21-9067-437a-8f90-83dcd46e514f-0">
+                        <gml:MultiSurface srsName="urn:ogc:def:crs:EPSG::28992"
+                                          srsDimension="2"
+                                          gml:id="id-0881cc21-9067-437a-8f90-83dcd46e514f-0">
                            <gml:surfaceMember>
                               <gml:Polygon gml:id="id-0881cc21-9067-437a-8f90-83dcd46e514f-0-0">
                                  <gml:exterior>
