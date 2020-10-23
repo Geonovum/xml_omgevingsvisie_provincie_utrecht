@@ -15,9 +15,7 @@
          <maker>/tooi/id/provincie/pv26</maker>
          <!--soortBestuursorgaan is 'gedeputeerde staten'.-->
          <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
-         <officieleTitel>
-            Besluit Omgevingsvisie provincie Utrecht
-         </officieleTitel>
+         <officieleTitel>Besluit Omgevingsvisie provincie Utrecht</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
                <citeertitel>Omgevingsvisie provincie Utrecht</citeertitel>
@@ -291,7 +289,7 @@
             <BeoogdeRegeling>
                <doel>/akn/ontology/event/nl/pv26/sync/Instelling</doel>
                <instrumentVersie>/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20</instrumentVersie>
-               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_21</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_21__ref_o_1</eId>
             </BeoogdeRegeling>
             -->
             <BeoogdInformatieobject>
@@ -572,7 +570,7 @@
                   <doel>/join/id/proces/pv26/2020/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/gio_061/nld@2020-07-20</instrumentVersie>
-               <eId><!--Er zijn meer elementen ExtIoRef met dezelfde join.-->!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_61</eId>
+               <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_61__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
@@ -10508,18 +10506,13 @@
          <maker>/tooi/id/provincie/pv26</maker>
          <!--soortBestuursorgaan is 'gedeputeerde staten'.-->
          <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
-         <officieleTitel>
-                  Omgevingsvisie provincie Utrecht
-               </officieleTitel>
+         <officieleTitel>Omgevingsvisie provincie Utrecht</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
                <citeertitel>Omgevingsvisie provincie Utrecht</citeertitel>
                <isOfficieel>true</isOfficieel>
             </CiteertitelInformatie>
          </heeftCiteertitelInformatie>
-         <alternatieveTitels>
-            <alternatieveTitel>Omgevingsvisie provincie Utrecht</alternatieveTitel>
-         </alternatieveTitels>
          <overheidsdomeinen>
             <overheidsdomein>/tooi/def/concept/c_bed49b60</overheidsdomein>
          </overheidsdomeinen>
