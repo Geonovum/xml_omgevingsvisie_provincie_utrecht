@@ -45,9 +45,7 @@
             <informatieobjectRef>/join/id/regdata/pv26/2020/gio_018/nld@2020-07-20</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/gio_019/nld@2020-07-20</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/gio_020/nld@2020-07-20</informatieobjectRef>
-            <!--
             <informatieobjectRef>/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20</informatieobjectRef>
-            -->
             <informatieobjectRef>/join/id/regdata/pv26/2020/gio_022/nld@2020-07-20</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/gio_023/nld@2020-07-20</informatieobjectRef>
             <informatieobjectRef>/join/id/regdata/pv26/2020/gio_024/nld@2020-07-20</informatieobjectRef>
@@ -280,13 +278,13 @@
                <instrumentVersie>/join/id/regdata/pv26/2020/gio_020/nld@2020-07-20</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_20</eId>
             </BeoogdInformatieobject>
-            <!--
-            <BeoogdeRegeling>
-               <doel>/akn/ontology/event/nl/pv26/sync/Instelling</doel>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/pv26/2020/Instelling</doel>
+               </doelen>
                <instrumentVersie>/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_21</eId>
-            </BeoogdeRegeling>
-            -->
+            </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/Instelling</doel>
@@ -9716,11 +9714,11 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_21__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_21__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_061/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_061/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--provincie_Utrecht.gml-->
-                              <!--omdat energieneutrale_provincie.gml ontbreekt verwijst deze naar provincie_Utrecht.gml-->
+                              <!--omdat energieneutrale_provincie.gml ontbreekt, is nu een kopie van provincie_Utrecht.gml gebruikt-->
                            </Begrip>
                            <Begrip eId="cmp_2__content_o_1__list_o_1__item_o_22"
                                    wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_22">

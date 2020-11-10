@@ -4,8 +4,8 @@
                                      xmlns:gml="http://www.opengis.net/gml/3.2"
                                      xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                                      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                                     xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.0.4-rc/imop-geo.xsd"
-                                     schemaversie="1.0.4-rc">
+                                     xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ ../stop/imop-geo.xsd"
+                                     schemaversie="1.0.3">
    <geo:context>
       <gio:GeografischeContext>
          <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
@@ -14,16 +14,15 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/pv26/2020/gio_015</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/pv26/2020/gio_015/nld@2020-07-20</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/pv26/2020/gio_021</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-e38b7bf0-6a4f-44c5-b124-a024d43ddde3-xx">
-                     <basisgeo:id>e38b7bf0-6a4f-44c5-b124-a024d43ddde3</basisgeo:id>
+                  <basisgeo:Geometrie gml:id="id-dd73228c-e368-43cb-a282-e56b5aaa9c72-xx">
+                     <basisgeo:id>dd73228c-e368-43cb-a282-e56b5aaa9c72</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-e38b7bf0-6a4f-44c5-b124-a024d43ddde3-0"
-                                          srsName="urn:ogc:def:crs:EPSG::28992">
+                        <gml:MultiSurface gml:id="id-dd73228c-e368-43cb-a282-e56b5aaa9c72-0" srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Surface>
                                  <gml:patches>

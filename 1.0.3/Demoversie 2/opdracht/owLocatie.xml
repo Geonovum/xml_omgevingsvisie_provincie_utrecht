@@ -467,7 +467,7 @@
             <l:Gebied>
                <l:identificatie>nl.imow-pv26.gebied.202000210001</l:identificatie>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href="0d1c3003-9b2a-4090-8b06-65f811dce585"/>
+                  <l:GeometrieRef xlink:href="dd73228c-e368-43cb-a282-e56b5aaa9c72"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
