@@ -14,8 +14,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/pv26/2020/gio_049</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/pv26/2020/gio_049/nld@2020-07-20</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/pv26/2020/gio_083</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/pv26/2020/gio_083/nld@2020-07-20</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:geometrie>
