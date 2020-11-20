@@ -9,6 +9,7 @@
                  xmlns:l="http://www.geostandaarden.nl/imow/locatie"
                  xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
                  xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
                  xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
       <sl:dataset>Omgevingsvisie Utrecht</sl:dataset>
@@ -147,6 +148,9 @@
                <vt:hoofdlijnaanduiding>
                   <vt:HoofdlijnRef xlink:href="nl.imow-pv26.hoofdlijn.20200002"/>
                </vt:hoofdlijnaanduiding>
+               <vt:kaartaanduiding>
+                  <k:KaartRef xlink:href="nl.imow-pv26.kaart.20200001"/>
+               </vt:kaartaanduiding>
             </vt:Tekstdeel>
          </ow-dc:owObject>
       </sl:stand>
