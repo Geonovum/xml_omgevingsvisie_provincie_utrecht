@@ -3,8 +3,8 @@
                              schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/pv26/2020/gio_061</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_061/nld@2020-07-20</FRBRExpression>
+         <FRBRWork>/join/id/regdata/pv26/2020/gio_021</FRBRWork>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -12,8 +12,8 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>Provincie_Utrecht.gml</bestandsnaam>
-                  <hash>9b574d263c474e5d739185a6a9d80205461c48073e27419fa0c797ba3b832a91e2233cc27554a2afda857f75632bb61b4ce0ed2fd3f51d65c300f56c051b6b45</hash>
+                  <bestandsnaam>Energieneutrale_provincie.gml</bestandsnaam>
+                  <hash>3e8676a877fcb2075552e6779fdce12d15454ad9a562838c0e512642a443161ef56ccb644d186d678926291caa67905b1befdb65b5a573267847b7cd0cd9f1d4</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
@@ -24,7 +24,7 @@
          <alternatieveTitels>
             <alternatieveTitel>energieneutrale provincie</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>/join/id/regdata/pv26/2020/gio_061</officieleTitel>
+         <officieleTitel>/join/id/regdata/pv26/2020/gio_021</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
          <naamInformatieObject>energieneutrale provincie</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
