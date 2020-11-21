@@ -9,7 +9,7 @@
    xmlns:r="http://www.geostandaarden.nl/imow/regels"
    xmlns:s="http://www.geostandaarden.nl/imow/symbolisatie"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3-RC/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.2/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
       <sl:dataset>provincie Utrecht</sl:dataset>
       <sl:inhoud>
@@ -76,56 +76,6 @@
                   </k:Kaartlaag>
                </k:kaartlagen>
             </k:Kaart>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <s:SymbolisatieItem>
-               <s:symboolcode>vsgt201</s:symboolcode>
-               <s:gebiedsaanwijzingSymbolisatie>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200003"/>
-               </s:gebiedsaanwijzingSymbolisatie>
-            </s:SymbolisatieItem>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <s:SymbolisatieItem>
-               <s:symboolcode>vsgt206</s:symboolcode>
-               <s:gebiedsaanwijzingSymbolisatie>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200066"/>
-               </s:gebiedsaanwijzingSymbolisatie>
-            </s:SymbolisatieItem>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <s:SymbolisatieItem>
-               <s:symboolcode>vsgt307</s:symboolcode>
-               <s:gebiedsaanwijzingSymbolisatie>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200075"/>
-               </s:gebiedsaanwijzingSymbolisatie>
-            </s:SymbolisatieItem>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <s:SymbolisatieItem>
-               <s:symboolcode>vsgt304</s:symboolcode>
-               <s:gebiedsaanwijzingSymbolisatie>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200073"/>
-               </s:gebiedsaanwijzingSymbolisatie>
-            </s:SymbolisatieItem>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <s:SymbolisatieItem>
-               <s:symboolcode>vsgt300</s:symboolcode>
-               <s:gebiedsaanwijzingSymbolisatie>
-                  <ga:GebiedsaanwijzingRef xlink:href="nl.imow-pv26.gebiedsaanwijzing.20200059"/>
-               </s:gebiedsaanwijzingSymbolisatie>
-            </s:SymbolisatieItem>
          </ow-dc:owObject>
       </sl:stand>
    </sl:standBestand>
