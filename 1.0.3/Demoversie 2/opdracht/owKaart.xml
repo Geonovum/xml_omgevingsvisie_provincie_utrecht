@@ -25,6 +25,8 @@
             <k:Kaart>
                <k:identificatie>nl.imow-pv26.kaart.20200001</k:identificatie>
                <k:naam>Klimaatbestendig en waterrobuust</k:naam>
+               <!-- voor de test nummer toegevoegd, maar is optioneel -->
+               <k:nummer>1</k:nummer>
                <k:uitsnede>
                   <k:Kaartextent>
                      <k:minX>107250</k:minX>
