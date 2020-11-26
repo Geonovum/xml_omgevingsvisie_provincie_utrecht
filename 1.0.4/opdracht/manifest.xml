@@ -106,6 +106,10 @@
       <lvbb:contentType>application/gml+xml</lvbb:contentType>
    </lvbb:bestand>
    <lvbb:bestand>
+      <lvbb:bestandsnaam>Energieneutrale_provincie.gml</lvbb:bestandsnaam>
+      <lvbb:contentType>application/gml+xml</lvbb:contentType>
+   </lvbb:bestand>
+   <lvbb:bestand>
       <lvbb:bestandsnaam>experimenteerruimte.gml</lvbb:bestandsnaam>
       <lvbb:contentType>application/gml+xml</lvbb:contentType>
    </lvbb:bestand>
