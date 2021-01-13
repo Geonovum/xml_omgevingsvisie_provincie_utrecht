@@ -1042,23 +1042,19 @@
                                     <Bijschrift locatie="onder">Jongeren aan het puzzelen tijdens de jongerenbijeenkomst op 19 september 2019 (bron: provincie Utrecht)</Bijschrift>
                                  </Figuur>
                               </Kadertekst>
+                              <Figuur eId="div_1__div_o_6__content_o_1__img_o_1"
+                                      wId="pv26_2__div_1__div_o_6__content_o_1__img_o_1">
+                                 <Illustratie naam="007.png"
+                                              breedte="1720"
+                                              hoogte="1823"
+                                              uitlijning="start"
+                                              formaat="image/png"
+                                              dpi="300"/>
+                                 <Bijschrift locatie="onder">Verhaallijn en opbouw Omgevingsvisie provincie Utrecht</Bijschrift>
+                              </Figuur>
                            </Inhoud>
                         </Divisietekst>
                      </Divisie>
-                     <Divisietekst eId="div_1__content_o_2" wId="pv26_2__div_1__content_o_2">
-                        <Inhoud>
-                           <Figuur eId="div_1__content_o_2__img_o_1"
-                                   wId="pv26_2__div_1__content_o_2__img_o_1">
-                              <Illustratie naam="007.png"
-                                           breedte="1720"
-                                           hoogte="1823"
-                                           uitlijning="start"
-                                           formaat="image/png"
-                                           dpi="300"/>
-                              <Bijschrift locatie="onder">Verhaallijn en opbouw Omgevingsvisie provincie Utrecht</Bijschrift>
-                           </Figuur>
-                        </Inhoud>
-                     </Divisietekst>
                   </Divisie>
                   <Divisie eId="div_2" wId="pv26_2__div_2">
                      <Kop>
@@ -1555,54 +1551,50 @@
                                                  ref="pv26_2__cmp_2__content_o_1__list_o_1__item_o_31__ref_o_1">grote natuursystemen</IntIoRef>. Voor 2040 realiseren we in totaal 3.000 hectares natuur in de Groene contour. Grote natuureenheden worden ecologisch met elkaar in verbinding gebracht (Rivierengebied en Veenweide-plassengebied). Daarnaast onderzoeken wij de kansen voor uitbreiding van houtopstanden die bijdragen aan CO<sub>2</sub>-reductie. Wij stimuleren de <IntIoRef eId="div_2__div_2.2__div_o_7__div_o_2__content_o_1__ref_o_4"
                                                  wId="pv26_2__div_2__div_2.2__div_o_7__div_o_2__content_o_1__ref_o_4"
                                                  ref="pv26_2__cmp_2__content_o_1__list_o_1__item_o_78__ref_o_1">transitie naar een duurzame landbouw</IntIoRef> die circulair, natuurinclusief, klimaatneutraal en diervriendelijk is. Daarbij is de economische rentabiliteit van agrarische bedrijven een belangrijk uitgangspunt. En we stimuleren dat de landbouw dicht bij de inwoners staat (streekproducten, recreatie e.d.). Tot 2030 hebben we de ambitie dat de landbouw de nutriëntenkringlopen heeft gesloten, zelfvoorzienend in energie is en daarnaast deels ook opereert als groene energieproducent voor derden. Zie verder paragraaf 4.7.</Al>
+                                    <Kadertekst xmlns:eigen="https://www.eigen.nl/"
+                                                eId="div_2__div_2.2__div_o_7__div_o_2__content_o_1__recital_o_1"
+                                                wId="pv26_2__div_2__div_2.2__div_o_7__div_o_2__content_o_1__recital_o_1"
+                                                eigen:class="box">
+                                       <Kop>
+                                          <Opschrift>Horizon Utrecht 2050</Opschrift>
+                                       </Kop>
+                                       <Groep eigen:class="intro">
+                                          <Al>Horizon Utrecht 2050 is tot stand gekomen via een uitgebreid participatietraject. De horizon schetst een provincie Utrecht waarbij groei en leefbaarheid in evenwicht zijn en de diversiteit aan steden, dorpen en landschappen onveranderd groot is. De toegenomen bevolkingsomvang, economie en mobiliteit zijn goed ingepast en de opgaven voor energietransitie, klimaatverandering en gezondheid zijn voorzien van een Utrechts antwoord. Daarmee staat de provincie ook ten dienste van volgende generaties die hier een goed thuis kunnen vinden. De provincie Utrecht is in 2050 kortom nog steeds het groene, gezonde en slimme middelpunt van Nederland.</Al>
+                                       </Groep>
+                                       <Figuur eId="div_2__div_2.2__div_o_7__div_o_2__content_o_1__recital_o_1__img_o_1"
+                                               wId="pv26_2__div_2__div_2.2__div_o_7__div_o_2__content_o_1__recital_o_1__img_o_1">
+                                          <Illustratie naam="020.png"
+                                                       breedte="1771"
+                                                       hoogte="972"
+                                                       uitlijning="start"
+                                                       formaat="image/png"
+                                                       dpi="300"/>
+                                          <Bijschrift locatie="onder">Horizon Utrecht 2050 (bron: provincie Utrecht)</Bijschrift>
+                                       </Figuur>
+                                    </Kadertekst>
+                                    <Figuur eId="div_2__div_2.2__div_o_7__div_o_2__content_o_1__img_o_1"
+                                            wId="pv26_2__div_2__div_2.2__div_o_7__div_o_2__content_o_1__img_o_1">
+                                       <Illustratie naam="021a.png"
+                                                    breedte="1985"
+                                                    hoogte="2694"
+                                                    uitlijning="start"
+                                                    formaat="image/png"
+                                                    dpi="300"/>
+                                    </Figuur>
+                                    <Figuur eId="div_2__div_2.2__div_o_7__div_o_2__content_o_1__img_o_2"
+                                            wId="pv26_2__div_2__div_2.2__div_o_7__div_o_2__content_o_1__img_o_2">
+                                       <Illustratie naam="021b.png"
+                                                    breedte="1985"
+                                                    hoogte="2593"
+                                                    uitlijning="start"
+                                                    formaat="image/png"
+                                                    dpi="300"/>
+                                    </Figuur>
                                  </Inhoud>
                               </Divisietekst>
                            </Divisie>
                         </Divisie>
                      </Divisie>
-                     <Divisietekst eId="div_2__content_o_2" wId="pv26_2__div_2__content_o_2">
-                        <Inhoud>
-                           <Kadertekst xmlns:eigen="https://www.eigen.nl/"
-                                       eId="div_2__content_o_2__recital_o_1"
-                                       wId="pv26_2__div_2__content_o_2__recital_o_1"
-                                       eigen:class="box">
-                              <Kop>
-                                 <Opschrift>Horizon Utrecht 2050</Opschrift>
-                              </Kop>
-                              <Groep eigen:class="intro">
-                                 <Al>Horizon Utrecht 2050 is tot stand gekomen via een uitgebreid participatietraject. De horizon schetst een provincie Utrecht waarbij groei en leefbaarheid in evenwicht zijn en de diversiteit aan steden, dorpen en landschappen onveranderd groot is. De toegenomen bevolkingsomvang, economie en mobiliteit zijn goed ingepast en de opgaven voor energietransitie, klimaatverandering en gezondheid zijn voorzien van een Utrechts antwoord. Daarmee staat de provincie ook ten dienste van volgende generaties die hier een goed thuis kunnen vinden. De provincie Utrecht is in 2050 kortom nog steeds het groene, gezonde en slimme middelpunt van Nederland.</Al>
-                              </Groep>
-                              <Figuur eId="div_2__content_o_2__recital_o_1__img_o_1"
-                                      wId="pv26_2__div_2__content_o_2__recital_o_1__img_o_1">
-                                 <Illustratie naam="020.png"
-                                              breedte="1771"
-                                              hoogte="972"
-                                              uitlijning="start"
-                                              formaat="image/png"
-                                              dpi="300"/>
-                                 <Bijschrift locatie="onder">Horizon Utrecht 2050 (bron: provincie Utrecht)</Bijschrift>
-                              </Figuur>
-                           </Kadertekst>
-                           <Figuur eId="div_2__content_o_2__img_o_1"
-                                   wId="pv26_2__div_2__content_o_2__img_o_1">
-                              <Illustratie naam="021a.png"
-                                           breedte="1985"
-                                           hoogte="2694"
-                                           uitlijning="start"
-                                           formaat="image/png"
-                                           dpi="300"/>
-                           </Figuur>
-                           <Figuur eId="div_2__content_o_2__img_o_2"
-                                   wId="pv26_2__div_2__content_o_2__img_o_2">
-                              <Illustratie naam="021b.png"
-                                           breedte="1985"
-                                           hoogte="2593"
-                                           uitlijning="start"
-                                           formaat="image/png"
-                                           dpi="300"/>
-                           </Figuur>
-                        </Inhoud>
-                     </Divisietekst>
                   </Divisie>
                   <Divisie eId="div_3" wId="pv26_2__div_3">
                      <Kop>
@@ -6818,25 +6810,20 @@
                                     <Al>De regio biedt vanwege de nauwe verweving van stedelijk en landelijk gebied goede mogelijkheden voor het versterken van de stad-land relaties en het realiseren van korte voedselketens. De agrarische gebieden horen bij de karakteristiek van deze regio. Het zijn veelal grotere aaneengesloten gebieden, wat verder weg gelegen van de steden, waar de primaire functie landbouw is en zal blijven. Deze landbouw gaat wel veranderen in de toekomst. De bedrijven zullen zich steeds meer richten op vormen van duurzame, circulaire kringlooplandbouw. Biodiversiteit, bodemdaling, energietransitie en watervraagstukken bieden kansen en vereisen op termijn een aangepaste bedrijfsvoering. Vrijkomende agrarische bebouwing (VAB) leidt niet tot vermindering van de ruimtelijke kwaliteit. Door goed ruimtelijk beleid wordt maatwerk geleverd met herbestemming of saldering van sloopmeters zodat op één locatie de herontwikkeling plaats vindt als mogelijke uitkomst.</Al>
                                     <Al>Om onze opgave voor verbetering van de biodiversiteit te halen zetten wij in de regio U16 in op realisatie van 641 hectare natuur in het natuurnetwerk en 1783 hectare in de Groene contour. Voor aankoop, inrichting en beheer van de nieuwe natuur in het natuurnetwerk heeft de provincie budget. Voor de realisatie van de Groene contour zoekt het gebied naar financieringsmogelijkheden om deze ambitie te realiseren, bijvoorbeeld door dit te realiseren in combinatie met functies die geld opleveren. Hierbij kan gebruikt gemaakt worden van resultaten uit de pilots Groene contour.</Al>
                                     <Al>Alle geschetste opgaven tezamen zullen het landschap in de U16 veranderen. De verschillende subregio’s zijn zich hier van bewust. De Lopikerwaard (de gemeenten Lopik, Montfoort, Oudewater, IJsselstein en Woerden) bijvoorbeeld is hier actief mee bezig via het opstellen van een regionale omgevingsagenda. Zij doen dit, omdat de aanstaande veranderingen in de landbouw, de regionale vraag naar woningen en de urgentie van de klimaat- en energietransitie de Lopikerwaard raken. Ze willen aan deze veranderingen actief vorm geven op een manier die de Lopikerwaard past en versterkt. Dit doen zij door de regionale omgevingsagenda in te gaan brengen in de diverse processen waar de Lopikerwaard bij betrokken is.</Al>
+                                    <Figuur eId="div_5__div_5.1__div_o_2__div_o_2__content_o_1__img_o_1"
+                                            wId="pv26_2__div_5__div_5.1__div_o_2__div_o_2__content_o_1__img_o_1">
+                                       <Illustratie naam="068.png"
+                                                    breedte="1985"
+                                                    hoogte="851"
+                                                    uitlijning="start"
+                                                    formaat="image/png"
+                                                    dpi="300"/>
+                                       <Bijschrift locatie="onder">Barcode met totaal ruimtebeslag stedelijk programma (wonen, werken en de daar aan verbonden ruimtevraag) (bron: concept Ruimtelijke Structuurvisie Utrecht 2040, gemeente Utrecht, 2019)</Bijschrift>
+                                    </Figuur>
                                  </Inhoud>
                               </Divisietekst>
                            </Divisie>
                         </Divisie>
-                        <Divisietekst eId="div_5__div_5.1__content_o_2"
-                                      wId="pv26_2__div_5__div_5.1__content_o_2">
-                           <Inhoud>
-                              <Figuur eId="div_5__div_5.1__content_o_2__img_o_1"
-                                      wId="pv26_2__div_5__div_5.1__content_o_2__img_o_1">
-                                 <Illustratie naam="068.png"
-                                              breedte="1985"
-                                              hoogte="851"
-                                              uitlijning="start"
-                                              formaat="image/png"
-                                              dpi="300"/>
-                                 <Bijschrift locatie="onder">Barcode met totaal ruimtebeslag stedelijk programma (wonen, werken en de daar aan verbonden ruimtevraag) (bron: concept Ruimtelijke Structuurvisie Utrecht 2040, gemeente Utrecht, 2019)</Bijschrift>
-                              </Figuur>
-                           </Inhoud>
-                        </Divisietekst>
                      </Divisie>
                      <Divisie eId="div_5__div_5.2" wId="pv26_2__div_5__div_5.2">
                         <Kop>
@@ -7066,45 +7053,41 @@
                                           <Bijschrift locatie="onder">Regio Deal Foodvalley (bron: website regiofoodvalley.nl, 2019)</Bijschrift>
                                        </Figuur>
                                     </Kadertekst>
+                                    <Figuur eId="div_5__div_5.3__div_o_2__div_o_2__content_o_1__img_o_1"
+                                            wId="pv26_2__div_5__div_5.3__div_o_2__div_o_2__content_o_1__img_o_1">
+                                       <Illustratie naam="075.png"
+                                                    breedte="1782"
+                                                    hoogte="1261"
+                                                    uitlijning="start"
+                                                    formaat="image/png"
+                                                    dpi="300"/>
+                                       <Bijschrift locatie="onder">Regio U16</Bijschrift>
+                                    </Figuur>
+                                    <Figuur eId="div_5__div_5.3__div_o_2__div_o_2__content_o_1__img_o_2"
+                                            wId="pv26_2__div_5__div_5.3__div_o_2__div_o_2__content_o_1__img_o_2">
+                                       <Illustratie naam="076.png"
+                                                    breedte="1789"
+                                                    hoogte="1264"
+                                                    uitlijning="start"
+                                                    formaat="image/png"
+                                                    dpi="300"/>
+                                       <Bijschrift locatie="onder">Regio Amersfoort</Bijschrift>
+                                    </Figuur>
+                                    <Figuur eId="div_5__div_5.3__div_o_2__div_o_2__content_o_1__img_o_3"
+                                            wId="pv26_2__div_5__div_5.3__div_o_2__div_o_2__content_o_1__img_o_3">
+                                       <Illustratie naam="077.png"
+                                                    breedte="1790"
+                                                    hoogte="1265"
+                                                    uitlijning="start"
+                                                    formaat="image/png"
+                                                    dpi="300"/>
+                                       <Bijschrift locatie="onder">Regio Foodvalley</Bijschrift>
+                                    </Figuur>
                                  </Inhoud>
                               </Divisietekst>
                            </Divisie>
                         </Divisie>
                      </Divisie>
-                     <Divisietekst eId="div_5__content_o_2" wId="pv26_2__div_5__content_o_2">
-                        <Inhoud>
-                           <Figuur eId="div_5__content_o_2__img_o_1"
-                                   wId="pv26_2__div_5__content_o_2__img_o_1">
-                              <Illustratie naam="075.png"
-                                           breedte="1782"
-                                           hoogte="1261"
-                                           uitlijning="start"
-                                           formaat="image/png"
-                                           dpi="300"/>
-                              <Bijschrift locatie="onder">Regio U16</Bijschrift>
-                           </Figuur>
-                           <Figuur eId="div_5__content_o_2__img_o_2"
-                                   wId="pv26_2__div_5__content_o_2__img_o_2">
-                              <Illustratie naam="076.png"
-                                           breedte="1789"
-                                           hoogte="1264"
-                                           uitlijning="start"
-                                           formaat="image/png"
-                                           dpi="300"/>
-                              <Bijschrift locatie="onder">Regio Amersfoort</Bijschrift>
-                           </Figuur>
-                           <Figuur eId="div_5__content_o_2__img_o_3"
-                                   wId="pv26_2__div_5__content_o_2__img_o_3">
-                              <Illustratie naam="077.png"
-                                           breedte="1790"
-                                           hoogte="1265"
-                                           uitlijning="start"
-                                           formaat="image/png"
-                                           dpi="300"/>
-                              <Bijschrift locatie="onder">Regio Foodvalley</Bijschrift>
-                           </Figuur>
-                        </Inhoud>
-                     </Divisietekst>
                   </Divisie>
                   <Divisie eId="div_6" wId="pv26_2__div_6">
                      <Kop>
