@@ -121,10 +121,6 @@
          <ontvangenOp>2020-05-12</ontvangenOp>
          <procedurestappen>
             <Procedurestap>
-               <soortStap>/join/id/stop/procedure/stap_001</soortStap>
-               <voltooidOp>2020-05-12</voltooidOp>
-            </Procedurestap>
-            <Procedurestap>
                <soortStap>/join/id/stop/procedure/stap_002</soortStap>
                <voltooidOp>2020-06-01</voltooidOp>
             </Procedurestap>
