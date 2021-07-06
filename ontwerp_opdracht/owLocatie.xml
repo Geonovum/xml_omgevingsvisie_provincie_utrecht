@@ -16,26 +16,10 @@
          <sl:gebied>Provincie Utrecht</sl:gebied>
          <sl:leveringsId>OVIUtrecht_001</sl:leveringsId>
          <sl:objectTypen>
-            <sl:objectType>Ambtsgebied</sl:objectType>
             <sl:objectType>Gebiedengroep</sl:objectType>
             <sl:objectType>Gebied</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
-      <sl:stand>
-         <ow-dc:owObject>
-            <l:Ambtsgebied>
-               <l:identificatie>nl.imow-pv26.ambtsgebied.00000001001797864000</l:identificatie>
-               <l:noemer>Provincie Utrecht</l:noemer>
-               <l:bestuurlijkeGrenzenVerwijzing>
-                  <l:BestuurlijkeGrenzenVerwijzing>
-                     <l:bestuurlijkeGrenzenID>PV26</l:bestuurlijkeGrenzenID>
-                     <l:domein>NL.BI.BestuurlijkGebied</l:domein>
-                     <l:geldigOp>2021-01-01</l:geldigOp>
-                  </l:BestuurlijkeGrenzenVerwijzing>
-               </l:bestuurlijkeGrenzenVerwijzing>
-            </l:Ambtsgebied>
-         </ow-dc:owObject>
-      </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
