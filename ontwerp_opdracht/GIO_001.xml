@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.0.4"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_001</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Aandachtsgebied_bodemdaling_landelijk.gml</bestandsnaam>
-                  <hash>c33979a995249d64cf8108aa3fdd7e909717d5e5b06db3a566692d72e4d3a7239877d56499d399bd995204fe4ace4c693ad532825dca56267d9a155388c32b09</hash>
+                  <hash>c24c110ff3970934468817de53588407796da304183c7ccca6ed2abdf06f688667a9b2862ddce884410f03eab7452c0583c47d8b5e6e0d009dfe196fb881bb91</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

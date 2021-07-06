@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.0.4"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_066</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Regio_Amersfoort.gml</bestandsnaam>
-                  <hash>5cbbea58785647a74658e5137c7e70ff9e3193eeb22c34856e6907e8753e819f9bb8a65076a36c5eae3cc07011de261e5ef6452d5ca096f030f9aa028ab1c7e1</hash>
+                  <hash>5fc99ded50ac7b30159462b3bcd4035e2ff5d3a2bc45c7c4e157847e337ae362f2544a671311e4369481a446e2b766ab4875757279a9094d4a705a3fa786eb7f</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

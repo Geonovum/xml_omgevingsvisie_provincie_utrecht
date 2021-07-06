@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.0.4"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_073</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Ruimte_voor_windenergie_en_zonnevelden_onder_voorwaarde.gml</bestandsnaam>
-                  <hash>2fcbb0125ab11104b6131e94793c4273e61ebd7d36b25ce6b55a994c12114025595aa87a548ca28a5e1bea52b1ed0e107ee4af8de7de9902a19517623cdd8ae6</hash>
+                  <hash>0041e950d025881367cf6a85f06b73ae1a38acbaf5467387d54f312963419810613a4be3315311305c2361c3ffef7b8cf1028457227a27207e38cf4638f330bf</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
