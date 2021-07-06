@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.0.4"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_067</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Regio_Foodvalley.gml</bestandsnaam>
-                  <hash>a8800fea44c086ab845f467b2961ed49fc7e6f9b35c5fbd7a6fe800b39f5eaf41baebda3cd38f171169005dbff7dd5b9d56af97cff3bea372167ed3fa11549d3</hash>
+                  <hash>2695610fc1fa158b984e73e7ebb4c659b87ddff56484c6cb20b0c703b9d162b1590ecbf28fec47d37fc7d9c31caf39699a1ef331f63b98a4333b66f0f2b2f30a</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.0.4"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_014</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>binnenstedelijke_en_binnendorpse_ontwikkeling.gml</bestandsnaam>
-                  <hash>f5d60c4194de03aa2947a7c55a21792aecc8c4fb9f13003dd70772cb364c48a07ff71ab90d47c44adf6c2c3ac1083e692073e8c15fd37e5895b3c013b56efeaa</hash>
+                  <hash>2107129fd7ea0f79e2855174014ea099c7e6e7163ee7104dabd3913b45f8abbd9303588c54e3348d30ef4ad7877200155c7c6c838883d40a2554b364350d3926</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.0.4"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_028</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Groenblauwe_structuren.gml</bestandsnaam>
-                  <hash>4376bde8a8aad02d3a0e4d683451e29a631aefd029e02848727b6e1b097270731c3248e5fb205e466379b434e1ca2ff93bf445bb9d390f8846b504b90928bb96</hash>
+                  <hash>44909ca63bf41257f5655b54270c2d19ea3d8455c23f5e8a768a5cf2f035b1f61717a084cb87139c7ddc867bf0b9d05d70755c7797c0eb909f77f2f8276a1b1f</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.0.4"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_079</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>versterken_stadlandverbinding.gml</bestandsnaam>
-                  <hash>6831f086797a7250d51bc6dfc9ff2bc026fa9bae8ee5e96a7f68fbcf8b814143c7b97b098e0d398966e5e9217827e07e20469d3a2fd0bbb9205a6bfa6c21d27b</hash>
+                  <hash>fad820b99fff32133ad1812f96c519aa7863684aa51ed02fbfc126b639752afef20a16acfa0cfaa12fb96e4f5f05a6bd552fd8ffc2a466e2bdc766e36acd04f8</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
