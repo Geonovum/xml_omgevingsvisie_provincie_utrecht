@@ -16,7 +16,6 @@
          <sl:gebied>Provincie Utrecht</sl:gebied>
          <sl:leveringsId>OVIUtrecht_001</sl:leveringsId>
          <sl:objectTypen>
-            <sl:objectType>Ambtsgebied</sl:objectType>
             <sl:objectType>Gebiedengroep</sl:objectType>
             <sl:objectType>Gebied</sl:objectType>
          </sl:objectTypen>
