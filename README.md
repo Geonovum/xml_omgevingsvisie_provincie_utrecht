@@ -16,3 +16,32 @@ Het bestand bevat op OW-gebied:
 - gebiedsaanwijzingen
 
 Veel waarden van waardelijsten ontbreken. In de bestanden is een comment geplaatst: 'Let op: de waarde ... ontbreekt in waardelijst ...'
+
+## 2021-09-10
+Opdracht aangepast. Alle thema's zijn conform Waardelijsten 2.0.0. De mapping is conform onderstaande tabel.
+
+|thema oud|thema nieuw|
+|bereikbaarheid|infrastructuur|
+|biodiversiteit|natuur|
+|circulaireeconomie|energieennatuurlijkehulpbronnen|
+|duurzaamheid|energieennatuurlijkehulpbronnen|
+|economischvestigingsklimaat|landgebruik|
+|energietransitie|energieennatuurlijkehulpbronnen|
+|geur|milieualgemeen|
+|klimaat|natuur|
+|klimaatadaptatie|energieennatuurlijkehulpbronnen|
+|landbouw|landgebruik|
+|landelijkefuncties|landgebruik|
+|luchtkwaliteit|lucht|
+|milieualgemeenenoverigemilieuaspecten|milieualgemeen|
+|natuurbescherming|landschap|
+|natuurlijkehulpbronnen|energieennatuurlijkehulpbronnen|
+|recreatieentoerisme|landgebruik|
+|regionalesamenwerking|???|
+|regionalewoonagenda|landgebruik|
+|ruimtelijkekwaliteit|landschap|
+|stedelijkefuncties|landgebruik|
+|toegankelijkheid|infrastructuur|
+|veiligheid|externeveiligheid|
+|waterenwatersysteem|waterenwatersystemen|
+|woonenleefklimaat|landgebruik|

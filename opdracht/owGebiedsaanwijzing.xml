@@ -27,7 +27,7 @@
                <ga:naam>Aandachtsgebied bodemdaling - landelijk</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/bodem/id/concept/Bodemdalingsgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200001"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -40,7 +40,7 @@
                <ga:naam>Aandachtsgebied bodemdaling - stedelijk</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/bodem/id/concept/Bodemdalingsgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200002"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -53,7 +53,7 @@
                <ga:naam>aantrekkelijke en toekomstbestendige dijk</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/LandelijkGebiedVerwevingVanFuncties</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200003"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -66,7 +66,7 @@
                <ga:naam>aardkundige waarden</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/erfgoed/id/concept/AardkundigWaardevolGebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200004"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -79,7 +79,7 @@
                <ga:naam>Beperken bodembewerking</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/bodem/id/concept/Bodemdalingsgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200007"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -92,7 +92,7 @@
                <ga:naam>beschermingszone drinkwaterwinning</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/BeschermdeGebieden</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200008"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -105,7 +105,7 @@
                <ga:naam>bestaand winkelgebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Detailhandel</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200009"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -118,7 +118,7 @@
                <ga:naam>biodiversiteit</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Natuurbeheergebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200015"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -131,7 +131,7 @@
                <ga:naam>bovenlokaal dagrecreatieterrein</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/recreatie/id/concept/Dagrecreatie</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200016"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -144,7 +144,7 @@
                <ga:naam>CHS - agrarisch cultuurlandschap</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/erfgoed/id/concept/CultuurhistorischBeschermdLandschap</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200005"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -157,7 +157,7 @@
                <ga:naam>CHS - historische infrastructuur</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/erfgoed/id/concept/CultuurhistorischWaardevolGebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200033"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -170,7 +170,7 @@
                <ga:naam>CHS - militair erfgoed</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/erfgoed/id/concept/Linie</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200050"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -183,7 +183,7 @@
                <ga:naam>CHS archeologische waardevolle zone</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/erfgoed/id/concept/Archeologie</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200006"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -196,7 +196,7 @@
                <ga:naam>CHS historische buitenplaatszone</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/erfgoed/id/concept/Buitenplaats</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200032"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -209,7 +209,7 @@
                <ga:naam>concentratiegebied glastuinbouw</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Glastuinbouw</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200017"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -222,7 +222,7 @@
                <ga:naam>Culturele infrastructuur en monumentenzorg</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/erfgoed/id/concept/BeschermdMonument</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200018"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -235,7 +235,7 @@
                <ga:naam>duurzaam gebruik van de ondergrond</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/bodem/id/concept/Bodembeheergebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200019"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -248,7 +248,7 @@
                <ga:naam>ganzenrustgebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Natuurbeheergebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200023"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -261,7 +261,7 @@
                <ga:naam>geluidscontour provinciale wegen 61 dB</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/geluid/id/concept/AandachtsgebiedGeluid</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200024"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -274,7 +274,7 @@
                <ga:naam>genomineerd UNESCO - Hollandse Waterlinie</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/erfgoed/id/concept/Werelderfgoed</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200025"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -287,7 +287,7 @@
                <ga:naam>genomineerd UNESCO - Neder-Germaanse Limes bufferzone</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/erfgoed/id/concept/Werelderfgoed</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200026"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -300,7 +300,7 @@
                <ga:naam>gezonde en veilige leefomgeving</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200027"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -313,7 +313,7 @@
                <ga:naam>groenblauwe structuren</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/BijzonderProvinciaalNatuurgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200028"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -326,7 +326,7 @@
                <ga:naam>groene contour</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/BijzonderProvinciaalNatuurgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200029"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -339,7 +339,7 @@
                <ga:naam>grondwaterlichamen</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Grondwaterdeelgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200030"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -352,7 +352,7 @@
                <ga:naam>houtopstanden</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/BebouwingscontourHoutkap</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200035"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -365,7 +365,7 @@
                <ga:naam>kernrandzone</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/LandelijkGebiedStedelijkUitloopgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200036"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -378,7 +378,7 @@
                <ga:naam>klimaatbestendig</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200037"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -391,7 +391,7 @@
                <ga:naam>knooppunten</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Infrastructuur</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200039"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -404,7 +404,7 @@
                <ga:naam>landbouwgebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Landbouw</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200040"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -417,7 +417,7 @@
                <ga:naam>landbouwontwikkelingsgebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/LandelijkGebiedAgrarisch</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200041"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -430,7 +430,7 @@
                <ga:naam>landbouwstabiliseringsgebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/LandelijkGebiedAgrarisch</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200042"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -443,7 +443,7 @@
                <ga:naam>landelijk gebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/LandelijkGebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200043"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -456,7 +456,7 @@
                <ga:naam>landschap Eemland</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/landschap/id/concept/SpecifiekBenoemdLandschap</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200044"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -469,7 +469,7 @@
                <ga:naam>landschap Gelderse vallei</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/landschap/id/concept/SpecifiekBenoemdLandschap</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200045"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -482,7 +482,7 @@
                <ga:naam>landschap Groene Hart</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/landschap/id/concept/SpecifiekBenoemdLandschap</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200046"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -495,7 +495,7 @@
                <ga:naam>landschap Rivierengebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/landschap/id/concept/SpecifiekBenoemdLandschap</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200047"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -508,7 +508,7 @@
                <ga:naam>landschap Utrechtse Heuvelrug</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/landschap/id/concept/SpecifiekBenoemdLandschap</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200048"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -521,7 +521,7 @@
                <ga:naam>militair oefenterrein met natuurwaarden</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/BijzonderProvinciaalNatuurgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200051"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -534,7 +534,7 @@
                <ga:naam>Natura 2000-gebieden</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Natura2000Gebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200053"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -547,7 +547,7 @@
                <ga:naam>natuurnetwerk nederland</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/NatuurnetwerkNederland</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200054"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -560,7 +560,7 @@
                <ga:naam>overstroombaar gebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/externeveiligheid/id/concept/Risicogebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200057"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -573,7 +573,7 @@
                <ga:naam>Provinciaal OV netwerk</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Spoorweg</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200059"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -586,7 +586,7 @@
                <ga:naam>provinciaal wegennet</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Weg</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200060"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -599,7 +599,7 @@
                <ga:naam>provinciale vaarwegen </ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Vaarweg</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200069"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -612,7 +612,7 @@
                <ga:naam>provincie utrecht</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200061"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -625,7 +625,7 @@
                <ga:naam>recreatietoervaartnet</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/RecreatieveRoutenetwerken</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200062"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -638,7 +638,7 @@
                <ga:naam>recreatiewoningen</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/recreatie/id/concept/Verblijfsrecreatie</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200063"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -651,7 +651,7 @@
                <ga:naam>recreatiezone</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Overig</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200064"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -664,7 +664,7 @@
                <ga:naam>regionaal fietsnetwerk</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Weg</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200070"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -677,7 +677,7 @@
                <ga:naam>regionale kering</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Waterkering</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200071"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -690,7 +690,7 @@
                <ga:naam>Ruimte bieden voor duurzame energie</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Energieproductiegebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200072"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -703,7 +703,7 @@
                <ga:naam>Ruimte voor windenergie en zonnevelden onder voorwaarden</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/energievoorziening/id/concept/Energieproductiegebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200073"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -716,7 +716,7 @@
                <ga:naam>snelfietsroutes</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Weg</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200074"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -729,7 +729,7 @@
                <ga:naam>stedelijk gebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/StedelijkGebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200075"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -742,7 +742,7 @@
                <ga:naam>stiltegebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/geluid/id/concept/Stiltegebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200076"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -755,7 +755,7 @@
                <ga:naam>waterbergingsgebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Waterberging</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200080"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -768,7 +768,7 @@
                <ga:naam>weidevogelkerngebied</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/natuur/id/concept/Natuurbeheergebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200081"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -781,7 +781,7 @@
                <ga:naam>zoekgebied drinkwater</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/OverigeGebieden</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200082"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -794,7 +794,7 @@
                <ga:naam>zwemwater</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Zwemlocatie</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200084"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -807,7 +807,7 @@
                <ga:naam>benutten bestaand knooppunt</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/OntwikkelingStedelijkeFuncties</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200010"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -820,7 +820,7 @@
                <ga:naam>beter benutten hoofdwegennet</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Weg</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200011"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -833,7 +833,7 @@
                <ga:naam>beter benutten provinciale wegennet</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Weg</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200012"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -846,7 +846,7 @@
                <ga:naam>beter benutten spoor- en hoogwaardig OV-netwerk</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/verkeer/id/concept/Spoorweg</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200013"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -859,7 +859,7 @@
                <ga:naam>binnenstedelijke en binnendorpse ontwikkeling</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/OntwikkelingStedelijkeFuncties</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200014"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -872,7 +872,7 @@
                <ga:naam>klimaatbestendige wateraanvoer</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Watersysteem</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200038"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -885,7 +885,7 @@
                <ga:naam>lange termijn zoekrichting grootschalige integrale ontwikkeling wonen-werken-bereikbaarheid</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/OntwikkelingStedelijkeFuncties</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200049"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -898,7 +898,7 @@
                <ga:naam>nader te verkennen verbinding hoogwaardig OV</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Infrastructuur</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200034"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -911,7 +911,7 @@
                <ga:naam>ontwikkeling groenblauwe en recreatieve structuur</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/OntwikkelingLandelijkeFuncties</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200056"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -924,7 +924,7 @@
                <ga:naam>ontwikkeling nieuw knooppunt</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/OntwikkelingStedelijkeFuncties</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200055"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -937,7 +937,7 @@
                <ga:naam>optimaliseren multimodaal knooppunt</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/OntwikkelingStedelijkeFuncties</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200052"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -950,7 +950,7 @@
                <ga:naam>potentiele locatie voor integrale ontwikkeling wonen-werken rondom knooppunt</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/OntwikkelingStedelijkeFuncties</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200058"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -963,7 +963,7 @@
                <ga:naam>tegengaan bodemdaling</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/bodem/id/concept/Bodemdalingsgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200077"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -976,7 +976,7 @@
                <ga:naam>transitie naar duurzame landbouw</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/Landbouw</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200078"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -989,7 +989,7 @@
                <ga:naam>vasthouden en infiltreren regenwater</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/Waterberging</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200065"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -1002,7 +1002,7 @@
                <ga:naam>versterken grote natuursystemen</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/LandelijkGebiedHoofdfunctieNatuur</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200031"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -1015,7 +1015,7 @@
                <ga:naam>versterken stad-landverbinding</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/LandelijkGebiedStedelijkUitloopgebied</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200079"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>
@@ -1028,7 +1028,7 @@
                <ga:naam>zoekrichting grootschalige integrale ontwikkeling wonen-werken-bereikbaarheid</ga:naam>
                <ga:groep>http://standaarden.omgevingswet.overheid.nl/ruimtelijkgebruik/id/concept/OntwikkelingStedelijkeFuncties</ga:groep>
                <ga:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebiedengroep.20200083"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </ga:locatieaanduiding>
             </ga:Gebiedsaanwijzing>
          </ow-dc:owObject>

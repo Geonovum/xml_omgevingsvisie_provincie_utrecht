@@ -21,7 +21,7 @@
             <rg:Regelingsgebied>
                <rg:identificatie>nl.imow-pv26.regelingsgebied.2020000001</rg:identificatie>
                <rg:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-pv26.gebied.plangebiedovi"/>
+                  <l:LocatieRef xlink:href="nl.imow-pv26.ambtsgebied.00000001001797864000"/>
                </rg:locatieaanduiding>
             </rg:Regelingsgebied>
          </ow-dc:owObject>
