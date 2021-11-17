@@ -1278,7 +1278,7 @@
                     </gml:Polygon>
                   </gml:surfaceMember>
                 </gml:MultiSurface>
-              </basisgeo:geometrie>
+             </basisgeo:geometrie>
                      </basisgeo:Geometrie>
                </geo:geometrie>
             </geo:Locatie>
