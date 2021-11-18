@@ -32,7 +32,7 @@
       <Bestand>
          <naam>owKaart.xml</naam>
          <objecttype>Kaart</objecttype>
-         <objecttype>SymbolisatieItem</objecttype>
+<!--         <objecttype>SymbolisatieItem</objecttype>-->
       </Bestand>
    </Aanlevering>
 </Aanleveringen>
