@@ -35,7 +35,7 @@
                </k:uitsnede>
                <k:kaartlagen>
                   <k:Kaartlaag>
-                     <k:identificatie>nl.imow-pv26.kaart.202000010001</k:identificatie>
+                     <k:identificatie>nl.imow-pv26.kaartlaag.202000010001</k:identificatie>
                      <k:naam>aantrekkelijke en toekomstbestendige dijk</k:naam>
                      <k:niveau>1</k:niveau>
                      <k:gebiedsaanwijzingweergave>
@@ -43,7 +43,7 @@
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
                   <k:Kaartlaag>
-                     <k:identificatie>nl.imow-pv26.kaart.202000010002</k:identificatie>
+                     <k:identificatie>nl.imow-pv26.kaartlaag.202000010002</k:identificatie>
                      <k:naam>klimaatbestendige wateraanvoer</k:naam>
                      <k:niveau>2</k:niveau>
                      <k:gebiedsaanwijzingweergave>
@@ -51,7 +51,7 @@
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
                   <k:Kaartlaag>
-                     <k:identificatie>nl.imow-pv26.kaart.202000010003</k:identificatie>
+                     <k:identificatie>nl.imow-pv26.kaartlaag.202000010003</k:identificatie>
                      <k:naam>vasthouden en infiltreren regenwater</k:naam>
                      <k:niveau>3</k:niveau>
                      <k:gebiedsaanwijzingweergave>
@@ -59,7 +59,7 @@
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
                   <k:Kaartlaag>
-                     <k:identificatie>nl.imow-pv26.kaart.202000010004</k:identificatie>
+                     <k:identificatie>nl.imow-pv26.kaartlaag.202000010004</k:identificatie>
                      <k:naam>tegengaan bodemdaling</k:naam>
                      <k:niveau>4</k:niveau>
                      <k:gebiedsaanwijzingweergave>
@@ -67,7 +67,7 @@
                      </k:gebiedsaanwijzingweergave>
                   </k:Kaartlaag>
                   <k:Kaartlaag>
-                     <k:identificatie>nl.imow-pv26.kaart.202000010005</k:identificatie>
+                     <k:identificatie>nl.imow-pv26.kaartlaag.202000010005</k:identificatie>
                      <k:naam>zoekgebied drinkwater</k:naam>
                      <k:niveau>5</k:niveau>
                      <k:gebiedsaanwijzingweergave>
