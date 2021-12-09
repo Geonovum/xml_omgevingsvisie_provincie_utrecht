@@ -13,15 +13,9 @@
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
-         <!--soortBestuursorgaan is 'gedeputeerde staten'.-->
-         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
+         <!--soortBestuursorgaan is 'provinciale staten'.-->
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_411b4e4a</soortBestuursorgaan>
          <officieleTitel>Besluit Omgevingsvisie provincie Utrecht</officieleTitel>
-         <heeftCiteertitelInformatie>
-            <CiteertitelInformatie>
-               <citeertitel>Omgevingsvisie provincie Utrecht</citeertitel>
-               <isOfficieel>true</isOfficieel>
-            </CiteertitelInformatie>
-         </heeftCiteertitelInformatie>
          <onderwerpen>
             <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
          </onderwerpen>
@@ -9313,8 +9307,8 @@
          <soortRegeling>/join/id/stop/regelingtype_006</soortRegeling>
          <eindverantwoordelijke>/tooi/id/provincie/pv26</eindverantwoordelijke>
          <maker>/tooi/id/provincie/pv26</maker>
-         <!--soortBestuursorgaan is 'gedeputeerde staten'.-->
-         <soortBestuursorgaan>/tooi/def/thes/kern/c_61676cbc</soortBestuursorgaan>
+         <!--soortBestuursorgaan is 'provinciale staten'.-->
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_411b4e4a</soortBestuursorgaan>
          <officieleTitel>Omgevingsvisie provincie Utrecht</officieleTitel>
          <heeftCiteertitelInformatie>
             <CiteertitelInformatie>
