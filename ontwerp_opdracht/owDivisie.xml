@@ -81,6 +81,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_2__div_2.2__div_o_1">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200004</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -134,6 +135,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_2__div_2.2__div_o_2">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200006</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -197,6 +199,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_2__div_2.2__div_o_3">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200008</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -247,6 +250,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_2__div_2.2__div_o_4">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200010</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -307,6 +311,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_2__div_2.2__div_o_5">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200012</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -376,6 +381,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_2__div_2.2__div_o_6">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200014</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -428,6 +434,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_2__div_2.2__div_o_7">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200016</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -517,6 +524,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200019</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -541,6 +549,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.1">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200020</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -566,6 +575,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.1__div_4.1.1">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200021</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -767,6 +777,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.1__div_4.1.2">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200029</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -916,6 +927,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.2">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200035</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -942,6 +954,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.2__div_4.2.1">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200036</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -1279,6 +1292,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.2__div_4.2.3">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200049</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -1353,6 +1367,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.3">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200052</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -1592,6 +1607,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.4">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200062</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -1628,6 +1644,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.4__div_4.4.1">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200063</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -1786,6 +1803,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.4__div_4.4.2">
+               <op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200069</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -1995,6 +2013,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.5">
+				<op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200077</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -2087,6 +2106,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.5__div_4.5.3">
+				<op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200080</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -2292,6 +2312,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.6">
+				<op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200088</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -2403,6 +2424,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.6__div_4.6.2">
+				<op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200091</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -2543,6 +2565,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.7">
+				<op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200096</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -2569,6 +2592,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.7__div_4.7.1">
+				<op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200097</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -2752,6 +2776,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_4__div_4.7__div_4.7.2">
+				<op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200104</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -2985,6 +3010,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_5">
+				<op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200113</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -3006,6 +3032,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_5__div_5.1__div_o_1">
+				<op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200114</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -3118,6 +3145,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_5__div_5.2">
+				<op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200117</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
@@ -3221,6 +3249,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <vt:Divisie wId="pv26_2__div_5__div_5.3">
+				<op:procedurestatus>ontwerp</op:procedurestatus>
                <vt:identificatie>nl.imow-pv26.divisie.20200121</vt:identificatie>
             </vt:Divisie>
          </ow-dc:owObject>
