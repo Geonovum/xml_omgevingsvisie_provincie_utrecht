@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_072</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_072/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_072/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Ruimte_bieden_voor_duurzame_energie.gml</bestandsnaam>
-                  <hash>6c2d1c18ea66e3d4e96d8b1a349afea153989e2efc8947e0f520509c863eae4de179deab2fa039809a899622543d794283c9b22dac251271e86b12febeaf07e0</hash>
+                  <hash>6dd4f79bdda73a010ea6ce8570a4eeb8762e102fc6c56b1e28a8e78ccff37453b7905b9c9bcc998cb0fe9214fb025cdc59d1c41428853b9c1b9f25a3f2afaa2b</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

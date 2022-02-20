@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_017</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_017/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_017/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Concentratiegebied_glastuinbouw.gml</bestandsnaam>
-                  <hash>ac981c054a0efe565d20275737c4d5b49bb8a6bf0aed3c39706d915460f63f96544c779f8c358604e4456a89ac25bf5b07309c7845ea86fffa61626ecd91696b</hash>
+                  <hash>4eb113c0484c9ea3a0e416cf53f46216a8916509793e6b07cab1b87a881427bdac83a81a77d098bb0862793ce3f1fb41ca51345227a0683ca23d53f6041c7398</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

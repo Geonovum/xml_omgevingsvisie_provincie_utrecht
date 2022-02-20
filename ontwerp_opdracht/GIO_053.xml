@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_053</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_053/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_053/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Natura_2000_gebieden.gml</bestandsnaam>
-                  <hash>e44d64f7f2919e2fde6300f4b5493a1b22b704f380c21ece5c72bf6d593b36b381681c2cd5cc1115312004437a7a2939aeb909d73495805dc84a27d6acafc62e</hash>
+                  <hash>c995ff63e3ddd5abfbcbc27f9a621920462268b55a12bc449f906cf21c06e7b3345801e9c59ead1ec7c84fcae56c7f40fd7fb318e9c9e9825b60e23bc23efe26</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

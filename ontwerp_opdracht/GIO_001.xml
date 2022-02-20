@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_001</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_001/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_001/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Aandachtsgebied_bodemdaling_landelijk.gml</bestandsnaam>
-                  <hash>c24c110ff3970934468817de53588407796da304183c7ccca6ed2abdf06f688667a9b2862ddce884410f03eab7452c0583c47d8b5e6e0d009dfe196fb881bb91</hash>
+                  <hash>cc33d0f1edc2877726acfd3c8d78d4bab02ad87aef7b2e6babb28a45e46509c17f4b8b6d233b343eae3cdd4d8341e58bc1471e36a5b7a96e8608903b2b7818e0</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

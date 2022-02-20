@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_068</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_068/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_068/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Regio_U16.gml</bestandsnaam>
-                  <hash>b71d3991b4a532056a0766dd104bd62bf3cf179611564a0f7e474178f418fbc91f3e5c445734829857d6aaf3013ccc8f5ab17d16909f9c26f0d4eec44c3cd9ca</hash>
+                  <hash>859dc6282365d8e0d3e303f003ccec19151a2ce88fe63c3556472efee50d70de32c53e62b5a7720704b19352cd865815037c812f9bb33e5f1983338d111deb13</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

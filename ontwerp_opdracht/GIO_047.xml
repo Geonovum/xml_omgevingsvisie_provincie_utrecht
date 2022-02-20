@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_047</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_047/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_047/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Landschap_Rivierengebied.gml</bestandsnaam>
-                  <hash>b17208d54a1c45a172cc46a781a0c03e69c92937a2b54a7976e91b820298d620fd7c02abe199763380c47b3477d76c3a0b36aa70ac9ea4750522f5395a680be6</hash>
+                  <hash>9184ea816e1cdebfe5e8824996fbc260b76f13a5384276bfc7a39941c4243502291334eaad487a05b241a69065e0e19f6aaeaf996cc776d572d3d357136bf9a8</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

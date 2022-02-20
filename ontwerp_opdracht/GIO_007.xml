@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_007</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_007/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_007/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Beperken_bodembewerking.gml</bestandsnaam>
-                  <hash>ea240d991ecef581a70124275a2b741be88e0e1b2ad15a0c6828ca2c94a55c1cf17791f139cd4f991cfd92de2d7931b7dc21be21d16ba0dce348c59afb7f0075</hash>
+                  <hash>38c31121729f72112916c363c0e12e57a5606de795e1ee9f212869c3f5b94cb0d2a4ead8e9f5acf08ffcc6b310a7693b7ab14516c691314d7c1ac46d595835f0</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

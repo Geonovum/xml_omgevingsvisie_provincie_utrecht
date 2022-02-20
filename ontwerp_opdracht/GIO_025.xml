@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_025</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_025/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_025/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Genomineerd_UNESCO_Hollandse_Waterlinie.gml</bestandsnaam>
-                  <hash>d1d148b75b567df508957b7d778cf9259d8e5a78daee7cc5ed2f8e8ca0f0f00b1e79a07d4bd03303258cb9f1ac998997102d72ea93c58daba99e6120e196572d</hash>
+                  <hash>3ce5a8f7e05a431e317dcbd90cf3e3593a4f9c6d86d8855fb091ce4596d49544cad746410134f59a6e199f17ace171bee111a99ea02acbfded15223f62a6e108</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

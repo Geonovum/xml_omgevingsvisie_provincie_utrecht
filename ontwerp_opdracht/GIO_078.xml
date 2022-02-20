@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_078</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_078/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_078/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>transitie_naar_duurzame_landbouw.gml</bestandsnaam>
-                  <hash>769e9c8ba887f5fca29a182fc5bc0cbd54c138d2360d71481d4173c0a07247103e5724acbb82603a8954de309aa076e1ff1fc0f926223f0f94d3879b540a4ea0</hash>
+                  <hash>6dbbc2d98e756e2df50c6a2704fc9df079490680625c49e5f6ee8279d8d91d6eaa1765f3117c0e205482fa198d4fbf864f16fa6f706345162797ac4936c2a1ab</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

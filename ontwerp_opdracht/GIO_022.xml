@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Voor validatie is het noodzakelijk om ook de catalogi van de gepubliceerde versie 1.0.4 te laden.-->
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-   xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   schemaversie="1.1.0"
-   xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_022</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_022/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_022/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>experimenteerruimte.gml</bestandsnaam>
-                  <hash>04abd961b18de17c5aa9b6dcb0878176583285c2d931372be5d7978bfb8c203b4db6c2483b54340613ec6fa3adcb3e9a434285bee66a455aa326bfae9f8e1917</hash>
+                  <hash>751419a6463413abedadc6749ffbadfcd1a6113389908d6ad2739cd0b0d50b3e891aaac0cd6ae15f350d70286e74f6924f2dd2ec537c066bee54493ebe79ee03</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

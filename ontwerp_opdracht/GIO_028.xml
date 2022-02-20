@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_028</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_028/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_028/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Groenblauwe_structuren.gml</bestandsnaam>
-                  <hash>44909ca63bf41257f5655b54270c2d19ea3d8455c23f5e8a768a5cf2f035b1f61717a084cb87139c7ddc867bf0b9d05d70755c7797c0eb909f77f2f8276a1b1f</hash>
+                  <hash>161337902c18628c6f658639ca5d108174183d71b3825dfcf973c5489a6ef8ae118eef153897e34f28dfd95d4dbcdd8be2b7b0400ad770f5c99f85ac92555166</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_008</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_008/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_008/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Beschermingszone_drinkwaterwinning.gml</bestandsnaam>
-                  <hash>bc253e28279b8909220c9c36f33b2c0fac7cc8f4caee07c12d5d23a230932c43896f6355a0a366db52e979566d16d347e50f05e272d398dd171fec0b8f7b06ce</hash>
+                  <hash>856a3fdb074b9ccf8729bbeb6d1a71ae32b163c46d4058125519a745b727e27acd9457cc017c9dfd7e257b4af514a663d93bb687002de196287b54cf8bac2af9</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

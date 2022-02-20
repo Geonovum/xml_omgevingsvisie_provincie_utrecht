@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_049</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_049/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_049/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>lange_termijn_zoekrichting_grootschalige_integrale_ontwikkeling_wonenwerkenbereikbaarheid.gml</bestandsnaam>
-                  <hash>5a53cf0882e57faf01ad9ed9fa30d3518c4b2f26228f8d73787b6dbc786ee5a6609f836f1504d034bbea1c9d5d96da1a5c5e6f1c5d6bfdcf1e1f3c3a6ebe7d59</hash>
+                  <hash>ecc2b5ffcd99c43dcefa12f48f5b1dd9717a7612e666f9c2bf6b7497431e85fed0e735aa40e6fb1b756df495be149f60352f566bf88886f503cc1ec30c15c7dc</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

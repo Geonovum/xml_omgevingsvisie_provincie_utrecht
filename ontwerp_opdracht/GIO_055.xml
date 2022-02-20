@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_055</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_055/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_055/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>ontwikkeling_nieuw_knooppunt.gml</bestandsnaam>
-                  <hash>28734e543d4d8201b2384e387bed5895192be457d8e8474820d05f4d98a2e6484c4cba0fb33536f6666f8cc27ac20e16e82dcac6c1c39e65dcd1c97724af68e8</hash>
+                  <hash>859d3df95d5cea25a3bc7889f5459a28a14f586b347a040e9ba03f02010926d1961f470b4666a11f0a87b027a8f374b33f6ab1276da29af9d1f7ac8800b1da7a</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

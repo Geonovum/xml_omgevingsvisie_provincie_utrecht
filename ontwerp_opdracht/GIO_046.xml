@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_046</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_046/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_046/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Landschap_Groene_Hart.gml</bestandsnaam>
-                  <hash>3a554a3aa8efbbb43711ae48f43cfc5e1ccafa6eaeaf9a1b0aeba91700364cce0b0a121216c850505d12f2ede206839372f456aece4377d2e0a4b59932670f83</hash>
+                  <hash>219592810a0fc35ea320e2af9b5e6408a517e8a4c199b1bebb1e1bb51d8e68d6f31822e5f1da4a9ea86cfcf0d06f8b75426db4d187c7238bc80d172584ecf741</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

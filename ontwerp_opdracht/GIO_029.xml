@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_029</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_029/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_029/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Groene_contour.gml</bestandsnaam>
-                  <hash>e184253588c406bda1740a4d6bba0827135777e435718dfbb13a42460f48ae1321ee7a19236fc08ad51ebd122f50c6cdee68f2aed5a928f50e6502ebdcb0ef60</hash>
+                  <hash>d856166f1977d5b8be9b4b53b12a91ef281c2e4da48fb2a189eec4e5eb4b151c31778033f99c4772407270ac424d93cedbfd46c28b4dddfe3871def213283ffc</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

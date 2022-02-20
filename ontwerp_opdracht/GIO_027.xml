@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_027</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_027/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_027/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Gezonde_en_veilige_leefomgeving.gml</bestandsnaam>
-                  <hash>433f0b4a1f1d116b96a1b29e104e4cac8f3e2fb55ba5a3a403c6a1140b6cbe36e46d07835539164b6fab4b0eea7ea97997d3abf35a9e47c42d59d6cf23aea3df</hash>
+                  <hash>83722417764d8036ea956b5c90c01d6de73a6de2f953cc2c17ecb7eb939bb1b4b9f564914d2de92d0b002674cdca120faf0922faaae462b92d73974d32a42a31</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

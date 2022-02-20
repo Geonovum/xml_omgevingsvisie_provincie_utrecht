@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_004</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_004/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_004/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Aardkundige_waarden.gml</bestandsnaam>
-                  <hash>7965c9f60f1309064d7affbf481feab4ab9379008999089423e70bc9e6dee96e9404c961a5f0f77444175be0629fd0ba47197ed1286d8f45a0a3d213dfec8ace</hash>
+                  <hash>aeacb19e5d282510a4a000a98289dada969f7b2aa68d6fd5851c102baf4543769dcb54e9b4514c519fe13380be5f2fef55e4da2feb2af3683197fb07da9d2710</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

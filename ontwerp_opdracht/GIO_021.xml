@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_021</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Energieneutrale_provincie.gml</bestandsnaam>
-                  <hash>0e942947ffc4395f51291bd3fdc9cf1ba9105b8ae5cf2a8c3f9a56133f6de7e37cd7bf6a15b22458c5dc89f84a86c74078bfd0d0ae79d1aef57ee58e147b3f3d</hash>
+                  <hash>7e1558eac2b3282ca2f0ff0a0913b2a3f81f1cd3635d29761656170af243c98cfd4c07e522af88cf06c0f37d6cdd044166d2c669f95d703d9732488c758f176b</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

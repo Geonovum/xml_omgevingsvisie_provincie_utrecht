@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_039</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_039/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_039/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Knooppunten.gml</bestandsnaam>
-                  <hash>cf5c733220a4489e0a1f31baad0ba9452358f2524c55753061b938f6bd967f2a80f8d01b43b7df233ba72c297c8a7cce73858e88058e98ddfe9e5e0b51a40161</hash>
+                  <hash>263fccb9ac098449ef9ac025f9f959b83e1f398cc1d25992f2f77f69aa022f3085e743f75a84743ef85d9870be9acb3c388973ad2284adcac34f877d29f633d6</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_031</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_031/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_031/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>versterken_grote_natuursystemen.gml</bestandsnaam>
-                  <hash>d178ed19c5f8748390abcee88ec855a16e890796b12ac427f765d5576f8da3b05376eb87d76a0e53f53a5d5a7af993aa89221e935a653492a2547aeb49e7fe48</hash>
+                  <hash>33183af2eebf25da3244e95c681c8efc20fa0d3a2a0613ec5ea4d0bab98c97735014bd6729765f6e08ba8d0c0e12a4137b9084713d55c4b1a7e621c941cf27ed</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

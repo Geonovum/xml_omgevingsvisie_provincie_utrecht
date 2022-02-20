@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_051</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_051/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_051/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Militair_oefenterrein_met_natuurwaarden.gml</bestandsnaam>
-                  <hash>54f757c70285244c0241c14727ec3a886299ddc755d321ba3476f0d15785b7e056decd25d504272368f6376c753bd6559400e294eb48833eb12f81c4aac419af</hash>
+                  <hash>de2bc16ac0149ad82a1b8e9ce4946a15438c34746c2134bfd080b2ebcdeb3abf7ba5f36a8d242747b999e72d84d5fd1d8a5952edf3713c9de8c034afa159644d</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

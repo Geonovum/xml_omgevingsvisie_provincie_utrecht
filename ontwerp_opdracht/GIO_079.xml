@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_079</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_079/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_079/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>versterken_stadlandverbinding.gml</bestandsnaam>
-                  <hash>fad820b99fff32133ad1812f96c519aa7863684aa51ed02fbfc126b639752afef20a16acfa0cfaa12fb96e4f5f05a6bd552fd8ffc2a466e2bdc766e36acd04f8</hash>
+                  <hash>89e37b4c17f8e3cca75d776ec5b8024f1a5501774473493a2e9c0ad331a788affe5400956f28234e75a81d5357cb9ff5dca67960e3cd228de764dee809cbaf75</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_041</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_041/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_041/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Landbouwontwikkelingsgebied.gml</bestandsnaam>
-                  <hash>2ee6302d7af5ace11de3540e6a9bf84fc26ee55c7de6ed1ccfb60262902bba49b205dfe390c26f62ebe2e64b2837de541b3457ca751a88143dddb47d6350ad9a</hash>
+                  <hash>946e1003afbf8d917a69202cc62e917bb0e54347322936a5b4099e469cfe860993c30b2b736ad56edaaa8eabcd63571a3b19c5834686d1c1efb5c345610f13a3</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

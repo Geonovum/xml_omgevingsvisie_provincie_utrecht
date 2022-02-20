@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_026</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_026/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_026/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Genomineerd_UNESCO_Neder__Germaanse_Limes_bufferzone.gml</bestandsnaam>
-                  <hash>af12fbbaa732c7ba3c58e6ac9042099a158f5b09f9bc1fff1fbbefa18c7ac2ff8e65bcdf4410aa769416e311f182763e40b81a73a12418b9c5433b264aaf62ec</hash>
+                  <hash>6859fac2f1794a473c291a89b04556de4164d14c0bd702c4f8e613d313ec99aaf249ba5a4af5baaf04f27acb8be0f604842b6b0ae15b9096f0a5a14861757896</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

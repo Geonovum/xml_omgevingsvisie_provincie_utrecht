@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_077</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_077/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_077/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>tegengaan_bodemdaling.gml</bestandsnaam>
-                  <hash>1040dca576e20f0ab3c98d08d07869b624dced94d3012d94bc83921038d14cf77c02b02bf295b4545b90ddb067719036030c62f99aee11bc3d2d90aff0682ad3</hash>
+                  <hash>029f330ed2751832459276d99f15855d7fca39b2ff203b9302314e17e012e4f31450a5374f088199da41899c6d29a0d71d3316c29987c9a0ace85dd56ec53619</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

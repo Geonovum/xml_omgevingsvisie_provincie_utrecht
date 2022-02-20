@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_057</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_057/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_057/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Overstroombaar_gebied.gml</bestandsnaam>
-                  <hash>a5877d3af59eaac60468fb8a611860db136432519318a9c57d148c093291a021a58491198eecfce245fe8bbdb6b64fbad73180aaf41858d505d613a531e0fd51</hash>
+                  <hash>0b2c0d87680ec527935948731fc0799dfb3373e850204236e05b8062c98666ea4be3ae323a4cc69ce9f114daa1226a9f26f70c3f6b031ba747f5e467921b966e</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

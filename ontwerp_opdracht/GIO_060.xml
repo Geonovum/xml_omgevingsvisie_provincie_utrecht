@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_060</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_060/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_060/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Provinciaal_wegennet.gml</bestandsnaam>
-                  <hash>e8bc5e77d8b4e2cea2eb8e49fbc76fcae5d5477de14e1bcd88f21cbf0e9a964d015875817bb4e701616c796365262ee6a7a22963f8b55bc8452a18c090e15bc1</hash>
+                  <hash>316ea142478cd36cb510fcd40862fd98581f030b4f7735f720a18595dd9fa702d7563e2b8074a23c0825322d47b41cb04fd1900a3c642f64ce32aa256c930631</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_071</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_071/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_071/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Regionale_kering.gml</bestandsnaam>
-                  <hash>02b532e0d56fc0609ee7b17e157d0b78e20d3e52a81267eebe65271b7e4cbac6b2b3575bd88ede1f0aff73d276f5773bc9f4f7d66ae9dba0377814fca380d35e</hash>
+                  <hash>2b98a09472dddb28ee3a2fb055b90c0b4f151e58c017a2946f6a97498a9e2e6b8ac08af1aa7e578bdb84e8b84c597bbdd669985d27799689d4d0306e8e41aed0</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

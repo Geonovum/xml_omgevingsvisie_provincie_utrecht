@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_019</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_019/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_019/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Duurzaam_gebruik_van_de_ondergrond.gml</bestandsnaam>
-                  <hash>2fc9cbdb7064241f2028015841828fa591ca49a457d8e0aad0708ddd65130f969222672364af0304ecfeb40697547c90f1441faa80cd213846b148543298fa7a</hash>
+                  <hash>111e39ed45c93614a255b396b0113541e09908a1a50f177b11cba5efdb3a29749e99fd0955d5b43bfa30a81f089c1b148254ce710a4d6f79a73523987a0c445d</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

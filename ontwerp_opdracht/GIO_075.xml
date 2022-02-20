@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_075</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_075/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_075/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Stedelijk_gebied.gml</bestandsnaam>
-                  <hash>f867e510fce4a54765e0bcbf8bd53af1c72f0439ba434d8974c6b8a50b710677caa7b277eb695a688e7412a5f096f2b0f6ffc6767cfd0c0bee87f77b6e2f0fdc</hash>
+                  <hash>fa0f1ead8dada91049c087a49c0015a0b749e030b9fd3039b44e6e433d818bc652975d9b93786451506bb966c1958a594438ea42a61e4b032bbb5e85325bf6d4</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_048</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_048/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_048/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Landschap_Utrechtse_Heuvelrug.gml</bestandsnaam>
-                  <hash>505947c033ef21fe719fc37bca7613bd382c9d9c36fdb2d8ec72d7514c560938a2296981ae9b8cd1ce5293dff3e004700b5a438554c30418e6beccc3d0b1455c</hash>
+                  <hash>cb2f5470ff1cd546542c8a26439e6d57040f26e8fff8f9ee4ebb8fe53551f331cff2528ca7433c15511cfec15d540276d97bfcabe7e4d856379ee29b4100fb5e</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

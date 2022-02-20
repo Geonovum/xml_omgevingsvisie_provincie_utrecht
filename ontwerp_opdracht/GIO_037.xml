@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_037</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_037/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_037/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Klimaatbestendig.gml</bestandsnaam>
-                  <hash>a4946f1d862e38b18665ddefc807d8f476c7b7e54475cb96977d26b6f6007b4ee29fc71fb60997c3036aae9919fef01fb11fee8600a2d2af3d689668089f8139</hash>
+                  <hash>f883a62a4fa7e2be68ccfd6699c5cd1fcb63857ac3e384c09533cf6e2f8acfab6a4f02e85803e0458867bce814fdbef019a9b06a48e5b167948ac31a95733831</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_084</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_084/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_084/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Zwemwater.gml</bestandsnaam>
-                  <hash>2ccb47228874989c06d8388b0d245ea7d2cc524164609fcf08c0ac66e52670fd635c78cfa728154978305253669e2337bfb74fad79ddfd09797f1057713dc1e4</hash>
+                  <hash>1a90e0f969ac4284bd6e1357ed67277a78377088f0a7adaf25cf60f5e70b4d184884201d41840ae2031ee206435a7db4a37b7a2610570a9645b1891d8bc1780e</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_006</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_006/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_006/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>CHS_archeologische_waardevolle_zone.gml</bestandsnaam>
-                  <hash>b9e7d8ba4f6f33a47ab999a9f5730ebf634b6d98b30820ef212393e44434fd836c93042ea078d091490c8fe3d5231d290a7811476ae6013f7de75044e3990e6d</hash>
+                  <hash>eed36eb75b58e476dbdbdce326feea3e3311865ec6ee19a918db7700853b7738802514ad10268ed4c4b8724f9f4ff67bc8070e4cdda0fa0f563766a490317c1e</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

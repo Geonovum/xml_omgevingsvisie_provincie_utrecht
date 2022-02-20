@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_076</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_076/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_076/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Stiltegebied.gml</bestandsnaam>
-                  <hash>34ddfab332802c9aabc00f6b7e35e41fcd6ec191ce814e0ced8efec817196245cc234a2a3ab70c2a2cc535cb9b430380504a5d6f756c96b173c868e2f5e589e2</hash>
+                  <hash>f3238dd65cccdadb25b174cb70288172bdcf03b1f5947df624a324eebd2c085a7392e4a43952c20d7fc7e912cc7ea2efc8821bf08c6910d4003615ab71588ae9</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

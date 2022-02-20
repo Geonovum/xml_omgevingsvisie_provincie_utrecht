@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_073</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_073/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_073/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Ruimte_voor_windenergie_en_zonnevelden_onder_voorwaarde.gml</bestandsnaam>
-                  <hash>0041e950d025881367cf6a85f06b73ae1a38acbaf5467387d54f312963419810613a4be3315311305c2361c3ffef7b8cf1028457227a27207e38cf4638f330bf</hash>
+                  <hash>6f9b82bb12adf2e2cca855409d8afce591c30bed5d27818197cbca124540a79b2c13c5c72b42ac8d6cf872b83fd5211f3531812bb49839cd987a6c8425a78c1e</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

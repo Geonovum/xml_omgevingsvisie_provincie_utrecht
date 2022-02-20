@@ -8,7 +8,7 @@
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_065</FRBRWork>
-         <FRBRExpression>/join/id/regdata/pv26/2020/gio_065/nld@2020-07-20</FRBRExpression>
+         <FRBRExpression>/join/id/regdata/pv26/2020/gio_065/nld@2020-07-20;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>vasthouden_en_infiltreren_regenwater.gml</bestandsnaam>
-                  <hash>340f43d7157f412ca31733e5836fbc860947bcd2102b9cf97489305caf51ff81cc6647c792915ec9099f9a87500c27990e4294b56c7959515284adb648af3a0d</hash>
+                  <hash>5ea0fac65c25f35100edfa8b79f34c451a8892df364c60ecca12f4903a80b724f2c2eceadc7f8cc82ac7aaa0fe5eb5ddd98213a6f9a0d08290bd7aa774b7463b</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

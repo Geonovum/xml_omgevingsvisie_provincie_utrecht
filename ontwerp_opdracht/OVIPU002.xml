@@ -6,8 +6,8 @@
                     xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/bill/pv26/2020/OVIPU001Ontwerp</FRBRWork>
-         <FRBRExpression>/akn/nl/bill/pv26/2020/OVIPU001Ontwerp/nld@2020-05-12;2</FRBRExpression>
+         <FRBRWork>/akn/nl/bill/pv26/2022/OVIPU001Ontwerp</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/pv26/2022/OVIPU001Ontwerp/nld@2020-05-12;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_003</soortWork>
       </ExpressionIdentificatie>
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -30,90 +30,90 @@
          </rechtsgebieden>
          <soortProcedure>/join/id/stop/proceduretype_ontwerp</soortProcedure>
          <informatieobjectRefs>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_001/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_002/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_003/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_004/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_005/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_006/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_007/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_008/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_009/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_010/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_011/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_012/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_013/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_014/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_015/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_016/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_017/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_018/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_019/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_020/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_022/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_023/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_024/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_025/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_026/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_027/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_028/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_029/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_030/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_031/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_032/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_033/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_034/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_035/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_036/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_037/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_038/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_039/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_040/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_041/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_042/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_043/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_044/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_045/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_046/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_047/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_048/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_049/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_050/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_051/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_052/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_053/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_054/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_055/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_056/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_057/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_058/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_059/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_060/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_061/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_062/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_063/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_064/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_065/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_066/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_067/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_068/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_069/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_070/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_071/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_072/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_073/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_074/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_075/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_076/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_077/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_078/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_079/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_080/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_081/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_082/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_083/nld@2020-07-20</informatieobjectRef>
-            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_084/nld@2020-07-20</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_001/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_002/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_003/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_004/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_005/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_006/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_007/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_008/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_009/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_010/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_011/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_012/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_013/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_014/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_015/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_016/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_017/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_018/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_019/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_020/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_022/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_023/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_024/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_025/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_026/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_027/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_028/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_029/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_030/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_031/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_032/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_033/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_034/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_035/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_036/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_037/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_038/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_039/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_040/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_041/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_042/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_043/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_044/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_045/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_046/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_047/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_048/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_049/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_050/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_051/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_052/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_053/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_054/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_055/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_056/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_057/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_058/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_059/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_060/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_061/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_062/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_063/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_064/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_065/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_066/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_067/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_068/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_069/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_070/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_071/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_072/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_073/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_074/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_075/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_076/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_077/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_078/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_079/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_080/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_081/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_082/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_083/nld@2020-07-20;ontwerp</informatieobjectRef>
+            <informatieobjectRef>/join/id/regdata/pv26/2020/gio_084/nld@2020-07-20;ontwerp</informatieobjectRef>
          </informatieobjectRefs>
       </BesluitMetadata>
       <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -136,595 +136,595 @@
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/pv26/2020/OVIPU001Ontwerp/nld@2020-05-12;2</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/pv26/2020/OVIPU001Ontwerp/nld@2020-05-12;ontwerp</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_001/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_001/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_002/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_002/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_003/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_003/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_004/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_004/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_005/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_005/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_006/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_006/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_6__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_007/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_007/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_008/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_008/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_009/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_009/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_9__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_010/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_010/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_10__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_011/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_011/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_11__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_012/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_012/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_12__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_013/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_013/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_13__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_014/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_014/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_14__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_015/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_015/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_15__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_016/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_016/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_16__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_017/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_017/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_17__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_018/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_018/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_18__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_019/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_019/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_19__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_020/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_020/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_20__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_21__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_022/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_022/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_22__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_023/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_023/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_23__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_024/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_024/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_24__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_025/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_025/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_25__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_026/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_026/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_26__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_027/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_027/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_27__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_028/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_028/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_28__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_029/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_029/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_29__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_030/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_030/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_30__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_031/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_031/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_31__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_032/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_032/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_32__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_033/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_033/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_33__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_034/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_034/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_34__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_035/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_035/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_35__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_036/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_036/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_36__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_037/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_037/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_37__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_038/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_038/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_38__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_039/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_039/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_39__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_040/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_040/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_40__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_041/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_041/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_41__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_042/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_042/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_42__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_043/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_043/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_43__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_044/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_044/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_44__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_045/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_045/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_45__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_046/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_046/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_46__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_047/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_047/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_47__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_048/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_048/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_48__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_049/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_049/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_49__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_050/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_050/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_50__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_051/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_051/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_51__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_052/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_052/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_52__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_053/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_053/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_53__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_054/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_054/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_54__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_055/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_055/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_55__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_056/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_056/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_56__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_057/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_057/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_57__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_058/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_058/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_58__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_059/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_059/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_59__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_060/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_060/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_60__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_061/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_061/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_61__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_062/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_062/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_62__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_063/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_063/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_63__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_064/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_064/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_64__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_065/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_065/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_65__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_066/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_066/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_66__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_067/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_067/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_67__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_068/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_068/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_68__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_069/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_069/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_69__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_070/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_070/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_70__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_071/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_071/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_71__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_072/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_072/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_72__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_073/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_073/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_73__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_074/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_074/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_74__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_075/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_075/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_75__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_076/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_076/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_76__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_077/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_077/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_77__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_078/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_078/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_78__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_079/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_079/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_79__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_080/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_080/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_80__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_081/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_081/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_81__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_082/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_082/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_82__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_083/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_083/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_83__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/pv26/2020/InstellingOntwerpOmgevingsVisie</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/pv26/2020/gio_084/nld@2020-07-20</instrumentVersie>
+               <instrumentVersie>/join/id/regdata/pv26/2020/gio_084/nld@2020-07-20;ontwerp</instrumentVersie>
                <eId>!initieel_reg#cmp_2__content_o_1__list_o_1__item_o_84__ref_o_1</eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
@@ -763,7 +763,7 @@
                <Nummer>I</Nummer>
             </Kop>
             <RegelingVrijetekst componentnaam="initieel_reg"
-                                wordt="/akn/nl/act/pv26/2020/OVIPU001Ontwerp/nld@2020-05-12;2">
+                                wordt="/akn/nl/act/pv26/2020/OVIPU001Ontwerp/nld@2020-05-12;ontwerp">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Omgevingsvisie provincie Utrecht</Al>
                </RegelingOpschrift>
@@ -8282,7 +8282,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_001/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_001/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_001/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_001/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Aandachtsgebied_bodemdaling_landelijk.gml-->
@@ -8294,7 +8294,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_2__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_002/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_002/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_002/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_002/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Aandachtsgebied_bodemdaling_stedelijk.gml-->
@@ -8306,7 +8306,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_3__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_3__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_003/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_003/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_003/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_003/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Aantrekkelijke_en_toekomstbestendige_dijk.gml-->
@@ -8318,7 +8318,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_4__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_4__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_004/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_004/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_004/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_004/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Aardkundige_waarden.gml-->
@@ -8330,7 +8330,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_5__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_005/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_005/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_005/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_005/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--CHS_agrarisch_cultuurlandschap.gml-->
@@ -8342,7 +8342,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_6__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_006/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_006/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_006/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_006/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--CHS_archeologische_waardevolle_zone.gml-->
@@ -8354,7 +8354,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_7__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_007/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_007/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_007/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_007/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Beperken_bodembewerking.gml-->
@@ -8366,7 +8366,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_8__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_008/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_008/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_008/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_008/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Beschermingszone_drinkwaterwinning.gml-->
@@ -8378,7 +8378,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_9__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_9__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_009/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_009/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_009/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_009/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Bestaand_winkelgebied.gml-->
@@ -8390,7 +8390,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_10__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_10__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_010/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_010/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_010/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_010/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--benutten_bestaand_knooppunt.gml-->
@@ -8402,7 +8402,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_11__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_11__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_011/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_011/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_011/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_011/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--beter_benutten_hoofdwegennet.gml-->
@@ -8414,7 +8414,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_12__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_12__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_012/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_012/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_012/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_012/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--beter_benutten_provinciale_wegennet.gml-->
@@ -8426,7 +8426,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_13__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_13__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_013/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_013/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_013/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_013/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--beter_benutten_spoor_en_hoogwaardig_OVnetwerk.gml-->
@@ -8438,7 +8438,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_14__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_14__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_014/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_014/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_014/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_014/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--binnenstedelijke_en_binnendorpse_ontwikkeling.gml-->
@@ -8450,7 +8450,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_15__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_15__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_015/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_015/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_015/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_015/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Biodiversiteit.gml-->
@@ -8462,7 +8462,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_16__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_16__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_016/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_016/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_016/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_016/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Bovenlokaal_dagrecreatieterrein.gml-->
@@ -8474,7 +8474,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_17__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_17__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_017/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_017/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_017/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_017/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Concentratiegebied_glastuinbouw.gml-->
@@ -8486,7 +8486,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_18__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_18__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_018/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_018/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_018/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_018/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Culturele_infrastructuur_en_monumenten_zorg.gml-->
@@ -8498,7 +8498,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_19__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_19__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_019/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_019/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_019/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_019/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Duurzaam_gebruik_van_de_ondergrond.gml-->
@@ -8510,7 +8510,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_20__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_20__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_020/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_020/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_020/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_020/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Energielandschap_tijdelijk.gml-->
@@ -8522,7 +8522,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_21__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_21__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_021/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--provincie_Utrecht.gml-->
@@ -8535,7 +8535,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_22__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_22__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_022/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_022/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_022/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_022/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--experimenteerruimte.gml-->
@@ -8547,7 +8547,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_23__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_23__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_023/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_023/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_023/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_023/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Ganzenrustgebied.gml-->
@@ -8559,7 +8559,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_24__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_24__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_024/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_024/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_024/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_024/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Geluidscontour_provinciale_wegen_61_dB.gml-->
@@ -8571,7 +8571,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_25__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_25__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_025/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_025/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_025/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_025/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Genomineerd_UNESCO_Hollandse_Waterlinie.gml-->
@@ -8583,7 +8583,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_26__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_26__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_026/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_026/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_026/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_026/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Genomineerd_UNESCO_Neder__Germaanse_Limes_bufferzone.gml-->
@@ -8595,7 +8595,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_27__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_27__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_027/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_027/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_027/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_027/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Gezonde_en_veilige_leefomgeving.gml-->
@@ -8607,7 +8607,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_28__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_28__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_028/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_028/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_028/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_028/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Groenblauwe_structuren.gml-->
@@ -8619,7 +8619,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_29__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_29__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_029/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_029/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_029/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_029/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Groene_contour.gml-->
@@ -8631,7 +8631,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_30__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_30__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_030/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_030/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_030/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_030/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Grondwaterlichaam.gml-->
@@ -8643,7 +8643,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_31__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_31__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_031/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_031/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_031/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_031/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--versterken_grote_natuursystemen.gml-->
@@ -8655,7 +8655,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_32__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_32__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_032/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_032/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_032/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_032/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--CHS_historische_buitenplaatszone.gml-->
@@ -8667,7 +8667,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_33__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_33__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_033/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_033/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_033/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_033/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--CHS_historische_infrastructuur.gml-->
@@ -8679,7 +8679,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_34__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_34__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_034/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_034/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_034/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_034/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--nader_te_verkennen_verbinding_hoogwaardig_OV.gml-->
@@ -8691,7 +8691,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_35__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_35__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_035/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_035/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_035/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_035/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Houtopstanden.gml-->
@@ -8703,7 +8703,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_36__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_36__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_036/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_036/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_036/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_036/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Kernrandzone.gml-->
@@ -8715,7 +8715,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_37__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_37__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_037/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_037/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_037/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_037/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Klimaatbestendig.gml-->
@@ -8727,7 +8727,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_38__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_38__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_038/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_038/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_038/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_038/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--klimaatbestendige_wateraanvoer.gml-->
@@ -8739,7 +8739,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_39__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_39__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_039/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_039/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_039/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_039/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Knooppunten.gml-->
@@ -8751,7 +8751,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_40__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_40__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_040/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_040/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_040/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_040/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Landbouwgebied.gml-->
@@ -8763,7 +8763,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_41__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_41__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_041/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_041/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_041/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_041/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Landbouwontwikkelingsgebied.gml-->
@@ -8775,7 +8775,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_42__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_42__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_042/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_042/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_042/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_042/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Landbouwstabiliseringsgebied.gml-->
@@ -8787,7 +8787,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_43__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_43__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_043/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_043/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_043/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_043/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Landelijk_gebied.gml-->
@@ -8799,7 +8799,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_44__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_44__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_044/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_044/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_044/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_044/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Landschap_eemland.gml-->
@@ -8811,7 +8811,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_45__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_45__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_045/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_045/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_045/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_045/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Landschap_Gelderse_Vallei.gml-->
@@ -8823,7 +8823,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_46__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_46__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_046/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_046/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_046/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_046/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Landschap_Groene_Hart.gml-->
@@ -8835,7 +8835,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_47__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_47__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_047/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_047/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_047/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_047/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Landschap_Rivierengebied.gml-->
@@ -8847,7 +8847,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_48__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_48__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_048/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_048/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_048/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_048/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Landschap_Utrechtse_Heuvelrug.gml-->
@@ -8859,7 +8859,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_49__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_49__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_049/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_049/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_049/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_049/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--lange_termijn_zoekrichting_grootschalige_integrale_ontwikkeling_wonenwerkenbereikbaarheid.gml-->
@@ -8871,7 +8871,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_50__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_50__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_050/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_050/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_050/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_050/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--CHS_militair_erfgoed.gml-->
@@ -8883,7 +8883,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_51__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_51__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_051/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_051/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_051/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_051/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Militair_oefenterrein_met_natuurwaarden.gml-->
@@ -8895,7 +8895,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_52__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_52__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_052/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_052/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_052/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_052/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--optimaliseren_multimodaal_knooppunt.gml-->
@@ -8907,7 +8907,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_53__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_53__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_053/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_053/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_053/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_053/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Natura_2000_gebieden.gml-->
@@ -8919,7 +8919,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_54__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_54__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_054/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_054/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_054/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_054/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Natuurnetwerk_Nederland.gml-->
@@ -8931,7 +8931,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_55__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_55__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_055/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_055/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_055/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_055/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--ontwikkeling_nieuw_knooppunt.gml-->
@@ -8943,7 +8943,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_56__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_56__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_056/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_056/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_056/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_056/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--ontwikkeling_groenblauwe_en_recreatieve_structuur.gml-->
@@ -8955,7 +8955,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_57__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_57__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_057/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_057/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_057/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_057/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Overstroombaar_gebied.gml-->
@@ -8967,7 +8967,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_58__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_58__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_058/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_058/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_058/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_058/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--potentiele_locatie_voor_integrale_ontwikkeling_wonenwerken_rondom_knooppunt.gml-->
@@ -8979,7 +8979,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_59__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_59__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_059/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_059/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_059/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_059/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Provinciaal_OV_netwerk.gml-->
@@ -8991,7 +8991,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_60__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_60__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_060/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_060/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_060/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_060/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Provinciaal_wegennet.gml-->
@@ -9003,7 +9003,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_61__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_61__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_061/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_061/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_061/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_061/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Provincie_Utrecht.gml-->
@@ -9015,7 +9015,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_62__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_62__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_062/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_062/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_062/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_062/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Recreatietoervaart.gml-->
@@ -9027,7 +9027,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_63__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_63__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_063/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_063/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_063/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_063/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Recreatiewoningen.gml-->
@@ -9039,7 +9039,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_64__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_64__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_064/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_064/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_064/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_064/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Recreatiezone.gml-->
@@ -9051,7 +9051,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_65__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_65__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_065/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_065/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_065/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_065/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--vasthouden_en_infiltreren_regenwater.gml-->
@@ -9063,7 +9063,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_66__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_66__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_066/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_066/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_066/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_066/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Regio_Amersfoort.gml-->
@@ -9075,7 +9075,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_67__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_67__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_067/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_067/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_067/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_067/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Regio_Foodvalley.gml-->
@@ -9087,7 +9087,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_68__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_68__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_068/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_068/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_068/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_068/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Regio_U16.gml-->
@@ -9099,7 +9099,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_69__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_69__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_069/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_069/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_069/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_069/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Provinciale_vaarwegen.gml-->
@@ -9111,7 +9111,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_70__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_70__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_070/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_070/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_070/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_070/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Regionaal_fietsnetwerk.gml-->
@@ -9123,7 +9123,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_71__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_71__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_071/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_071/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_071/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_071/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Regionale_kering.gml-->
@@ -9135,7 +9135,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_72__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_72__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_072/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_072/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_072/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_072/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Ruimte_bieden_voor_duurzame_energie.gml-->
@@ -9147,7 +9147,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_73__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_73__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_073/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_073/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_073/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_073/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Ruimte_voor_windenergie_en_zonnevelden_onder_voorwaarde.gml-->
@@ -9159,7 +9159,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_74__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_74__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_074/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_074/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_074/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_074/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Snelfietsroute.gml-->
@@ -9171,7 +9171,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_75__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_75__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_075/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_075/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_075/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_075/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Stedelijk_gebied.gml-->
@@ -9183,7 +9183,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_76__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_76__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_076/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_076/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_076/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_076/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Stiltegebied.gml-->
@@ -9195,7 +9195,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_77__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_77__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_077/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_077/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_077/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_077/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--tegengaan_bodemdaling.gml-->
@@ -9207,7 +9207,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_78__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_78__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_078/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_078/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_078/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_078/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--transitie_naar_duurzame_landbouw.gml-->
@@ -9219,7 +9219,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_79__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_79__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_079/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_079/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_079/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_079/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--versterken_stadlandverbinding.gml-->
@@ -9231,7 +9231,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_80__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_80__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_080/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_080/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_080/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_080/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Waterbergingsgebied.gml-->
@@ -9243,7 +9243,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_81__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_81__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_081/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_081/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_081/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_081/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Weidevogelkerngebied.gml-->
@@ -9255,7 +9255,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_82__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_82__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_082/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_082/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_082/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_082/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Zoekgebied_drinkwater.gml-->
@@ -9267,7 +9267,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_83__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_83__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_083/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_083/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_083/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_083/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--zoekrichting_grootschalige_integrale_ontwikkeling_wonenwerkenbereikbaarheid.gml-->
@@ -9279,7 +9279,7 @@
                                  <Al>
                                     <ExtIoRef eId="cmp_2__content_o_1__list_o_1__item_o_84__ref_o_1"
                                               wId="pv26_2__cmp_2__content_o_1__list_o_1__item_o_84__ref_o_1"
-                                              ref="/join/id/regdata/pv26/2020/gio_084/nld@2020-07-20">/join/id/regdata/pv26/2020/gio_084/nld@2020-07-20</ExtIoRef>
+                                              ref="/join/id/regdata/pv26/2020/gio_084/nld@2020-07-20;ontwerp">/join/id/regdata/pv26/2020/gio_084/nld@2020-07-20;ontwerp</ExtIoRef>
                                  </Al>
                               </Definitie>
                               <!--Zwemwater.gml-->
@@ -9295,7 +9295,7 @@
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/act/pv26/2020/OVIPU001Ontwerp</FRBRWork>
-         <FRBRExpression>/akn/nl/act/pv26/2020/OVIPU001Ontwerp/nld@2020-05-12;2</FRBRExpression>
+         <FRBRExpression>/akn/nl/act/pv26/2020/OVIPU001Ontwerp/nld@2020-05-12;ontwerp</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
