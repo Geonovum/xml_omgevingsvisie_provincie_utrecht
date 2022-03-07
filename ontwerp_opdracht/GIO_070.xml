@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_070</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Regionaal_fietsnetwerk.gml</bestandsnaam>
-                  <hash>ebf59897706c53d73b40738a1bc6dccb3a9af80989ee2856d8356ca970e637a080cdf4a2b35d3ecb886ad5752b93cbf78f5479009b8e8ea182558379f9d92db8</hash>
+                  <hash>3b0a19100b3a0f516741c7362b5288eaa548dc6ed4b90b6e5c43fdf66da59a8b043fb53fbbdab995c065a2cdc992e9c8443388933e253043cb94d578b47aaac3</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

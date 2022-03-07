@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_011</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>beter_benutten_hoofdwegennet.gml</bestandsnaam>
-                  <hash>ac094d11e328b38feecaa76528c6bf2e7ec85906372d66282f117071b4cb496029a26db8cc6b60d439469bc3ea813c0c63e62f12f9bc65fb0bcb2542bcb77885</hash>
+                  <hash>08927b7069c5ab994d3d0fb03a804128bc5aa9cd8fa04b567e66df615a1df27d41954ed347fd65573688cc57c7f998e692bf6a1392b2c18a6cb410ee0c081437</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

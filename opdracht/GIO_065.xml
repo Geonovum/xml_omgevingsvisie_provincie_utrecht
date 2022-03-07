@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_065</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>vasthouden_en_infiltreren_regenwater.gml</bestandsnaam>
-                  <hash>340f43d7157f412ca31733e5836fbc860947bcd2102b9cf97489305caf51ff81cc6647c792915ec9099f9a87500c27990e4294b56c7959515284adb648af3a0d</hash>
+                  <hash>c780419f4676fd114b3d2bf24d1c6a732a613e385126eb52633c57ab24cdebcfd8e31d67c584ab109e571a55b6db9187ec9d10ac972fbccbaf792a71c3474c64</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_017</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Concentratiegebied_glastuinbouw.gml</bestandsnaam>
-                  <hash>ac981c054a0efe565d20275737c4d5b49bb8a6bf0aed3c39706d915460f63f96544c779f8c358604e4456a89ac25bf5b07309c7845ea86fffa61626ecd91696b</hash>
+                  <hash>5d386aee520cddc4ddf75f60440068874f8fc25fb670cc96942c2fa15f318cb5cfc1653df3f4223bd5fe67bd12e1c6d17a45e330860ffd169a16e854e970fe50</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

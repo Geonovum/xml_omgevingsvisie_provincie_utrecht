@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_008</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Beschermingszone_drinkwaterwinning.gml</bestandsnaam>
-                  <hash>bc253e28279b8909220c9c36f33b2c0fac7cc8f4caee07c12d5d23a230932c43896f6355a0a366db52e979566d16d347e50f05e272d398dd171fec0b8f7b06ce</hash>
+                  <hash>99956eaf8009bfcd8f7c72bc0c7bfb1e0b73e4fc4dc3b47d59f04c21b271d5924a0ea693ccd6b41ec6e4c44bee8f8c158de680709e90fcd2c3ce4270b4d5e0c7</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

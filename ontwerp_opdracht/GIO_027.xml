@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_027</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Gezonde_en_veilige_leefomgeving.gml</bestandsnaam>
-                  <hash>83722417764d8036ea956b5c90c01d6de73a6de2f953cc2c17ecb7eb939bb1b4b9f564914d2de92d0b002674cdca120faf0922faaae462b92d73974d32a42a31</hash>
+                  <hash>3aab80d02b5f42da889d93c933c5bc8ae57f610a010d37119aa89ebe981621917156f99e62901201fd3bd62b3eb62da9445b79300d0ee81e8f3f3d5f5b529b42</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

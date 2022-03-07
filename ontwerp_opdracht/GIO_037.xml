@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_037</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Klimaatbestendig.gml</bestandsnaam>
-                  <hash>f883a62a4fa7e2be68ccfd6699c5cd1fcb63857ac3e384c09533cf6e2f8acfab6a4f02e85803e0458867bce814fdbef019a9b06a48e5b167948ac31a95733831</hash>
+                  <hash>78197fcce3fec0a67044c2996936f9cce8bf08dceae732bea6bf531d11db092069c7f6e792eee478d3ee7f8db17822e62f314a515e40a14b0d91bd2def3dfb18</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_068</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Regio_U16.gml</bestandsnaam>
-                  <hash>859dc6282365d8e0d3e303f003ccec19151a2ce88fe63c3556472efee50d70de32c53e62b5a7720704b19352cd865815037c812f9bb33e5f1983338d111deb13</hash>
+                  <hash>9a0c1bb216bdfd1f9639057f2a257e854045ca7142abfd6a362be9a807b8c513180f9a0161170ea377395fd5787e0166da081386cec03351db03f2d4612a2767</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_084</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Zwemwater.gml</bestandsnaam>
-                  <hash>1a90e0f969ac4284bd6e1357ed67277a78377088f0a7adaf25cf60f5e70b4d184884201d41840ae2031ee206435a7db4a37b7a2610570a9645b1891d8bc1780e</hash>
+                  <hash>2f6e7a1047612a9be9971de19cf3a3d29f2cdffb9c0630bb23e63515e4435d3f9d04e7bbc01b4de2647e0668caeec387290280a00a990ab19d7f36cbd7eb13c4</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

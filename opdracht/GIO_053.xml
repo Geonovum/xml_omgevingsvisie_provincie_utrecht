@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_053</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Natura_2000_gebieden.gml</bestandsnaam>
-                  <hash>e44d64f7f2919e2fde6300f4b5493a1b22b704f380c21ece5c72bf6d593b36b381681c2cd5cc1115312004437a7a2939aeb909d73495805dc84a27d6acafc62e</hash>
+                  <hash>b969bb8bf3b86bebe328ed916d2d9e0624f25f8b8e57d58e3000c45501735dc538d322e1022f88f78b1eca1b7c6c193e06671da8f624ce28148d2cfb3206ad6a</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

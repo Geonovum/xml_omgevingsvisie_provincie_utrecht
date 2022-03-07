@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_051</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Militair_oefenterrein_met_natuurwaarden.gml</bestandsnaam>
-                  <hash>54f757c70285244c0241c14727ec3a886299ddc755d321ba3476f0d15785b7e056decd25d504272368f6376c753bd6559400e294eb48833eb12f81c4aac419af</hash>
+                  <hash>5b25f29073c9ed9a192c88322dbeb796fb557a42e92ded6f9993d885abccb52c607621f5191d50cfb296d682d4fbd214ff3483b54ed777cc3f0f48f3ff59173d</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

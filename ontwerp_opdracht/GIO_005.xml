@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_005</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>CHS_agrarisch_cultuurlandschap.gml</bestandsnaam>
-                  <hash>6eda4bd99af31734e36f9ee6c6bc0c4ab1975f5ffdc546675ca21c0c7dbc3c55bc661ce95326918dcbc6de08afaa482330cc1c1d4c57f95906b6031dc239ca8f</hash>
+                  <hash>b8c37d61be4d1a20a1c0f5d83657d7bc55d45eaa2bd19f5990f62615455f089174d5ff10741751653ad94dfa67f84714b5430a415fa25a755c2a9d8018733da0</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

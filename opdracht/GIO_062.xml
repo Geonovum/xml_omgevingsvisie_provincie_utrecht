@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_062</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Recreatietoervaart.gml</bestandsnaam>
-                  <hash>a612848277f90b7fcb0456867c5ed0191bded622421ef4f7bd2698893a72652085aae73afee9fff0fa1e390eba49ae451f5bf3490923d532ddcf6dc973900288</hash>
+                  <hash>294cff9d285d1fe76a0daedffc53d9ac81e7e26a4bcdc7709ffc7f42a04591e9a248302dac6e5947a4e08db77e54be1e2463be6a8d5d3a79562ea3bb1de5522f</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

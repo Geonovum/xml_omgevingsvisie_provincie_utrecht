@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_055</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>ontwikkeling_nieuw_knooppunt.gml</bestandsnaam>
-                  <hash>28734e543d4d8201b2384e387bed5895192be457d8e8474820d05f4d98a2e6484c4cba0fb33536f6666f8cc27ac20e16e82dcac6c1c39e65dcd1c97724af68e8</hash>
+                  <hash>6ec1d82a82d169bb2eb91b6c917ba169c1a7c12608a302e134d046edc6d5d9685c30037431f47bd81732fdcbc0c6900585604ec9ab27f11ea4c16fca67f67da7</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

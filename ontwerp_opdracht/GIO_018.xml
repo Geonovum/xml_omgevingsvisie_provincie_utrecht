@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_018</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Culturele_infrastructuur_en_monumenten_zorg.gml</bestandsnaam>
-                  <hash>7b1d973090f5fd034918c97ceaf46ec32d3e970ae0fdb92018f4a6778a92e773c45562baf68e599c6801941f306d8e90f9fea8baa3fb46c979f2960cc77988a0</hash>
+                  <hash>b0b5efb01af26042098377bed674882b3fbfd1b2966f9b528101ad1b7787e8a2f890f22c3aa6d963e6eb1058c8639572b01dcec8ce4712353dcdadca8d2b54a0</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

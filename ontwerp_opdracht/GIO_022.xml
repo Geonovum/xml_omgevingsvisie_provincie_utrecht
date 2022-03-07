@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_022</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>experimenteerruimte.gml</bestandsnaam>
-                  <hash>751419a6463413abedadc6749ffbadfcd1a6113389908d6ad2739cd0b0d50b3e891aaac0cd6ae15f350d70286e74f6924f2dd2ec537c066bee54493ebe79ee03</hash>
+                  <hash>51402314bee0e4c9d016dc7439149e8f23102299ba5ec38c7acc3574a74a40b57cd36816e895f87dfcfbc2ced6dda3ddd3e6f7e5cedf95cceeb5e188eaf4a3a2</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_074</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Snelfietsroute.gml</bestandsnaam>
-                  <hash>cd0d0a1c11b04007eec9bf89aba70d5809cf38598fd423df49e3b536eb68ce74fe99e3ddad4d1f4900404a1721041936084eaff2e50b571a978a921d8e591407</hash>
+                  <hash>d69c4574d8d62588078cfa54efea67159ecbb56ed8872baf0fd2605ba9dcf66dfc976b82f45cc270b6089e37f9aa9ca7d06ff9e315d4741de02b8de9d730eec9</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

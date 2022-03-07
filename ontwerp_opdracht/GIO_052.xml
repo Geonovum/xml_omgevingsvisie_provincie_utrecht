@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_052</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>optimaliseren_multimodaal_knooppunt.gml</bestandsnaam>
-                  <hash>ca62eff117c058cac613e2309c3436c070106d88065229b913d396cd358767336165c9caef15b308134f92de8cf2cb69e882e45400b4fa41064166f173c1929f</hash>
+                  <hash>5d6331f5320959c2deebc1708563ec9091ba5645d61a288a554a14b9f3bba48eeb69d0213b3d58218cb1df46cb767c97ea2805eda38dd44febbb790217b8f331</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

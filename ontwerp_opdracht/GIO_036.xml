@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_036</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Kernrandzone.gml</bestandsnaam>
-                  <hash>22cd156cdfbb3ae6de98f58af9d922bbd14beebb4e841cb8180aadf04e4a059766bc4b053b935eca2af3bfcd7a961c22b600dd43364e89641dd0247747ce6607</hash>
+                  <hash>1316b2b40f80eb90d87df70811077deaffe19b87a17b29b520800370cc8fa89017113d3c7026661ff962534bfe0192d58cc1cac2b4a11ace90f18385c607b50f</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

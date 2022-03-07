@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_038</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>klimaatbestendige_wateraanvoer.gml</bestandsnaam>
-                  <hash>842da84439c1a7933f0a8ba1ca90b6e29b629fd06b6bed9f58c7d992ae1cd1750dfcfdd4e824828d0c799c91b6dcd4426a985bf1bdaecfbfb6bc5645d5c067bb</hash>
+                  <hash>0a6b7cc9e2f3fd95ce39c3a0a76d79d73c30fd937d240c2b6b988a96bb7c25b399cd190d3bfb6c7778fb3d15759501e54f80c6064e5074a8e84cecc15fc733a7</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

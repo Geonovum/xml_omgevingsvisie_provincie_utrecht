@@ -34,7 +34,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200001</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Procedures' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200001"/>
                </vt:divisieaanduiding>
@@ -73,9 +73,8 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200003</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/ruimtelijkekwaliteit/id/concept/RuimtelijkeKwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/woonenleefklimaat/id/concept/WoonEnLeefklimaat' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200003"/>
                </vt:divisieaanduiding>
@@ -95,8 +94,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200004</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/woonenleefklimaat/id/concept/WoonEnLeefklimaat' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200004"/>
                </vt:divisieaanduiding>
@@ -145,9 +143,8 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200006</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/WaterEnWatersysteem' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/klimaat/id/concept/Klimaat' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200006"/>
                </vt:divisieaanduiding>
@@ -207,7 +204,7 @@
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/energietransitie/id/concept/Energietransitie' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/duurzaamheid/id/concept/Duurzaamheid' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/natuurlijkehulpbronnen/id/concept/NatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200008"/>
                </vt:divisieaanduiding>
@@ -254,9 +251,8 @@
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/economischvestigingsklimaat/id/concept/EconomischVestigingsklimaat' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/woonenleefklimaat/id/concept/WoonEnLeefklimaat' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFuncties' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/bereikbaarheid/id/concept/Bereikbaarheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200010"/>
                </vt:divisieaanduiding>
@@ -309,12 +305,9 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200012</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/bereikbaarheid/id/concept/Bereikbaarheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/duurzaamheid/id/concept/Duurzaamheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/veiligheid/id/concept/Veiligheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/ExterneVeiligheid</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200012"/>
                </vt:divisieaanduiding>
@@ -374,8 +367,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200014</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CultureelErfgoed</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CultureelErfgoed' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200014"/>
                </vt:divisieaanduiding>
@@ -424,11 +416,9 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200016</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/duurzaamheid/id/concept/Duurzaamheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/landbouw/id/concept/Landbouw' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/natuurbescherming/id/concept/Natuurbescherming' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200016"/>
                </vt:divisieaanduiding>
@@ -508,10 +498,8 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200019</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/veiligheid/id/concept/Veiligheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/ExterneVeiligheid</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/ExterneVeiligheid' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/ruimtelijkekwaliteit/id/concept/RuimtelijkeKwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200019"/>
                </vt:divisieaanduiding>
@@ -531,8 +519,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200020</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/woonenleefklimaat/id/concept/WoonEnLeefklimaat' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200020"/>
                </vt:divisieaanduiding>
@@ -555,7 +542,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200021</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/milieualgemeenenoverigemilieuaspecten/id/concept/MilieuAlgemeenEnOverigeMilieuaspecten' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200021"/>
                </vt:divisieaanduiding>
@@ -653,7 +640,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200025</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/luchtkwaliteit/id/concept/Luchtkwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Lucht</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Lucht' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200025"/>
                </vt:divisieaanduiding>
@@ -672,7 +659,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200026</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Geluid</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Geluid' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200026"/>
                </vt:divisieaanduiding>
@@ -700,7 +687,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200027</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/veiligheid/id/concept/VeiligheidExterneVeiligheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/ExterneVeiligheid</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/ExterneVeiligheid' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200027"/>
                </vt:divisieaanduiding>
@@ -721,7 +708,7 @@
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/geur/id/concept/Geur' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/milieualgemeenenoverigemilieuaspecten/id/concept/MilieuAlgemeenEnOverigeMilieuaspectenLichthinder' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/MilieuAlgemeen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200028"/>
                </vt:divisieaanduiding>
@@ -741,7 +728,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200029</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/recreatieentoerisme/id/concept/RecreatieEnToerisme' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200029"/>
                </vt:divisieaanduiding>
@@ -761,7 +748,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200030</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/recreatieentoerisme/id/concept/RecreatieEnToerismeDagrecreatie' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200030"/>
                </vt:divisieaanduiding>
@@ -807,7 +794,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200032</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/recreatieentoerisme/id/concept/RecreatieEnToerismeFietsEnWandelroutes' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200032"/>
                </vt:divisieaanduiding>
@@ -833,7 +820,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200033</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/recreatieentoerisme/id/concept/RecreatieEnToerismeRecreatiewoning' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200033"/>
                </vt:divisieaanduiding>
@@ -859,7 +846,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200034</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/recreatieentoerisme/id/concept/RecreatieEnToerismeToerisme' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200034"/>
                </vt:divisieaanduiding>
@@ -879,9 +866,8 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200035</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/WaterEnWatersysteem' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/klimaat/id/concept/Klimaat' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200035"/>
                </vt:divisieaanduiding>
@@ -904,7 +890,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200036</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/duurzaamheid/id/concept/Duurzaamheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200036"/>
                </vt:divisieaanduiding>
@@ -947,7 +933,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200038</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200038"/>
                </vt:divisieaanduiding>
@@ -967,7 +953,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200039</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/WaterEnWatersysteemGrondwaterBescherming' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200039"/>
                </vt:divisieaanduiding>
@@ -993,7 +979,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200040</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/WaterEnWatersysteemDrinkwater' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200040"/>
                </vt:divisieaanduiding>
@@ -1021,7 +1007,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200041</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/WaterEnWatersysteemOppervlaktewaterBescherming' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200041"/>
                </vt:divisieaanduiding>
@@ -1041,7 +1027,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200042</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/energietransitie/id/concept/Energietransitie' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200042"/>
                </vt:divisieaanduiding>
@@ -1087,7 +1073,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200044</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/klimaatadaptatie/id/concept/Klimaatadaptatie' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200044"/>
                </vt:divisieaanduiding>
@@ -1107,7 +1093,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200045</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/WaterEnWatersysteemWateroverlast' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200045"/>
                </vt:divisieaanduiding>
@@ -1133,8 +1119,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200046</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/WaterEnWatersysteemWaterveiligheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/ExterneVeiligheid</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200046"/>
                </vt:divisieaanduiding>
@@ -1164,9 +1149,8 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200047</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/klimaatadaptatie/id/concept/Klimaatadaptatie' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/WaterEnWatersysteemWaterschaarste' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200047"/>
                </vt:divisieaanduiding>
@@ -1186,11 +1170,9 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200048</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/WaterEnWatersysteemZwemwaterkwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/klimaatadaptatie/id/concept/Klimaatadaptatie' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/luchtkwaliteit/id/concept/Luchtkwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Lucht</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200048"/>
                </vt:divisieaanduiding>
@@ -1215,7 +1197,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200049</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200049"/>
                </vt:divisieaanduiding>
@@ -1287,7 +1269,7 @@
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/natuurlijkehulpbronnen/id/concept/NatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/energietransitie/id/concept/Energietransitie' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/duurzaamheid/id/concept/Duurzaamheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200052"/>
                </vt:divisieaanduiding>
@@ -1310,7 +1292,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200053</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/natuurlijkehulpbronnen/id/concept/NatuurlijkeHulpbronnenZon' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200053"/>
                </vt:divisieaanduiding>
@@ -1330,7 +1312,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200054</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/natuurlijkehulpbronnen/id/concept/NatuurlijkeHulpbronnenBiomassa' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200054"/>
                </vt:divisieaanduiding>
@@ -1350,7 +1332,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200055</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/natuurlijkehulpbronnen/id/concept/NatuurlijkeHulpbronnenBodemenergiesystemen' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200055"/>
                </vt:divisieaanduiding>
@@ -1376,7 +1358,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200056</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/klimaat/id/concept/Klimaat' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200056"/>
                </vt:divisieaanduiding>
@@ -1420,7 +1402,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200058</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/ruimtelijkekwaliteit/id/concept/RuimtelijkeKwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200058"/>
                </vt:divisieaanduiding>
@@ -1439,7 +1421,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200059</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200059"/>
                </vt:divisieaanduiding>
@@ -1459,7 +1441,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200060</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/natuurlijkehulpbronnen/id/concept/NatuurlijkeHulpbronnenWind' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200060"/>
                </vt:divisieaanduiding>
@@ -1485,7 +1467,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200061</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/natuurlijkehulpbronnen/id/concept/NatuurlijkeHulpbronnenWind' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200061"/>
                </vt:divisieaanduiding>
@@ -1505,11 +1487,10 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200062</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/bereikbaarheid/id/concept/Bereikbaarheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFuncties' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/economischvestigingsklimaat/id/concept/EconomischVestigingsklimaat' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/woonenleefklimaat/id/concept/WoonEnLeefklimaat' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200062"/>
                </vt:divisieaanduiding>
@@ -1540,7 +1521,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200063</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesRuimteVoorToekomstigeFuncties' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200063"/>
                </vt:divisieaanduiding>
@@ -1560,7 +1541,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200064</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesRuimteVoorToekomstigeFuncties' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200064"/>
                </vt:divisieaanduiding>
@@ -1612,7 +1593,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200066</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/ruimtelijkekwaliteit/id/concept/RuimtelijkeKwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200066"/>
                </vt:divisieaanduiding>
@@ -1638,7 +1619,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200067</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesVoorzieningen' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200067"/>
                </vt:divisieaanduiding>
@@ -1665,9 +1646,8 @@
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesWonen' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/regionalewoonagenda/id/concept/RegionaleWoonagenda' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/ruimtelijkekwaliteit/id/concept/RuimtelijkeKwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200068"/>
                </vt:divisieaanduiding>
@@ -1687,7 +1667,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200069</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesRuimteVoorToekomstigeFuncties' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200069"/>
                </vt:divisieaanduiding>
@@ -1707,7 +1687,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200070</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/economischvestigingsklimaat/id/concept/EconomischVestigingsklimaat' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200070"/>
                </vt:divisieaanduiding>
@@ -1727,7 +1707,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200071</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesVoorzieningen' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200071"/>
                </vt:divisieaanduiding>
@@ -1753,7 +1733,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200072</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesBedrijventerreinen' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200072"/>
                </vt:divisieaanduiding>
@@ -1781,9 +1761,8 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200073</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesRuimteVoorToekomstigeFuncties' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/duurzaamheid/id/concept/Duurzaamheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200073"/>
                </vt:divisieaanduiding>
@@ -1827,7 +1806,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200075</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesDetailhandel' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200075"/>
                </vt:divisieaanduiding>
@@ -1853,7 +1832,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200076</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFunctiesRuimteVoorToekomstigeFuncties' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200076"/>
                </vt:divisieaanduiding>
@@ -1881,13 +1860,9 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200077</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/veiligheid/id/concept/Veiligheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/ExterneVeiligheid</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Gezondheid</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/ExterneVeiligheid' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/duurzaamheid/id/concept/Duurzaamheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/bereikbaarheid/id/concept/Bereikbaarheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200077"/>
                </vt:divisieaanduiding>
@@ -1967,7 +1942,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200080</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200080"/>
                </vt:divisieaanduiding>
@@ -1986,7 +1961,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200081</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200081"/>
                </vt:divisieaanduiding>
@@ -2014,7 +1989,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200082</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/luchtkwaliteit/id/concept/Luchtkwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Lucht</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Lucht' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200082"/>
                </vt:divisieaanduiding>
@@ -2034,9 +2009,8 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200083</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/klimaatadaptatie/id/concept/Klimaatadaptatie' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/klimaat/id/concept/KlimaatKlimaatmitigatie' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200083"/>
                </vt:divisieaanduiding>
@@ -2079,7 +2053,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200085</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200085"/>
                </vt:divisieaanduiding>
@@ -2104,7 +2078,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200086</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200086"/>
                </vt:divisieaanduiding>
@@ -2136,9 +2110,8 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200087</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/toegankelijkheid/id/concept/Toegankelijkheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/veiligheid/id/concept/Veiligheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/ExterneVeiligheid</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200087"/>
                </vt:divisieaanduiding>
@@ -2158,11 +2131,8 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200088</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/ruimtelijkekwaliteit/id/concept/RuimtelijkeKwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CultureelErfgoed</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/toegankelijkheid/id/concept/Toegankelijkheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200088"/>
                </vt:divisieaanduiding>
@@ -2212,7 +2182,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200089</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200089"/>
                </vt:divisieaanduiding>
@@ -2238,7 +2208,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200090</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/ruimtelijkekwaliteit/id/concept/RuimtelijkeKwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200090"/>
                </vt:divisieaanduiding>
@@ -2264,8 +2234,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200091</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/toegankelijkheid/id/concept/Toegankelijkheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CultureelErfgoed</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200091"/>
                </vt:divisieaanduiding>
@@ -2284,8 +2253,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200092</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CultureelErfgoed</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CultureelErfgoed' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200092"/>
                </vt:divisieaanduiding>
@@ -2318,7 +2286,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200093</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CultureelErfgoed</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CultureelErfgoed' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200093"/>
                </vt:divisieaanduiding>
@@ -2345,7 +2313,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200094</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CultureelErfgoed</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CultureelErfgoed' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200094"/>
                </vt:divisieaanduiding>
@@ -2395,9 +2363,8 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200096</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/duurzaamheid/id/concept/Duurzaamheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/landelijkefuncties/id/concept/LandelijkeFuncties' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200096"/>
                </vt:divisieaanduiding>
@@ -2420,9 +2387,8 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200097</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/biodiversiteit/id/concept/Biodiversiteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/natuurbescherming/id/concept/Natuurbescherming' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200097"/>
                </vt:divisieaanduiding>
@@ -2442,7 +2408,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200098</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/natuurbescherming/id/concept/NatuurbeschermingNatuurnetwerk' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200098"/>
                </vt:divisieaanduiding>
@@ -2526,7 +2492,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200101</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/ruimtelijkekwaliteit/id/concept/RuimtelijkeKwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200101"/>
                </vt:divisieaanduiding>
@@ -2546,7 +2512,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200102</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/ruimtelijkekwaliteit/id/concept/RuimtelijkeKwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200102"/>
                </vt:divisieaanduiding>
@@ -2590,7 +2556,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200104</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/landbouw/id/concept/Landbouw' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200104"/>
                </vt:divisieaanduiding>
@@ -2610,7 +2576,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200105</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/circulaireeconomie/id/concept/CirculaireEconomie' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200105"/>
                </vt:divisieaanduiding>
@@ -2636,7 +2602,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200106</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/landbouw/id/concept/LandbouwVollegrondteelt' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200106"/>
                </vt:divisieaanduiding>
@@ -2679,7 +2645,7 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200108</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200108"/>
                </vt:divisieaanduiding>
@@ -2735,8 +2701,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200110</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/landelijkefuncties/id/concept/LandelijkeFunctiesVrijkomendeAgrarischeBebouwing' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bouwwerken</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200110"/>
                </vt:divisieaanduiding>
@@ -2786,7 +2751,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200112</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/circulaireeconomie/id/concept/CirculaireEconomie' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200112"/>
                </vt:divisieaanduiding>
@@ -2806,7 +2771,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200113</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/ruimtelijkekwaliteit/id/concept/RuimtelijkeKwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200113"/>
                </vt:divisieaanduiding>
@@ -2847,12 +2812,10 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200115</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/bereikbaarheid/id/concept/Bereikbaarheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/duurzaamheid/id/concept/Duurzaamheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFuncties' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/economischvestigingsklimaat/id/concept/EconomischVestigingsklimaat' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200115"/>
                </vt:divisieaanduiding>
@@ -2894,10 +2857,8 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200116</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/landelijkefuncties/id/concept/LandelijkeFuncties' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/biodiversiteit/id/concept/Biodiversiteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200116"/>
                </vt:divisieaanduiding>
@@ -2933,7 +2894,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200117</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/ruimtelijkekwaliteit/id/concept/RuimtelijkeKwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200117"/>
                </vt:divisieaanduiding>
@@ -2974,9 +2935,8 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200119</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFuncties' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/energietransitie/id/concept/Energietransitie' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200119"/>
                </vt:divisieaanduiding>
@@ -2995,21 +2955,14 @@
             <vt:Tekstdeel>
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200120</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CultureelErfgoed</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/biodiversiteit/id/concept/Biodiversiteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Natuur</vt:thema>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/circulaireeconomie/id/concept/CirculaireEconomie' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/landelijkefuncties/id/concept/LandelijkeFuncties' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/landbouw/id/concept/Landbouw' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/recreatieentoerisme/id/concept/RecreatieEnToerisme' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/waterenwatersysteem/id/concept/WaterEnWatersysteemDrinkwater' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/WaterEnWatersystemen</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Bodem</vt:thema>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/natuurbescherming/id/concept/Natuurbescherming' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200120"/>
                </vt:divisieaanduiding>
@@ -3029,7 +2982,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200121</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/ruimtelijkekwaliteit/id/concept/RuimtelijkeKwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisieRef xlink:href="nl.imow-pv26.divisie.20200121"/>
                </vt:divisieaanduiding>
@@ -3070,7 +3023,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200123</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/stedelijkefuncties/id/concept/StedelijkeFuncties' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200123"/>
                </vt:divisieaanduiding>
@@ -3090,9 +3043,7 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200124</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/landelijkefuncties/id/concept/LandelijkeFuncties' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Infrastructuur</vt:thema>
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/CultureelErfgoed</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landgebruik' is niet gevonden in waardelijsten 2.0.0.-->
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200124"/>
                </vt:divisieaanduiding>
@@ -3112,9 +3063,8 @@
                <vt:identificatie>nl.imow-pv26.tekstdeel.20200125</vt:identificatie>
                <vt:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</vt:idealisatie>
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/ruimtelijkekwaliteit/id/concept/RuimtelijkeKwaliteit' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap</vt:thema>
+               <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/thema/id/concept/Landschap' is niet gevonden in waardelijsten 2.0.0.-->
                <!--Waarde 'http://standaarden.omgevingswet.overheid.nl/duurzaamheid/id/concept/Duurzaamheid' is niet gevonden in waardelijsten 2.0.0.-->
-               <vt:thema>http://standaarden.omgevingswet.overheid.nl/thema/id/concept/EnergieEnNatuurlijkeHulpbronnen</vt:thema>
                <vt:divisieaanduiding>
                   <vt:DivisietekstRef xlink:href="nl.imow-pv26.divisietekst.20200125"/>
                </vt:divisieaanduiding>

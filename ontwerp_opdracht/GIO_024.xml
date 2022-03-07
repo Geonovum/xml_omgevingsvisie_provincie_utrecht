@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/pv26/2020/gio_024</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Geluidscontour_provinciale_wegen_61_dB.gml</bestandsnaam>
-                  <hash>d876a319fca6d917ace81d4e18f01705997b52506b4741d1426467ca6046aa819c0380e43532fc858e231d9605afc97deecdeed85aa4f578414756037c6ae437</hash>
+                  <hash>40bb257d88312bb0dfce70cf6b62580ee32d68202b84e3da8bb65d7c532def8989e694892669f02c68df985f27b8d5ef22e650a3209ee223f7216a3401cf1f25</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
